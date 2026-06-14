@@ -40,17 +40,20 @@
   /* ---- 一覧 ---- */
   main{padding:14px 16px calc(env(safe-area-inset-bottom) + 40px)}
   .topic{
-    background:var(--card); border:1px solid var(--line); border-radius:16px;
-    padding:16px; margin-bottom:12px; cursor:pointer; transition:.15s;
+    background:var(--card); border:1px solid var(--line); border-radius:14px;
+    padding:13px 14px; margin-bottom:9px; cursor:pointer; transition:.15s;
   }
   .topic:active{transform:scale(.99); background:var(--card2)}
+  .topic .meta{display:flex; align-items:center; gap:8px; margin-bottom:7px}
   .topic .cat{
-    display:inline-block; font-size:11px; font-weight:700; color:var(--accent);
-    background:var(--tag); padding:3px 9px; border-radius:6px; margin-bottom:9px;
+    display:inline-block; font-size:10.5px; font-weight:700; color:var(--accent);
+    background:var(--tag); padding:2px 8px; border-radius:6px;
   }
-  .topic h2{margin:0 0 6px; font-size:16.5px; font-weight:700; line-height:1.45}
-  .topic p{margin:0; font-size:13.5px; color:var(--muted)}
-  .topic .chev{float:right; color:var(--muted); font-size:13px; margin-top:2px}
+  .topic .date{font-size:11px; color:var(--muted); white-space:nowrap}
+  .topic h2{margin:0 0 4px; font-size:15.5px; font-weight:700; line-height:1.4}
+  .topic p{margin:0; font-size:13px; color:var(--muted);
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden}
+  .topic .chev{float:right; color:var(--muted); font-size:13px; margin-top:1px}
   /* ---- 詳細（オーバーレイ） ---- */
   .detail{
     position:fixed; inset:0; z-index:50; background:var(--bg);
@@ -66,7 +69,8 @@
   .back{background:none; border:none; color:var(--accent); font-size:15px; font-weight:600; cursor:pointer; padding:4px 2px}
   .d-body{padding:18px 18px calc(env(safe-area-inset-bottom) + 60px)}
   .d-body .cat{display:inline-block; font-size:11px; font-weight:700; color:var(--accent); background:var(--tag); padding:3px 9px; border-radius:6px; margin-bottom:12px}
-  .d-body h1{font-size:21px; font-weight:800; line-height:1.4; margin:0 0 14px}
+  .d-body h1{font-size:21px; font-weight:800; line-height:1.4; margin:0 0 8px}
+  .d-date{font-size:12.5px; color:var(--muted); margin:0 0 16px}
   .lead{font-size:15px; color:var(--text); background:var(--card); border-left:3px solid var(--accent); padding:12px 14px; border-radius:0 10px 10px 0; margin-bottom:22px}
   .sec{margin-bottom:20px}
   .sec h3{font-size:15px; font-weight:700; margin:0 0 7px; padding-left:10px; border-left:3px solid var(--accent2)}
@@ -98,6 +102,14 @@
 
 <script>
 const esc = s => String(s??"").replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function fmtDate(s, long){
+  if(!s) return '';
+  const d = new Date(s + 'T00:00:00+09:00');
+  if(isNaN(d)) return esc(s);
+  return long
+    ? d.toLocaleDateString('ja-JP',{year:'numeric',month:'long',day:'numeric'})
+    : (d.getMonth()+1) + '/' + d.getDate();
+}
 let DATA = null, activeTab = null;
 
 async function load(){
@@ -132,7 +144,10 @@ function renderList(){
   document.getElementById('list').innerHTML = topics.length ? topics.map(tp => `
     <div class="topic" data-tab="${esc(activeTab)}" data-id="${esc(tp.id)}">
       <span class="chev">›</span>
-      ${tp.category ? `<span class="cat">${esc(tp.category)}</span>` : ''}
+      <div class="meta">
+        ${tp.category ? `<span class="cat">${esc(tp.category)}</span>` : ''}
+        ${tp.date ? `<span class="date">${fmtDate(tp.date)}</span>` : ''}
+      </div>
       <h2>${esc(tp.title)}</h2>
       <p>${esc(tp.summary)}</p>
     </div>`).join('') : '<div class="empty">この時間のトピックはまだありません。</div>';
@@ -147,6 +162,7 @@ function openDetail(tabId, topicId){
   document.getElementById('detailBody').innerHTML = `
     ${tp.category ? `<span class="cat">${esc(tp.category)}</span>` : ''}
     <h1>${esc(tp.title)}</h1>
+    ${tp.date ? `<div class="d-date">🗓 ${fmtDate(tp.date, true)}</div>` : ''}
     ${tp.lead ? `<div class="lead">${esc(tp.lead)}</div>` : ''}
     ${(tp.sections||[]).map(s => `
       <div class="sec"><h3>${esc(s.heading)}</h3><p>${esc(s.body)}</p></div>`).join('')}
