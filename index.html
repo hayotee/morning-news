@@ -51,8 +51,8 @@
   }
   .topic .date{font-size:11px; color:var(--muted); white-space:nowrap}
   .topic h2{margin:0 0 4px; font-size:15.5px; font-weight:700; line-height:1.4}
-  .topic p{margin:0; font-size:13px; color:var(--muted);
-    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden}
+  .topic p{margin:0; font-size:13px; color:var(--muted); line-height:1.55;
+    display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden}
   .topic .chev{float:right; color:var(--muted); font-size:13px; margin-top:1px}
   /* ---- 詳細（オーバーレイ） ---- */
   .detail{
@@ -80,6 +80,30 @@
   .src-link{display:flex; align-items:center; justify-content:space-between; padding:12px 14px; background:var(--card); border:1px solid var(--line); border-radius:10px; margin-bottom:8px; text-decoration:none; color:var(--text); font-size:14px}
   .src-link span.ext{color:var(--muted); font-size:12px}
   .empty{text-align:center; color:var(--muted); padding:60px 20px; font-size:14px}
+  .topic .savemark{color:#f0b429; font-size:12px; margin-left:auto}
+  /* ---- 詳細アクション ---- */
+  .actions{display:flex; flex-wrap:wrap; gap:8px; margin:0 0 20px}
+  .act{
+    display:inline-flex; align-items:center; gap:5px; padding:8px 12px; border-radius:10px;
+    font-size:13px; font-weight:600; border:1px solid var(--line); background:var(--card);
+    color:var(--text); cursor:pointer; text-decoration:none;
+  }
+  .act:active{transform:scale(.97)}
+  .act.on{border-color:transparent}
+  .act.save.on{background:rgba(240,180,41,.15); color:#f0b429; border-color:rgba(240,180,41,.4)}
+  .act.up.on{background:rgba(76,141,255,.18); color:var(--accent); border-color:rgba(76,141,255,.45)}
+  .act.down.on{background:rgba(255,107,107,.15); color:#ff6b6b; border-color:rgba(255,107,107,.4)}
+  .act.ai{background:linear-gradient(135deg,var(--accent),var(--accent2)); color:#fff; border-color:transparent}
+  .ai-label{width:100%; font-size:11px; color:var(--muted); margin:2px 0 -2px}
+  .copybar{
+    display:flex; gap:8px; align-items:center; justify-content:space-between;
+    background:var(--card); border:1px solid var(--line); border-radius:12px;
+    padding:12px 14px; margin-bottom:12px; font-size:13px; color:var(--muted);
+  }
+  .copybar button{
+    background:linear-gradient(135deg,var(--accent),var(--accent2)); color:#fff; border:none;
+    padding:8px 12px; border-radius:9px; font-size:12.5px; font-weight:700; cursor:pointer; white-space:nowrap;
+  }
 </style>
 </head>
 <body>
@@ -110,7 +134,12 @@ function fmtDate(s, long){
     ? d.toLocaleDateString('ja-JP',{year:'numeric',month:'long',day:'numeric'})
     : (d.getMonth()+1) + '/' + d.getDate();
 }
-let DATA = null, activeTab = null;
+let DATA = null, activeTab = null, currentTopic = null;
+const SAVED_KEY='mn_saved', RATE_KEY='mn_rating';
+const getJSON=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}};
+const setJSON=(k,v)=>localStorage.setItem(k,JSON.stringify(v));
+const isSaved=id=>getJSON(SAVED_KEY,[]).includes(id);
+const getRating=id=>getJSON(RATE_KEY,{})[id]||0;
 
 async function load(){
   try{
@@ -124,45 +153,87 @@ async function load(){
   const d = new Date(DATA.updatedAt);
   document.getElementById('updated').textContent =
     '更新 ' + d.toLocaleString('ja-JP',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'});
-  renderTabs();
   activeTab = DATA.tabs[0]?.id;
   renderList();
 }
 
 function renderTabs(){
-  document.getElementById('tabs').innerHTML = DATA.tabs.map(t =>
-    `<div class="tab" data-id="${esc(t.id)}">${esc(t.label)}</div>`).join('');
+  const savedCount = getJSON(SAVED_KEY,[]).length;
+  document.getElementById('tabs').innerHTML =
+    DATA.tabs.map(t => `<div class="tab" data-id="${esc(t.id)}">${esc(t.label)}</div>`).join('')
+    + `<div class="tab" data-id="__saved__">🔖保存${savedCount?` (${savedCount})`:''}</div>`;
   document.querySelectorAll('.tab').forEach(el =>
-    el.onclick = () => { activeTab = el.dataset.id; renderList(); });
+    el.onclick = () => { activeTab = el.dataset.id; renderList(); window.scrollTo(0,0); });
+  document.querySelectorAll('.tab').forEach(el =>
+    el.classList.toggle('active', el.dataset.id === activeTab));
+}
+
+function topicCard(tp, tabId){
+  return `<div class="topic" data-tab="${esc(tabId)}" data-id="${esc(tp.id)}">
+    <span class="chev">›</span>
+    <div class="meta">
+      ${tp.category ? `<span class="cat">${esc(tp.category)}</span>` : ''}
+      ${tp.date ? `<span class="date">${fmtDate(tp.date)}</span>` : ''}
+      ${isSaved(tp.id) ? `<span class="savemark">🔖 保存済み</span>` : ''}
+    </div>
+    <h2>${esc(tp.title)}</h2>
+    <p>${esc(tp.summary)}</p>
+  </div>`;
 }
 
 function renderList(){
-  document.querySelectorAll('.tab').forEach(el =>
-    el.classList.toggle('active', el.dataset.id === activeTab));
-  const tab = DATA.tabs.find(t => t.id === activeTab);
-  const topics = tab?.topics || [];
-  document.getElementById('list').innerHTML = topics.length ? topics.map(tp => `
-    <div class="topic" data-tab="${esc(activeTab)}" data-id="${esc(tp.id)}">
-      <span class="chev">›</span>
-      <div class="meta">
-        ${tp.category ? `<span class="cat">${esc(tp.category)}</span>` : ''}
-        ${tp.date ? `<span class="date">${fmtDate(tp.date)}</span>` : ''}
-      </div>
-      <h2>${esc(tp.title)}</h2>
-      <p>${esc(tp.summary)}</p>
-    </div>`).join('') : '<div class="empty">この時間のトピックはまだありません。</div>';
+  renderTabs();
+  const listEl = document.getElementById('list');
+  if(activeTab === '__saved__'){
+    const saved = getJSON(SAVED_KEY,[]);
+    const items = [];
+    DATA.tabs.forEach(t => t.topics.forEach(tp => { if(saved.includes(tp.id)) items.push([tp, t.id]); }));
+    const cards = items.length
+      ? items.map(([tp,tid]) => topicCard(tp,tid)).join('')
+      : '<div class="empty">保存した記事はまだありません。<br>記事を開いて「🔖 保存」を押すとここに並びます。</div>';
+    listEl.innerHTML =
+      `<div class="copybar"><span>評価・保存をAIに渡す用にコピー</span><button onclick="copyPrefs()">コピー</button></div>` + cards;
+  } else {
+    const tab = DATA.tabs.find(t => t.id === activeTab);
+    const topics = tab?.topics || [];
+    listEl.innerHTML = topics.length
+      ? topics.map(tp => topicCard(tp, activeTab)).join('')
+      : '<div class="empty">この時間のトピックはまだありません。</div>';
+  }
   document.querySelectorAll('.topic').forEach(el =>
     el.onclick = () => openDetail(el.dataset.tab, el.dataset.id));
 }
 
-function openDetail(tabId, topicId){
-  const tab = DATA.tabs.find(t => t.id === tabId);
-  const tp = tab?.topics.find(x => x.id === topicId);
-  if(!tp) return;
+function findTopic(tabId, topicId){
+  let tab = DATA.tabs.find(t => t.id === tabId);
+  let tp = tab?.topics.find(x => x.id === topicId);
+  if(!tp){
+    for(const t of DATA.tabs){ const f = t.topics.find(x => x.id === topicId); if(f){ tp = f; tabId = t.id; break; } }
+  }
+  return tp ? {tp, tabId} : null;
+}
+
+function aiPrompt(tp){
+  return `次のニュースについて、背景・要点・なぜ重要か・世間の反応を、初心者にもわかるように詳しく解説してください。\n\nタイトル: ${tp.title}\n概要: ${tp.summary||''}`;
+}
+
+function renderDetailBody(){
+  const tp = currentTopic.tp;
+  const q = encodeURIComponent(aiPrompt(tp));
+  const saved = isSaved(tp.id), r = getRating(tp.id);
   document.getElementById('detailBody').innerHTML = `
     ${tp.category ? `<span class="cat">${esc(tp.category)}</span>` : ''}
     <h1>${esc(tp.title)}</h1>
     ${tp.date ? `<div class="d-date">🗓 ${fmtDate(tp.date, true)}</div>` : ''}
+    <div class="actions">
+      <button class="act save ${saved?'on':''}" onclick="toggleSave('${esc(tp.id)}')">${saved?'🔖 保存済み':'🔖 保存'}</button>
+      <button class="act up ${r===1?'on':''}" onclick="rate('${esc(tp.id)}',1)">👍 いい</button>
+      <button class="act down ${r===-1?'on':''}" onclick="rate('${esc(tp.id)}',-1)">👎 興味なし</button>
+      <div class="ai-label">この記事をAIにもっと詳しく聞く ↓</div>
+      <a class="act ai" href="https://claude.ai/new?q=${q}" target="_blank" rel="noopener noreferrer">Claudeに聞く</a>
+      <a class="act" href="https://chatgpt.com/?q=${q}" target="_blank" rel="noopener noreferrer">ChatGPTに聞く</a>
+      <a class="act" href="https://www.google.com/search?q=${encodeURIComponent(tp.title)}" target="_blank" rel="noopener noreferrer">🔍 検索</a>
+    </div>
     ${tp.lead ? `<div class="lead">${esc(tp.lead)}</div>` : ''}
     ${(tp.sections||[]).map(s => `
       <div class="sec"><h3>${esc(s.heading)}</h3><p>${esc(s.body)}</p></div>`).join('')}
@@ -172,15 +243,51 @@ function openDetail(tabId, topicId){
         <a class="src-link" href="${esc(src.url)}" target="_blank" rel="noopener noreferrer">
           <span>${esc(src.name)}</span><span class="ext">開く ↗</span></a>`).join('')}
     </div>`;
+}
+
+function openDetail(tabId, topicId){
+  const f = findTopic(tabId, topicId);
+  if(!f) return;
+  currentTopic = f;
+  renderDetailBody();
   const dt = document.getElementById('detail');
   dt.scrollTop = 0;
   dt.classList.add('open');
   history.pushState({detail:true}, '');
 }
 
+function toggleSave(id){
+  const arr = getJSON(SAVED_KEY,[]);
+  const i = arr.indexOf(id);
+  if(i>=0) arr.splice(i,1); else arr.push(id);
+  setJSON(SAVED_KEY, arr);
+  renderDetailBody();
+}
+
+function rate(id, v){
+  const m = getJSON(RATE_KEY,{});
+  m[id] = (m[id]===v ? 0 : v);
+  if(!m[id]) delete m[id];
+  setJSON(RATE_KEY, m);
+  renderDetailBody();
+}
+
+function copyPrefs(){
+  const saved = getJSON(SAVED_KEY,[]), m = getJSON(RATE_KEY,{});
+  const title = id => { for(const t of DATA.tabs){ const f = t.topics.find(x => x.id===id); if(f) return f.title; } return id; };
+  const ups = Object.keys(m).filter(k=>m[k]===1), downs = Object.keys(m).filter(k=>m[k]===-1);
+  let out = '【保存した記事】\n' + (saved.length ? saved.map(id=>'・'+title(id)).join('\n') : 'なし');
+  out += '\n\n【👍 いい記事】\n' + (ups.length ? ups.map(id=>'・'+title(id)).join('\n') : 'なし');
+  out += '\n\n【👎 興味なし】\n' + (downs.length ? downs.map(id=>'・'+title(id)).join('\n') : 'なし');
+  const done = () => alert('コピーしました。Claudeに貼り付けて「この傾向で次回キュレーションして」と伝えてください。');
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(out).then(done).catch(()=>prompt('コピーして使ってください', out));
+  } else { prompt('コピーして使ってください', out); }
+}
+
 function closeDetail(){ document.getElementById('detail').classList.remove('open'); }
 document.getElementById('back').onclick = () => history.back();
-window.onpopstate = () => closeDetail();
+window.onpopstate = () => { closeDetail(); renderList(); };
 
 load();
 </script>
