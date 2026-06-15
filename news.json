@@ -6,6 +6,86 @@
       "label": "トップ",
       "topics": [
         {
+          "id": "wc-japan",
+          "title": "サッカーW杯 日本がオランダと2-2ドロー 鎌田大地が土壇場の同点弾で勝ち点1",
+          "summary": "FIFAワールドカップ2026（北中米）グループF初戦で、日本が強豪オランダと2-2で引き分け。2度のビハインドを跳ね返し、後半終盤に鎌田大地が劇的な同点ゴール。価値ある勝ち点1を獲得し好スタートを切った。",
+          "category": "スポーツ",
+          "date": "2026-06-15",
+          "lead": "FIFAワールドカップ2026（北中米大会）グループF初戦で、日本代表がオランダと2-2で引き分けました（日本時間15日）。2度リードを許しながらも追いつき、初戦で価値ある勝ち点1を獲得しました。",
+          "sections": [
+            {
+              "heading": "試合の流れ",
+              "body": "前半は0-0。後半50分にオランダのファン・ダイクがヘディングで先制しますが、日本は57分に前田大然のゴールで即同点。再び勝ち越されるも、後半44分に鎌田大地が劇的な同点弾を決め、2-2でタイムアップとなりました。"
+            },
+            {
+              "heading": "意味",
+              "body": "優勝候補オランダ相手に2度追いつく粘りを見せ、勝ち点1は上々の滑り出し。決勝トーナメント進出へ向け、次戦以降に弾みのつく内容です。世間話の鉄板ネタにもなっています。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "テレ東スポーツ（鎌田の同点弾でドロー）",
+              "url": "https://www.tv-tokyo.co.jp/sports/articles/2026/06/042001.html"
+            },
+            {
+              "name": "JFA（日本代表 日程・結果）",
+              "url": "https://www.jfa.jp/samuraiblue/worldcup_2026/schedule_result/"
+            },
+            {
+              "name": "Olympics.com（W杯 日本 結果・順位）",
+              "url": "https://www.olympics.com/ja/news/fifa-world-cup-2026-japan-results-standing"
+            }
+          ]
+        },
+        {
+          "id": "nikkei-high",
+          "title": "日経平均が史上初の6万9000円台 一時3000円超急騰 米イラン合意を好感",
+          "summary": "日経平均が史上初めて6万9000円台に突入し、一時3000円超の急騰。米・イランの暫定合意（ホルムズ海峡の開放）で原油供給不安が後退し買いが膨張。AI・半導体買いと円安基調も継続。急ピッチの上昇には過熱を警戒する声も。",
+          "category": "経済",
+          "date": "2026-06-15",
+          "lead": "東京株式市場で日経平均株価が史上初めて6万9000円台に乗せ、一時3000円超の急騰となりました。米・イランの暫定合意（ホルムズ海峡の開放）を受け、中東発の原油供給不安が後退したことが買い材料になりました。",
+          "sections": [
+            {
+              "heading": "何が起きたのか",
+              "body": "原油の大動脈ホルムズ海峡の開放が見込まれ、エネルギー高への警戒が一気に和らいだことが急騰の引き金。もともとAI・半導体買い、円安、海外勢の買い越し（2026年累計約11.7兆円）で最高値圏にあった相場が、一段と勢いづきました。"
+            },
+            {
+              "heading": "論点",
+              "body": "資産形成には追い風だが、わずか1日で3000円超という急騰には過熱感も。円安由来の物価高は続いており、株高の恩恵が生活実感にどこまで及ぶかは引き続き課題です。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Yahoo!ファイナンス（マーケット）",
+              "url": "https://finance.yahoo.co.jp/news/detail/d9873bf29296813058b4a3cb74bdd83d72e9894e"
+            },
+            {
+              "name": "EBC Financial Group（最高値の背景）",
+              "url": "https://www.ebc.com/jp/forex/298829.html"
+            }
+          ]
+        },
+        {
+          "id": "bobby-arrest",
+          "title": "ボビー・オロゴン容疑者を逮捕 千葉の住宅で女性に性的暴行の疑い",
+          "summary": "タレントのボビー・オロゴン容疑者（60）が、千葉県内の住宅で女性に性的暴行を加えた疑いで逮捕された。バラエティ番組などで活躍した著名タレントの逮捕に、驚きが広がっている。",
+          "category": "社会",
+          "date": "2026-06-15",
+          "lead": "タレントのボビー・オロゴン容疑者（60）が、千葉県内の住宅で女性に性的暴行を加えた疑いで逮捕されました。テレビで広く知られる人物の逮捕として、大きく報じられています。",
+          "sections": [
+            {
+              "heading": "概要",
+              "body": "報道によると、容疑は千葉県内の住宅で女性に性的暴行を加えたというもの。詳しい経緯は捜査中です。著名タレントをめぐる事件として注目を集めています（※現時点では容疑段階の情報です）。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Yahoo!ニュース（主要トピックス）",
+              "url": "https://news.yahoo.co.jp/topics/top-picks"
+            }
+          ]
+        },
+        {
           "id": "us-iran",
           "title": "米・イランが戦闘終結へ「暫定合意」を発表 ホルムズ海峡開放を明記、G7直前に前進",
           "summary": "米国とイランが戦闘終結に向けた暫定合意を発表。14項目の覚書には原油輸送の要衝『ホルムズ海峡の開放』が明記され、30日間の追加交渉の開始も。ちょうどG7サミット開幕の直前で、原油価格・エネルギー安保に直結する重大な前進。ただし最終決着には曲折の余地も残る。",
@@ -82,6 +162,26 @@
           ]
         },
         {
+          "id": "mrs-green-award",
+          "title": "Mrs. GREEN APPLE、MUSIC AWARDS JAPAN 2026で最優秀アーティスト2連覇",
+          "summary": "Mrs. GREEN APPLEが『MUSIC AWARDS JAPAN 2026』で最優秀アーティスト賞を受賞し、2年連続の快挙。国内音楽シーンでの圧倒的な存在感を改めて示し、ファンや関係者から祝福の声が上がっている。",
+          "category": "エンタメ",
+          "date": "2026-06-15",
+          "lead": "Mrs. GREEN APPLEが『MUSIC AWARDS JAPAN 2026』で最優秀アーティスト賞を受賞し、2連覇を達成しました。日本の音楽シーンを代表する存在として、その勢いを改めて印象づけました。",
+          "sections": [
+            {
+              "heading": "ポイント",
+              "body": "2年連続の最優秀アーティスト受賞は快挙。ヒット曲を連発し、世代を超えて支持を広げています。世間話でも触れやすい明るい話題です。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Yahoo!ニュース（主要トピックス）",
+              "url": "https://news.yahoo.co.jp/topics/top-picks"
+            }
+          ]
+        },
+        {
           "id": "nichiei",
           "title": "日英首脳が経済安保で共同宣言 中国念頭に重要鉱物の輸出規制へ「深刻な懸念」",
           "summary": "高市首相とスターマー英首相が経済安保で共同宣言。中国を念頭に重要鉱物の輸出規制へ『深刻な懸念』を示し、供給網強化で連携。G7の地ならしに。",
@@ -110,110 +210,6 @@
             {
               "name": "日本経済新聞（日英首脳会談）",
               "url": "https://www.nikkei.com/article/DGXZQOUA12CBC0S6A610C2000000/"
-            }
-          ]
-        },
-        {
-          "id": "nikkei-high",
-          "title": "日経平均が史上最高値圏 一時6万6900円台、円安と半導体買いで",
-          "summary": "日経平均が一時6万6900円台と最高値圏。半導体買い・円安・海外勢の買い越しが背景。株高の一方、円安由来の物価高が家計を圧迫し恩恵の偏りが論点。",
-          "category": "経済",
-          "date": "2026-06-13",
-          "lead": "東京株式市場で日経平均株価が一時6万6900円台まで上昇し、取引時間中の過去最高値を更新しました。AI・半導体関連銘柄への買いに加え、円安進行と海外投資家の資金流入が相場を押し上げています。",
-          "sections": [
-            {
-              "heading": "何が起きたのか",
-              "body": "海外投資家は5月下旬まで8週連続で日本株を買い越し、2026年の累計買越額は約11.7兆円に到達。AI・半導体への強気と、1ドル150円前後の円安による輸出企業の収益期待が買いを支えています。"
-            },
-            {
-              "heading": "なぜ重要か",
-              "body": "株高は新NISA等での資産形成に追い風となる一方、円安は輸入物価を押し上げ家計の負担増に直結します。日本総研などは年後半以降に緩やかな円高へ向かうとの見通しも示しており、相場の前提が変わる可能性があります。"
-            },
-            {
-              "heading": "論点・世間の反応",
-              "body": "「NISAの含み益が増えた」と喜ぶ声と「物価高で生活は苦しい」という実感が交錯。株高の恩恵が資産を持つ層に偏り、実体経済・賃金にどこまで波及するかが最大の論点です。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "EBC Financial Group（最高値の理由）",
-              "url": "https://www.ebc.com/jp/forex/298829.html"
-            },
-            {
-              "name": "日本総研（為替相場展望）",
-              "url": "https://www.jri.co.jp/report/medium/exchange/"
-            }
-          ]
-        },
-        {
-          "id": "jasrac-ai",
-          "title": "JASRAC、完全AI生成の楽曲は「非著作物」 管理せずと指針公表",
-          "summary": "JASRACが指針公表。人間の創作的寄与がない完全AI生成曲は『非著作物』として管理せず。AI作曲・人間作詞などは人間部分のみ管理する線引きに。",
-          "category": "テック",
-          "date": "2026-06-12",
-          "lead": "JASRAC（日本音楽著作権協会）が6月12日、AIを使って作られた作品の取り扱い指針を公表しました。簡単な指示だけでAIが自律生成し、人間の創作的寄与がない作品は「著作物に当たらず管理しない」と明示しました。",
-          "sections": [
-            {
-              "heading": "何が決まったのか",
-              "body": "判断基準は『人間の創作的寄与の有無』。例えば作詞がAI・作曲が人間なら、曲のみ使用時は管理率100%、詞のみ使用時は0%という線引きに。データベース（J-WID）でも人間部分は『JASRAC』、AI部分は『AI』と表示されます。"
-            },
-            {
-              "heading": "背景・なぜ重要か",
-              "body": "生成AIで誰でも楽曲を作れる時代になり、権利処理のルール整備が急務でした。今回の指針は『AI単独の創作物は著作権で保護されない（人間の思想感情の表現ではない）』という考え方を、実務レベルに落とし込んだ点に意味があります。"
-            },
-            {
-              "heading": "論点・世間の反応",
-              "body": "クリエイターは『人間の創作を守る妥当な線引き』と評価。一方でAI制作者からは『どこまでが人間の寄与か曖昧』との指摘もあり、線引きの運用が今後の焦点。AIと著作権をめぐる議論はSNSでも活発化しています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "ITmedia NEWS（人間の寄与で線引き）",
-              "url": "https://www.itmedia.co.jp/news/articles/2606/11/news110.html"
-            },
-            {
-              "name": "nippon.com（非著作物の指針）",
-              "url": "https://www.nippon.com/ja/news/kd1438000110806287050/"
-            },
-            {
-              "name": "JASRAC公式（AIへの考え方）",
-              "url": "https://www.jasrac.or.jp/aboutus/ai.html"
-            }
-          ]
-        },
-        {
-          "id": "bear",
-          "title": "各地でクマ目撃相次ぐ 兵庫・神戸の住宅街近くでも 朝夕の外出注意",
-          "summary": "全国でクマ目撃が相次ぐ。神戸の市街地や宇都宮でも出没し捕獲事案も。夕方〜早朝は特に注意し、音を出す・痕跡は役所へ連絡などの基本対策が重要。",
-          "category": "暮らし",
-          "date": "2026-06-12",
-          "lead": "全国でクマの目撃情報が相次いでいます。兵庫県神戸市では6月11日に市内でツキノワグマが報告され、栃木・宇都宮では市街地でも目撃が続いています。住宅街の近くでの出没に警戒が強まっています。",
-          "sections": [
-            {
-              "heading": "何が起きているのか",
-              "body": "宇都宮では市街地でクマが麻酔銃で捕獲される事案も発生。各自治体は出没マップの公開や注意喚起を強化しています。神戸市など都市近郊でも報告があり、『山だけの問題』ではなくなっています。"
-            },
-            {
-              "heading": "対策のポイント",
-              "body": "クマは夕方から早朝にかけて人里に出やすいとされます。山や森に入る際は鈴・ラジオで音を出す、その時間帯の外出に注意する、フンや足跡などの痕跡を見たら速やかに最寄りの役場へ連絡する——が基本です。"
-            },
-            {
-              "heading": "論点",
-              "body": "「都市部でも油断できない」と不安が広がる一方、人とクマの生息域が近づく構造的問題として、駆除と共生のバランス、エサ資源や里山管理のあり方を問う声も出ています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "NHK NEWS WEB（宇都宮で捕獲ほか）",
-              "url": "https://news.web.nhk/newsweb/na/na-k10015144651000"
-            },
-            {
-              "name": "兵庫県（人身被害防止）",
-              "url": "https://web.pref.hyogo.lg.jp/nk27/hw24_000000018.html"
-            },
-            {
-              "name": "神戸市（ツキノワグマ情報）",
-              "url": "https://www.city.kobe.lg.jp/a99375/tukinowaguma.html"
             }
           ]
         }
@@ -245,10 +241,22 @@
             }
           ],
           "sources": [
-            { "name": "Anthropic 公式声明", "url": "https://www.anthropic.com/news/fable-mythos-access" },
-            { "name": "CNBC（政府指令で停止）", "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html" },
-            { "name": "TIME（最強モデルを撤回）", "url": "https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security/" },
-            { "name": "Fortune（輸出規制・安保）", "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/" }
+            {
+              "name": "Anthropic 公式声明",
+              "url": "https://www.anthropic.com/news/fable-mythos-access"
+            },
+            {
+              "name": "CNBC（政府指令で停止）",
+              "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html"
+            },
+            {
+              "name": "TIME（最強モデルを撤回）",
+              "url": "https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security/"
+            },
+            {
+              "name": "Fortune（輸出規制・安保）",
+              "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/"
+            }
           ]
         },
         {
@@ -264,13 +272,23 @@
               "body": "GPT-5.5 Instantは応答の正確性とエージェント能力を重視した刷新で、ChatGPTの標準モデルに。旧『GPT-5.2』は6月12日で提供終了となり、次世代の『GPT-5.6』を示唆するCodex系開発ツールのティザーも出ています。"
             },
             {
-              "heading": "価格戦争", "body": "背景にはAnthropicのFable 5（入力$10/100万トークン）など割安・高性能モデルの台頭があり、OpenAIはユーザー争奪を見越して大幅値下げを検討していると報じられています。モデル性能と価格の両面で各社の競争が激化しています。"
+              "heading": "価格戦争",
+              "body": "背景にはAnthropicのFable 5（入力$10/100万トークン）など割安・高性能モデルの台頭があり、OpenAIはユーザー争奪を見越して大幅値下げを検討していると報じられています。モデル性能と価格の両面で各社の競争が激化しています。"
             }
           ],
           "sources": [
-            { "name": "XenoSpectrum（GPT-5.5 Instant）", "url": "https://xenospectrum.com/gpt-55-instant-chatgpt-default/" },
-            { "name": "ビジネス+IT（GPT-5.5 発表）", "url": "https://www.sbbit.jp/article/cont1/185117" },
-            { "name": "note（OpenAI値下げ検討・価格戦争）", "url": "https://note.com/tothinks/n/ndc46175c3588" }
+            {
+              "name": "XenoSpectrum（GPT-5.5 Instant）",
+              "url": "https://xenospectrum.com/gpt-55-instant-chatgpt-default/"
+            },
+            {
+              "name": "ビジネス+IT（GPT-5.5 発表）",
+              "url": "https://www.sbbit.jp/article/cont1/185117"
+            },
+            {
+              "name": "note（OpenAI値下げ検討・価格戦争）",
+              "url": "https://note.com/tothinks/n/ndc46175c3588"
+            }
           ]
         },
         {
@@ -282,16 +300,27 @@
           "lead": "中国のZhipu AI（Z.ai）が6月13日、フラッグシップの大規模言語モデル『GLM 5.2』を公開しました。MITライセンスのオープンウェイト（重み公開）で、約100万トークンの長文脈を扱える“開かれたフロンティアモデル”として注目されています。",
           "sections": [
             {
-              "heading": "スペック", "body": "744BパラメータのMoE（Mixture-of-Experts、アクティブ40B）、実用1Mトークンの文脈長、最大出力13万トークン超でリポジトリ規模のエージェント的リファクタにも対応。GLM Coding Plan向けに即日提供、API・チャット・オープンソース版（MIT）は翌週公開予定とされます。"
+              "heading": "スペック",
+              "body": "744BパラメータのMoE（Mixture-of-Experts、アクティブ40B）、実用1Mトークンの文脈長、最大出力13万トークン超でリポジトリ規模のエージェント的リファクタにも対応。GLM Coding Plan向けに即日提供、API・チャット・オープンソース版（MIT）は翌週公開予定とされます。"
             },
             {
-              "heading": "注目点と留意点", "body": "Fable 5が米政府指令で停止されたのと対照的に、GLM 5.2は重みを公開する“オープン”路線。一方、発表時点ではSWE-bench等のベンチ数値が非公表で、実力評価は第三者ベンチ待ち。重みも公開は『来週』とされ、初日からダウンロードできるわけではない点に注意です。"
+              "heading": "注目点と留意点",
+              "body": "Fable 5が米政府指令で停止されたのと対照的に、GLM 5.2は重みを公開する“オープン”路線。一方、発表時点ではSWE-bench等のベンチ数値が非公表で、実力評価は第三者ベンチ待ち。重みも公開は『来週』とされ、初日からダウンロードできるわけではない点に注意です。"
             }
           ],
           "sources": [
-            { "name": "Pandaily（GLM-5.2 オープンソース）", "url": "https://pandaily.com/zhipu-ai-glm-5-dot-2-open-source-mit-jun2026" },
-            { "name": "Codersera（GLM 5.2 リリース）", "url": "https://codersera.com/blog/glm-5-2-release-1m-context-coding-2026/" },
-            { "name": "AIToolly（1M文脈・オープン）", "url": "https://aitoolly.com/ai-news/article/2026-06-14-zhipu-ai-releases-glm-52-a-fully-open-source-frontier-model-featuring-a-1m-context-window" }
+            {
+              "name": "Pandaily（GLM-5.2 オープンソース）",
+              "url": "https://pandaily.com/zhipu-ai-glm-5-dot-2-open-source-mit-jun2026"
+            },
+            {
+              "name": "Codersera（GLM 5.2 リリース）",
+              "url": "https://codersera.com/blog/glm-5-2-release-1m-context-coding-2026/"
+            },
+            {
+              "name": "AIToolly（1M文脈・オープン）",
+              "url": "https://aitoolly.com/ai-news/article/2026-06-14-zhipu-ai-releases-glm-52-a-fully-open-source-frontier-model-featuring-a-1m-context-window"
+            }
           ]
         },
         {
@@ -316,9 +345,18 @@
             }
           ],
           "sources": [
-            { "name": "ギズモード・ジャパン（Fable 5/Mythos 5リリース）", "url": "https://www.gizmodo.jp/article/anthropic_releases_claude_fable_5_and_mythos_5/" },
-            { "name": "Zenn（Fable 5 & Mythos 5 徹底解説）", "url": "https://zenn.dev/galirage/articles/claude-fable-5" },
-            { "name": "AWS ブログ（Fable 5 on AWS）", "url": "https://aws.amazon.com/jp/blogs/news/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/" }
+            {
+              "name": "ギズモード・ジャパン（Fable 5/Mythos 5リリース）",
+              "url": "https://www.gizmodo.jp/article/anthropic_releases_claude_fable_5_and_mythos_5/"
+            },
+            {
+              "name": "Zenn（Fable 5 & Mythos 5 徹底解説）",
+              "url": "https://zenn.dev/galirage/articles/claude-fable-5"
+            },
+            {
+              "name": "AWS ブログ（Fable 5 on AWS）",
+              "url": "https://aws.amazon.com/jp/blogs/news/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/"
+            }
           ]
         },
         {
@@ -343,9 +381,18 @@
             }
           ],
           "sources": [
-            { "name": "Satya Nadella（X / 本文）", "url": "https://x.com/satyanadella/article/2066182223213293753" },
-            { "name": "Satya Nadella（LinkedIn）", "url": "https://www.linkedin.com/posts/satyanadella_a-frontier-without-an-ecosystem-is-not-stable-activity-7471948728229322753-OoMP" },
-            { "name": "Business Today（AI時代の企業の将来）", "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/future-of-the-firm-is-the-ability-to-microsofts-satya-nadella-message-for-ai-era-536823-2026-06-15" }
+            {
+              "name": "Satya Nadella（X / 本文）",
+              "url": "https://x.com/satyanadella/article/2066182223213293753"
+            },
+            {
+              "name": "Satya Nadella（LinkedIn）",
+              "url": "https://www.linkedin.com/posts/satyanadella_a-frontier-without-an-ecosystem-is-not-stable-activity-7471948728229322753-OoMP"
+            },
+            {
+              "name": "Business Today（AI時代の企業の将来）",
+              "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/future-of-the-firm-is-the-ability-to-microsofts-satya-nadella-message-for-ai-era-536823-2026-06-15"
+            }
           ]
         },
         {
@@ -692,11 +739,11 @@
         },
         {
           "id": "nikkei-high-pe",
-          "title": "日経平均、史上最高値圏で推移 円安・半導体買い続く 物価高は重荷",
-          "summary": "日経平均は最高値圏で推移。半導体買い・円安・海外勢の買い越しが背景で1ドル150円前後。株高は資産形成に追い風だが、円安由来の物価高が家計を圧迫。",
+          "title": "日経平均が史上初の6万9000円台 米イラン合意で原油不安後退、一時3000円超高",
+          "summary": "日経平均が史上初めて6万9000円台に急騰、一時3000円超高。米イランの暫定合意でホルムズ海峡の供給不安が後退したのが引き金。半導体買い・円安・海外勢の買い越しも継続。急騰の過熱感と、円安由来の物価高への波及が論点。",
           "category": "経済",
-          "date": "2026-06-13",
-          "lead": "日経平均は一時6万6900円台と取引時間中の過去最高値を更新しました。AI・半導体買いと円安、海外投資家の資金流入（2026年累計約11.7兆円の買い越し）が背景です。",
+          "date": "2026-06-15",
+          "lead": "日経平均が史上初めて6万9000円台に乗せ、一時3000円超の急騰となりました。米イランの暫定合意（ホルムズ海峡の開放）で原油供給不安が後退したことが買い材料です。AI・半導体買いと円安、海外勢の買い越しも続いています。",
           "sections": [
             {
               "heading": "見方",
