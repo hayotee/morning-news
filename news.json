@@ -220,6 +220,34 @@
       "label": "テック",
       "topics": [
         {
+          "id": "fable5-suspend",
+          "title": "米政府指令でAnthropicがFable 5・Mythos 5を提供停止 “外国籍ユーザー禁止”の衝撃",
+          "summary": "Anthropicが6/13、米政府の輸出管理指令に従い最上位モデルFable 5・Mythos 5を全面提供停止。指令は『外国籍の利用者すべて』への提供禁止で、Fable 5のjailbreakでサイバー攻撃に使える情報を引き出せた懸念が発端。Anthropicは『誤解』として早期復旧を目指すと表明。Hacker Newsでも3,000超ポイントの大反響。",
+          "category": "AI",
+          "date": "2026-06-13",
+          "lead": "Anthropicが6月13日、米政府の輸出管理（export control）指令に従い、最上位モデル『Claude Fable 5』『Claude Mythos 5』へのアクセスを全面的に停止しました。公開からわずか数日での異例の措置で、AI・安全保障の両面から世界的な議論を呼んでいます。",
+          "sections": [
+            {
+              "heading": "何が起きたのか",
+              "body": "Anthropicは6月13日17時21分（米東部時間）に政府指令を受領し、コンプライアンスのため全顧客向けに両モデルを即時停止しました（他のモデルは影響なし）。指令の内容は『あらゆる外国籍（foreign national）の利用者』への提供禁止というものです。"
+            },
+            {
+              "heading": "発端と背景",
+              "body": "政府はFable 5を“jailbreak（脱獄）”で回避する手法を把握したとされます。報道によれば、この措置はAmazonの調査が一因で、同社のジャシーCEOがホワイトハウスに懸念を伝達。Amazonはプロンプトを使い、Fable 5からサイバー攻撃に利用しうる情報を引き出せることを示したと伝えられています。"
+            },
+            {
+              "heading": "Anthropicの反論と波紋",
+              "body": "Anthropicは指令に従いつつも『数億人に展開済みの商用モデルを、限定的なjailbreakの発見だけでリコールすべきではない』と不同意を表明。『誤解がある』とし、早期のアクセス復旧を目指すとしています。EU委員会も今回の決定の実務的影響を検討し始めるなど、規制をめぐる波紋が広がっています。"
+            }
+          ],
+          "sources": [
+            { "name": "Anthropic 公式声明", "url": "https://www.anthropic.com/news/fable-mythos-access" },
+            { "name": "CNBC（政府指令で停止）", "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html" },
+            { "name": "TIME（最強モデルを撤回）", "url": "https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security/" },
+            { "name": "Fortune（輸出規制・安保）", "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/" }
+          ]
+        },
+        {
           "id": "fable5",
           "title": "Anthropic、最上位AI「Claude Fable 5」一般公開 ベンチSOTA・Mythos級が半額以下に",
           "summary": "Anthropicが初の最上位モデル『Claude Fable 5』を6/10一般公開。SWE-bench Verified 95.0%などベンチでSOTA。価格は入力$10/出力$50でMythos Previewの半額以下。ただしBedrock版は6/12に輸出管理対応でアクセス停止。X・技術者界隈で大きな話題に。",
@@ -232,8 +260,8 @@
               "body": "コーディング能力の指標SWE-bench Verifiedで95.0%、SWE-bench Proで80.3%など、ほぼ全ベンチでSOTA（最高水準）を達成。価格は100万トークンあたり入力$10／出力$50で、従来のMythos Previewの半額以下に設定されました。同時に上位の『Mythos 5』も公開されています。"
             },
             {
-              "heading": "セーフガードと“提供停止”",
-              "body": "サイバー・生物・化学などの高リスク領域は分類器（クラシファイア）がブロックし、Claude Opus 4.8へ自動フォールバックする安全機構を搭載。一方、6月12日にはAmazon Bedrock版のFable 5／Mythos 5へのアクセスが、米政府の輸出管理指令への準拠のため停止されました（トップタブの『AIモデル提供停止』と同件）。"
+              "heading": "セーフガードと、その後の提供停止",
+              "body": "サイバー・生物・化学などの高リスク領域は分類器（クラシファイア）がブロックし、Claude Opus 4.8へ自動フォールバックする安全機構を搭載。ところが公開直後の6月13日、米政府の輸出管理指令によりFable 5／Mythos 5は全面提供停止に（→同タブ『米政府指令でAnthropicがFable 5・Mythos 5を提供停止』参照）。華々しい公開と急停止が連続した点も話題を増幅しました。"
             },
             {
               "heading": "なぜ話題か",
