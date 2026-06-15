@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T07:30:00+09:00",
+  "updatedAt": "2026-06-15T19:30:00+09:00",
   "tabs": [
     {
       "id": "top",
@@ -220,6 +220,33 @@
       "label": "テック",
       "topics": [
         {
+          "id": "fable5",
+          "title": "Anthropic、最上位AI「Claude Fable 5」一般公開 ベンチSOTA・Mythos級が半額以下に",
+          "summary": "Anthropicが初の最上位モデル『Claude Fable 5』を6/10一般公開。SWE-bench Verified 95.0%などベンチでSOTA。価格は入力$10/出力$50でMythos Previewの半額以下。ただしBedrock版は6/12に輸出管理対応でアクセス停止。X・技術者界隈で大きな話題に。",
+          "category": "AI",
+          "date": "2026-06-10",
+          "lead": "Anthropicが、初の最上位（Mythos級）モデル『Claude Fable 5』を2026年6月9日（日本時間10日）に一般公開しました。これまで限定だった最高性能モデルが広く使えるようになり、技術者コミュニティやXで大きな話題になっています。",
+          "sections": [
+            {
+              "heading": "性能と価格",
+              "body": "コーディング能力の指標SWE-bench Verifiedで95.0%、SWE-bench Proで80.3%など、ほぼ全ベンチでSOTA（最高水準）を達成。価格は100万トークンあたり入力$10／出力$50で、従来のMythos Previewの半額以下に設定されました。同時に上位の『Mythos 5』も公開されています。"
+            },
+            {
+              "heading": "セーフガードと“提供停止”",
+              "body": "サイバー・生物・化学などの高リスク領域は分類器（クラシファイア）がブロックし、Claude Opus 4.8へ自動フォールバックする安全機構を搭載。一方、6月12日にはAmazon Bedrock版のFable 5／Mythos 5へのアクセスが、米政府の輸出管理指令への準拠のため停止されました（トップタブの『AIモデル提供停止』と同件）。"
+            },
+            {
+              "heading": "なぜ話題か",
+              "body": "“高性能すぎて限定だったMythos級”が一般公開された衝撃と、半額以下という価格破壊が反響を呼んでいます。AIエージェント前提のSaaS・開発フローにも直結するため、テック界隈の関心が集中しています。"
+            }
+          ],
+          "sources": [
+            { "name": "ギズモード・ジャパン（Fable 5/Mythos 5リリース）", "url": "https://www.gizmodo.jp/article/anthropic_releases_claude_fable_5_and_mythos_5/" },
+            { "name": "Zenn（Fable 5 & Mythos 5 徹底解説）", "url": "https://zenn.dev/galirage/articles/claude-fable-5" },
+            { "name": "AWS ブログ（Fable 5 on AWS）", "url": "https://aws.amazon.com/jp/blogs/news/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/" }
+          ]
+        },
+        {
           "id": "saaspocalypse",
           "title": "「SaaSの死」は本当か AIエージェントで“シート課金”崩壊、業界が転換点",
           "summary": "AIエージェントでSaaSの『シート課金』が崩壊。2026年初にはソフト株急落『SaaSpocalypse』も。鍵は成果課金と顧客価値で、淘汰と成長が同時進行。",
@@ -261,8 +288,12 @@
           "summary": "Microsoft Build 2026開催。Copilot拡張・OpenAI Codex全職種化・Anthropic『Claude Security』。CopilotはClaudeとOpenAIを自動選択するマルチモデルへ。",
           "category": "AI",
           "date": "2026-06-03",
-          "lead": "Microsoftの開発者会議『Build 2026』が6月2〜3日に開催され、AIエージェントとマルチモデルワークフローが主要テーマになりました。複数のAIモデルを使い分ける『マルチモデル時代』への移行が鮮明になっています。",
+          "lead": "Microsoftの開発者会議『Build 2026』で、ナデラCEOが『new paradigm（新たな潮流）』を宣言。クラウド・ネイティブから“エージェント・ネイティブ・スタック”への移行を掲げ、『2026年のAIはプロンプトに答えるものではなく、仕事そのものを動かすものだ』と語りました。AIが受動的なアシスタントから、ワークフロー全体を担う自律エージェントへ進化する、というメッセージです。",
           "sections": [
+            {
+              "heading": "ナデラの基調講演（エージェント・ネイティブ）",
+              "body": "ナデラCEOは『passive assistant（受動的な補助）からactive agent（能動的なエージェント）へ』が中心テーマと強調。Microsoft Agent FrameworkやWindowsのエージェント・ランタイムが相次ぎGA（一般提供）に。あわせてNVIDIA搭載のArm版Windows PCの投入や、約96.9億ドル（$9.69B）規模の国防総省ソフト統合契約も発表されました。"
+            },
             {
               "heading": "主な発表",
               "body": "GitHub Copilot Appが拡張版（Canvases搭載）で提供開始。OpenAIはCodexを全職種向けに6プラグインで拡張。AnthropicはセキュリティAI『Claude Security』を発表し、Project Glasswingを150組織に拡大。MicrosoftのCopilotはClaude・OpenAIを自動選択する『マルチモデル体験』を実装済みです。"
@@ -288,6 +319,14 @@
             {
               "name": "Uravation（6月の生成AI総まとめ）",
               "url": "https://uravation.com/media/ai-major-updates-june-2026-anthropic-openai-google/"
+            },
+            {
+              "name": "Fortune（ナデラ: AIの中心へ）",
+              "url": "https://fortune.com/2026/06/02/microsoft-moves-to-remain-ais-center-of-gravity/"
+            },
+            {
+              "name": "Engadget（Build 2026 ライブ）",
+              "url": "https://www.engadget.com/2185601/microsoft-build-2026-live-blog-copilot-windows-news/"
             }
           ]
         },
