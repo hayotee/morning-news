@@ -247,6 +247,33 @@
           ]
         },
         {
+          "id": "nadella-ecosystem",
+          "title": "ナデラ「A frontier without an ecosystem is not stable」 “人材資本×トークン資本”論が約2800万ビュー",
+          "summary": "ナデラMS CEOの投稿エッセイが約2,800万ビューの大反響。『最良のモデルを選ぶことより、価値が広く行き渡る“フロンティア・エコシステム”の構築が優先』と主張。各社が自社知識を符号化する“学習ループ”を持ち、human capital（人材）とtoken capital（AI）を複利で増やせと説く。",
+          "category": "AI",
+          "date": "2026-06-15",
+          "lead": "MicrosoftのナデラCEOが投稿した長文エッセイ『A frontier without an ecosystem is not stable（エコシステムなきフロンティアは安定しない）』が、X・LinkedInで約2,800万ビューの大きな反響を呼んでいます。AIの価値が少数の最先端モデルに集中する世界は持続しない、という問題提起です。",
+          "sections": [
+            {
+              "heading": "主張の核心",
+              "body": "『優先すべきは“フロンティア・モデル”ではなく“フロンティア・エコシステム”の構築だ』とナデラは説きます。価値があらゆる企業・産業・国に広く流れる状態を作るべきで、各組織が自社の institutional knowledge（組織知）を符号化する“学習ループ”を所有できることが安定的な均衡だ、という論立てです。"
+            },
+            {
+              "heading": "human capital × token capital",
+              "body": "今後の企業は2種類の資本——human capital（人の知識・判断・関係構築）と token capital（自社が築くAI能力）——を共に積み上げる必要があると指摘。両者は補完的で、AIが強くなるほど人の価値はむしろ増すとし、『タスクや仕事は外注できても、学習（learning）は外注できない。企業の将来は、人とAIをまたいで学習を複利で積み上げる力だ』と結びます。"
+            },
+            {
+              "heading": "なぜ刺さるのか",
+              "body": "『最良モデルを選ぶゲーム』から『学習ループを持つゲーム』へと論点を引き上げた点が反響の理由。自社IPを保持しつつモデルを切り替えられる自主性の重要性にも触れており、本タブのマルチモデル化（CopilotのClaude採用）やFable 5の話題とも一本の線でつながります。"
+            }
+          ],
+          "sources": [
+            { "name": "Satya Nadella（X / 本文）", "url": "https://x.com/satyanadella/article/2066182223213293753" },
+            { "name": "Satya Nadella（LinkedIn）", "url": "https://www.linkedin.com/posts/satyanadella_a-frontier-without-an-ecosystem-is-not-stable-activity-7471948728229322753-OoMP" },
+            { "name": "Business Today（AI時代の企業の将来）", "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/future-of-the-firm-is-the-ability-to-microsofts-satya-nadella-message-for-ai-era-536823-2026-06-15" }
+          ]
+        },
+        {
           "id": "saaspocalypse",
           "title": "「SaaSの死」は本当か AIエージェントで“シート課金”崩壊、業界が転換点",
           "summary": "AIエージェントでSaaSの『シート課金』が崩壊。2026年初にはソフト株急落『SaaSpocalypse』も。鍵は成果課金と顧客価値で、淘汰と成長が同時進行。",
