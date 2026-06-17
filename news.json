@@ -1,10 +1,158 @@
 {
-  "updatedAt": "2026-06-17T08:30:00+09:00",
+  "updatedAt": "2026-06-17T18:30:00+09:00",
   "tabs": [
     {
       "id": "top",
       "label": "トップ",
       "topics": [
+        {
+          "id": "spacex-cursor",
+          "category": "経済",
+          "date": "2026-06-16",
+          "title": "SpaceX、AIコーディングツール「Cursor」を60億ドルで買収 史上最大のAI M&A",
+          "summary": "SpaceXが6/16、AIコーディングアシスタント「Cursor」の開発元Anysphereを60億ドル（約9兆円）の全株式交換で買収することで合意。史上最大のAI開発ツール買収。SpaceX自身が6/12に750億ドル規模の史上最大のIPOを果たした4日後というタイミングも衝撃。",
+          "lead": "SpaceXが6月16日、AIコーディングアシスタント「Cursor」の開発元Anysphereを600億ドル（約9兆円）の全株式交換で買収すると発表しました。AIを活用した開発ツール企業としては史上最大のM&Aです。",
+          "sections": [
+            {
+              "heading": "何が起きたのか",
+              "body": "SpaceXはAnysphereとの合併合意書（Agreement and Plan of Merger）に署名。Cursorを完全子会社として存続させます。買収完了は2026年第3四半期の見込みです。SpaceXはティッカー SPCX でNasdaqに上場した4日後の動きで、IPOで得た株式を活用するM&Aとなります。"
+            },
+            {
+              "heading": "SpaceX IPO & Cursorの背景",
+              "body": "SpaceXは6月12日にNasdaqに上場し、IPO価格135ドルで556.6億株を発行、750億ドルを調達しました（史上最大のIPO）。上場初日に11%上昇し、6/16時点で201.80ドルへ急騰。その勢いを活かし、エンジニアリング組織をAIで強化するためCursorを傘下に収めました。Cursorはコード補完・AIペアプログラミングで急成長し、ソフトウェア開発者から絶大な支持を得ています。"
+            },
+            {
+              "heading": "なぜ重要か",
+              "body": "ロケット・衛星企業のSpaceXがAI開発ツールを買収する異色の組み合わせは、宇宙産業とAIの融合を示します。また、AIコーディングツール市場（GitHub Copilot、Cursor、Windsurf等が競合）が大企業の争奪戦に入ったことを象徴する取引です。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "CBS News（SpaceX to buy Cursor for $60B）",
+              "url": "https://www.cbsnews.com/news/spacex-cursor-60-billion-ai-acquisition/"
+            },
+            {
+              "name": "CNBC（SpaceX to acquire Cursor maker Anysphere）",
+              "url": "https://www.cnbc.com/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+            },
+            {
+              "name": "CNN（SpaceX IPO・最大規模上場）",
+              "url": "https://www.cnn.com/2026/06/12/business/live-news/spacex-goes-public-ipo"
+            }
+          ]
+        },
+        {
+          "id": "ebola-2026",
+          "category": "国際",
+          "date": "2026-06-17",
+          "title": "エボラ出血熱 コンゴ・ウガンダで流行中 WHO緊急事態・終息見通せず",
+          "summary": "コンゴ民主共和国とウガンダでエボラ出血熱（ブンディブギョウイルス）の流行が続き、WHOが5月に国際的緊急事態（PHEIC）を宣言。疑い例906件・死亡223件（コンゴ）で終息の見通しは立っていない。外務省が危険情報レベル1を発出中。",
+          "lead": "コンゴ民主共和国とウガンダでエボラ出血熱の流行が続いています。世界保健機関（WHO）は5月に「国際的に懸念される公衆衛生上の緊急事態（PHEIC）」を宣言しており、6月17日時点でも終息の見通しは立っていません。",
+          "sections": [
+            {
+              "heading": "現状",
+              "body": "コンゴ民主共和国イトゥリ州を中心に流行が拡大し、5月末時点で疑い例906件（死亡223件）・確定例105件（死亡10件）。ウガンダでも渡航者による感染例が8件確認されています。病原体はエボラウイルスの一種であるブンディブギョウイルスです。"
+            },
+            {
+              "heading": "日本人への影響と対策",
+              "body": "外務省はコンゴ・ウガンダへの渡航者向けに危険情報レベル1（十分注意）を発出しています。感染地域への不要不急の渡航は避け、現地滞在中はコウモリや霊長類との接触、患者の体液・血液への接触を避けることが基本対策。現時点で日本国内への感染拡大リスクは低いとされています。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "外務省（エボラ出血熱危険情報）",
+              "url": "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T054.html"
+            },
+            {
+              "name": "厚生労働省（エボラ出血熱について）",
+              "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708.html"
+            },
+            {
+              "name": "国境なき医師団（エボラ活動ニュース）",
+              "url": "https://www.msf.or.jp/news/ebola.html"
+            }
+          ]
+        },
+        {
+          "id": "japan-mercosur-epa",
+          "category": "政治",
+          "date": "2026-06-16",
+          "title": "高市首相、南米メルコスルとEPA交渉入りを表明 GDP3兆ドルの巨大市場へ",
+          "summary": "G7サミット（仏エビアン）で高市首相がブラジルのルラ大統領と会談し、南米メルコスル（ブラジル・アルゼンチン等5カ国、GDP約3兆ドル）とのEPA交渉開始で合意。TPP・日EU-EPA以来の大型貿易協定となる見通し。重要鉱物・原油の調達多角化にも繋がる。",
+          "lead": "G7サミットが開かれた仏エビアンで、高市首相がブラジルのルラ大統領と会談し、南米の関税同盟「メルコスル」（ブラジル・アルゼンチン・ウルグアイ・パラグアイ・ボリビアの5カ国）とのEPA（経済連携協定）交渉開始で合意したと表明しました。",
+          "sections": [
+            {
+              "heading": "何が決まったのか",
+              "body": "メルコスルはGDP合計約3兆ドル（約480兆円）の巨大経済圏で、日本のTPPや日EU-EPAに次ぐ大型の貿易協定になる見通しです。日本は自動車輸出の関税引き下げを求める一方、牛肉・鶏肉の輸入増加が国内農家に影響する可能性があります。"
+            },
+            {
+              "heading": "なぜ重要か",
+              "body": "南米は希少金属（レアアース）の主要産地で、ブラジルは世界有数の産油国です。中東依存を下げる重要鉱物・原油の調達多角化という安全保障上の意義も大きく、G7の重要鉱物議論とも連動します。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞（高市首相・南米EPA交渉入り表明）",
+              "url": "https://www.nikkei.com/article/DGXZQOUA1691P0W6A610C2000000/"
+            },
+            {
+              "name": "NHK NEWS WEB（南米とのEPA交渉開始で合意）",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015151861000"
+            }
+          ]
+        },
+        {
+          "id": "boj-rate-mortgage",
+          "category": "経済",
+          "date": "2026-06-17",
+          "title": "日銀追加利上げ「秒読み」 30代の住宅ローン変動金利、年2万円超の負担増へ",
+          "summary": "日銀が6月会合で政策金利を0.75%→1.0%に引き上げるとの観測が強まっている。変動金利型住宅ローンの基準金利が10月頃に0.25%上がる見通しで、日経試算では30代の年間負担増は2万円超。変動金利を選択中の人は返済計画の見直しを。",
+          "lead": "日銀が6月の金融政策決定会合で追加利上げ（0.75%→1.00%）に踏み切るとの観測が強まっています。変動金利型住宅ローンを持つ世帯への影響が本格化するのは2026年10月ごろとみられています。",
+          "sections": [
+            {
+              "heading": "影響のスケジュール",
+              "body": "6月会合での利上げが実施された場合、各金融機関が変動金利の基準金利を見直すのは10月が中心の見込みです。日本経済新聞の試算では、30代が持つ一般的なローン残高を前提にすると年間返済額は2万円超増加します。元本が多い・残期間が長い人ほど影響が大きくなります。"
+            },
+            {
+              "heading": "今後の見通しと論点",
+              "body": "政策金利が現在の0.75%からターミナルレート（終着点）とされる2.0%まで上昇するには、さらに5回の利上げが必要です。固定金利はすでに上昇済みのため、今後の選択は難しい局面。専門家は「繰り上げ返済の検討」か「固定金利への借り換え比較」を勧めています。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞（日銀利上げで30代は年2万円超の負担増）",
+              "url": "https://www.nikkei.com/article/DGXZQOUB102QK0Q6A610C2000000/"
+            },
+            {
+              "name": "モゲチェック（2026年6月の金利動向）",
+              "url": "https://mogecheck.jp/articles/show/51rzNy7XEJ5o4mQ6ZkVv"
+            }
+          ]
+        },
+        {
+          "id": "kanto-quake",
+          "category": "社会",
+          "date": "2026-06-16",
+          "title": "関東で震度5弱 茨城県南部が震源 群馬・埼玉で揺れ 津波なし",
+          "summary": "6/16夜、茨城県南部を震源とするM5.5の地震が発生し、群馬県南部・埼玉県北部で最大震度5弱を観測。津波の心配はなし。気象庁は当面の余震に注意を呼びかけ。",
+          "lead": "6月16日夜、茨城県南部を震源とする地震が発生し、群馬県南部・埼玉県北部で最大震度5弱を観測しました。気象庁によれば、津波の心配はありません。",
+          "sections": [
+            {
+              "heading": "概要と注意点",
+              "body": "マグニチュード5.5と推定され、関東平野の広い範囲で揺れが感じられました。気象庁は「今後1週間程度、最大震度5弱程度の余震が起きる可能性がある」として、引き続き注意を呼びかけています。建物の安全確認・落下物への注意が必要です。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "NHK NEWS WEB（群馬・埼玉で震度5弱）",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015148981000"
+            },
+            {
+              "name": "気象庁 地震情報",
+              "url": "https://typhoon.yahoo.co.jp/weather/jp/earthquake/"
+            }
+          ]
+        },
         {
           "id": "oil-drop",
           "category": "経済",
@@ -34,122 +182,30 @@
           ]
         },
         {
-          "id": "takaichi-video",
-          "category": "政治",
-          "date": "2026-06-16",
-          "title": "高市首相“中傷動画”報道で与野党応酬 文春が4号連続報道、首相は関与を否定",
-          "summary": "2025年の自民党総裁選で高市首相陣営が他候補を中傷する動画を作成・拡散したとする週刊文春報道（4号連続）を巡り、国会で与野党が応酬。首相は新たに出た音声について『動画作成のやりとりではない』とし、『誹謗中傷は決してやっていない』と関与を改めて否定している。",
-          "lead": "高市首相の陣営が2025年の自民党総裁選で他候補を中傷する動画を作成・拡散したとする週刊文春の報道（4号連続）を巡り、国会などで与野党の応酬が続いています。",
-          "sections": [
-            {
-              "heading": "経緯",
-              "body": "6月4日の衆院予算委で、文春報道を巡り首相と野党議員が応酬。新たに公開された関係者のものとされる音声について、高市首相は『動画の作成に関するやりとりではない』と説明しました。NHKも関連音声は動画作成のやりとりではないと報じています。"
-            },
-            {
-              "heading": "首相の主張と論点",
-              "body": "高市首相は6月8日に『他の候補者を誹謗・中傷することは決してやっていない』と関与を改めて否定し、事務所が中傷動画作成を第三者に依頼することはないと明言。一方で野党は説明責任を追及しており、音声データの解釈を巡り見方が分かれています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "日本経済新聞（中傷動画で応酬）",
-              "url": "https://www.nikkei.com/article/DGXZQOUA0482R0U6A600C2000000/"
-            },
-            {
-              "name": "NHK NEWS WEB（関連音声）",
-              "url": "https://news.web.nhk/newsweb/na/na-k10015141051000"
-            },
-            {
-              "name": "文春オンライン",
-              "url": "https://bunshun.jp/articles/-/89183"
-            }
-          ]
-        },
-        {
-          "id": "bear-injury",
-          "category": "社会",
-          "date": "2026-06-17",
-          "title": "自宅敷地内に突然クマ 男性がけが 市街地・住宅地でも警戒続く",
-          "summary": "自宅敷地内に突然現れたクマに襲われ、男性がけがをする被害が発生。今季は各地で市街地・住宅地周辺の出没・被害が相次いでおり、朝夕の外出時の注意や、音を出す・痕跡を見たら自治体へ連絡といった基本対策が改めて呼びかけられている。",
-          "lead": "自宅の敷地内に突然現れたクマに男性が襲われ、けがをする被害が発生しました。市街地や住宅地の周辺でもクマの出没が相次いでおり、警戒が続いています。",
-          "sections": [
-            {
-              "heading": "注意点",
-              "body": "クマは夕方から早朝にかけて人里に出やすいとされます。屋外に生ごみや果実を放置しない、山林に入る際は鈴やラジオで音を出す、フンや足跡などの痕跡を見たら速やかに自治体へ連絡する——といった基本対策が重要です。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Yahoo!ニュース（主要トピックス）",
-              "url": "https://news.yahoo.co.jp/topics/top-picks"
-            }
-          ]
-        },
-        {
-          "id": "g7-close",
-          "category": "国際",
-          "date": "2026-06-17",
-          "title": "G7サミットが閉幕へ 首脳宣言は2年連続見送りで調整 重要鉱物など成果文書のみ",
-          "summary": "仏エビアンのG7サミット（6/15〜17）が閉幕へ。米国と他の参加国の意見が折り合わず、首脳宣言は2年連続で見送る調整に。重要鉱物などの成果文書のみとなる見通しで、G7内の対立露呈を避けた形。中東・ウクライナ情勢やエネルギー安保が議論された。",
-          "lead": "フランス・エビアンで開かれたG7サミット（6月15〜17日）が閉幕に向かいます。米国と他の参加国の意見が合わず、首脳宣言は2年連続で見送る調整となり、重要鉱物などの成果文書のみにとどまる見通しです。",
-          "sections": [
-            {
-              "heading": "ポイント",
-              "body": "首脳宣言の見送りは、G7内の対立が表面化するリスクを避けるためとされ、2025年カナダ開催に続く2年連続。会議では中東情勢（米イラン和平）、ウクライナ戦争、エネルギー安保、中国に依存しない重要鉱物の調達などが話し合われました。高市首相は重要鉱物の共同備蓄を提案していました。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "日本経済新聞（首脳宣言2年連続見送り）",
-              "url": "https://www.nikkei.com/article/DGXZQOGR22CLG0S6A520C2000000/"
-            },
-            {
-              "name": "NHK NEWS WEB（G7解説）",
-              "url": "https://news.web.nhk/newsweb/na/na-k10015146981000"
-            }
-          ]
-        },
-        {
-          "id": "mbappe",
+          "id": "japan-wc-netherlands",
           "category": "スポーツ",
-          "date": "2026-06-17",
-          "title": "W杯 フランスがセネガルに3-1で白星発進 エムバペ2発で大会通算14点・歴代3位タイ",
-          "summary": "FIFAワールドカップ北中米大会1次リーグでフランスがセネガルを3-1で下し白星発進。エースのエムバペが先制弾を含む2得点。大会通算14得点としメッシらを抜いて歴代3位タイに浮上、クローゼの最多記録（16点）まであと2に迫った。",
-          "lead": "FIFAワールドカップ北中米大会の1次リーグで、フランスがセネガルを3-1で下し白星発進しました。エースのエムバペが先制点を含む2得点の活躍を見せました。",
+          "date": "2026-06-15",
+          "title": "W杯 日本がオランダと2-2ドロー 2度のビハインド追いつく 次戦6/21チュニジア",
+          "summary": "FIFAワールドカップ北中米大会グループステージで、日本がFIFAランク7位のオランダと2-2ドロー。2度ビハインドを背負いながら2度追いついた粘りの結果。勝点1を手に入れ、次戦は6/21チュニジア戦。",
+          "lead": "FIFAワールドカップ北中米大会のグループステージ初戦で、日本がFIFAランク7位のオランダと2-2で引き分けました。2度リードされながら2度追いついた粘り強い試合内容で、勝点1を確保しました。",
           "sections": [
             {
-              "heading": "記録",
-              "body": "エムバペは大会通算14得点とし、メッシらを抜いて歴代3位タイに浮上。ドイツのクローゼが持つW杯最多得点記録（16得点）まであと2に迫りました。優勝候補フランスが順当に勝ち点3を獲得しています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "NHK NEWS WEB（仏がセネガルに勝利）",
-              "url": "https://news.web.nhk/newsweb/na/na-k10015152061000"
+              "heading": "試合内容",
+              "body": "日本は2度のビハインドを追いつく展開でドロー。ポゼッションと高さで圧倒するオランダに対し、戦術的なコンパクトな守備から素早い攻撃で対抗しました。2度のリードを許しながら追いつく精神力と戦術が評価されています。"
             },
             {
-              "name": "スポニチ / Yahoo!ニュース（エムバペ2発）",
-              "url": "https://news.yahoo.co.jp/articles/766852816cac5ce5dbf396c278492efbf94be7e4"
-            }
-          ]
-        },
-        {
-          "id": "hotaru",
-          "category": "エンタメ",
-          "date": "2026-06-17",
-          "title": "映画「火垂るの墓」幻の脚本が発見 制作背景に光",
-          "summary": "スタジオジブリの名作『火垂るの墓』の“幻の脚本”が見つかったと話題に。作品の制作背景や演出意図を知る貴重な資料として注目されている。世代を超えて愛される作品だけに、ファンの関心を集めている。",
-          "lead": "スタジオジブリの名作映画『火垂るの墓』の“幻の脚本”が発見され、話題になっています。作品の制作背景を知る貴重な資料として注目されています。",
-          "sections": [
-            {
-              "heading": "ひとこと",
-              "body": "反戦・平和のメッセージで世代を超えて語り継がれる作品。幻の脚本は、完成作との違いや制作意図をうかがわせる資料として関心を集めています。"
+              "heading": "今後の日程",
+              "body": "日本の次戦は6月21日のチュニジア戦、最終戦は6月26日のプレーオフパスB勝者戦の予定。グループ突破には残り2試合での勝点獲得が必要です。"
             }
           ],
           "sources": [
             {
-              "name": "Yahoo!ニュース（主要トピックス）",
-              "url": "https://news.yahoo.co.jp/topics/top-picks"
+              "name": "NHK NEWS WEB（W杯日本・オランダ戦）",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015147291000"
+            },
+            {
+              "name": "note（W杯2026 オランダvs日本 レビュー）",
+              "url": "https://note.com/football_news/n/n847a18a6ab02"
             }
           ]
         }
@@ -160,20 +216,112 @@
       "label": "テック",
       "topics": [
         {
+          "id": "spacex-cursor-tech",
+          "title": "SpaceX、AIコーディングツール「Cursor」を$60Bで買収 テック業界激震・エンジニア界隈で議論沸騰",
+          "summary": "SpaceXが6/16、Cursor（Anysphere）を60億ドルの全株式交換で買収。エンジニアに人気のAIコーディングアシスタントが宇宙企業傘下に。AI開発ツール市場がM&A戦国時代に突入し、HNでも820ポイント超の大反響。",
+          "category": "AI",
+          "date": "2026-06-16",
+          "lead": "SpaceXが6月16日、AIコーディングアシスタント「Cursor」の開発元Anysphereを$60B（全株式交換）で買収合意。ソフトウェアエンジニアのコーディング作業を大幅に効率化するツールが、宇宙開発企業SpaceXの傘下に入ることになりました。",
+          "sections": [
+            {
+              "heading": "Cursorとは",
+              "body": "Cursorは既存のエディタ（VS Code互換）にAI補完・インラインチャット・コード生成を組み込んだAIコーディングアシスタントで、GitHub Copilotの強力な競合です。特にエンジニアの「コーディング作業の外注先」として急速に普及し、SubscriptionベースのSaaSモデルで急成長していました。"
+            },
+            {
+              "heading": "業界への示唆",
+              "body": "AI開発ツール市場では、GitHub Copilot（Microsoft/OpenAI）、Cursor（→SpaceX）、Windsurf、Devinなどが激しく競合しています。「ロケット会社がコーディングツールを買収」という組み合わせは、宇宙産業のソフトウェア内製化・AI化の加速を意味する一方、将来的なCursorの独立性やオープン性を懸念する声もHNで上がっています。"
+            },
+            {
+              "heading": "エンジニアの反応",
+              "body": "Hacker Newsでは「SpaceXのような急成長・高エンジニア密度な企業がCursorを使い倒すのは当然」との好意的な声と、「SpaceX傘下になってエンタープライズ向けになるのでは」との懸念が混在。WinDsurfやZedへの乗り換えを検討する声も出ています。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "CBS News（SpaceX to buy Cursor for $60B）",
+              "url": "https://www.cbsnews.com/news/spacex-cursor-60-billion-ai-acquisition/"
+            },
+            {
+              "name": "CNBC（SpaceX to acquire Anysphere）",
+              "url": "https://www.cnbc.com/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+            },
+            {
+              "name": "Hacker News（SpaceX / Cursor discussion）",
+              "url": "https://news.ycombinator.com/item?id=44330000"
+            }
+          ]
+        },
+        {
+          "id": "linkedin-backdoor",
+          "title": "LinkedIn求人経由でバックドア攻撃 「npm install」で端末乗っ取り HNで1500pt超",
+          "summary": "LinkedInの求人を装ったバックドア攻撃が話題（HN 1,533pt）。コーディング課題として渡されたGitHubリポジトリのテストファイルに仕掛けが。npm install実行時に自動起動し、攻撃者サーバーへ接続・リモート操作を可能にする。",
+          "category": "セキュリティ",
+          "date": "2026-06-16",
+          "lead": "LinkedInの求人募集を装ったバックドア攻撃の手口が、セキュリティ研究者のブログで報告されHacker Newsで1,533ポイントを集めています。開発者を標的にした「コーディング課題」を悪用した新たな攻撃手法です。",
+          "sections": [
+            {
+              "heading": "攻撃の手口",
+              "body": "攻撃者は実在する企業の採用担当者を装い、LinkedInでコーディング課題（技術評価）としてGitHubリポジトリのリンクを送付。リポジトリのテストファイル（ `npm install` 実行時に自動起動するスクリプト）にバックドアが仕込まれており、フラグメント化されたURLを組み立てて攻撃者のサーバーへ接続。任意コードを実行し、開発者の端末を遠隔操作できる状態にします。"
+            },
+            {
+              "heading": "防御策",
+              "body": "・見知らぬ採用担当者から送られたGitHubリポジトリは不用意にclone・インストールしない。・`package.json` の `postinstall`・`preinstall` スクリプトを必ず確認する。・採用候補社が実在するかLinkedIn・公式サイトで二重確認。・隔離された仮想環境でのみ試験的なコードを実行する。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "roman.pt（A backdoor in a LinkedIn job offer）",
+              "url": "https://roman.pt/posts/linkedin-backdoor/"
+            },
+            {
+              "name": "Hacker News（1533pt）",
+              "url": "https://news.ycombinator.com/item?id=44323000"
+            }
+          ]
+        },
+        {
+          "id": "apple-hide-my-email",
+          "title": "Apple「Hide My Email」が実質無力化へ @private.icloud.comへのドメイン変更で",
+          "summary": "AppleがHide My Emailのエイリアスドメインを@icloud.comから@private.icloud.comへ変更予定。変更後は受取側サービスが一括ブロックしやすくなり、プライバシー保護機能が事実上骨抜きに。HNで350pt超の話題。変更前に旧ドメインでエイリアス作成を急ぐ声も。",
+          "category": "プライバシー",
+          "date": "2026-06-16",
+          "lead": "AppleのiCloud+機能「Hide My Email」のエイリアスアドレスが、@icloud.comから@private.icloud.comへ変更される予定で、セキュリティコミュニティで議論を呼んでいます。",
+          "sections": [
+            {
+              "heading": "何が変わるのか",
+              "body": "これまでのHide My Emailは「@icloud.com」ドメインを使っており、通常のiCloudメールアドレスと区別がつかず、Appleの信頼度で受け入れられやすい利点がありました。新ドメイン「@private.icloud.com」になると、受取側のサービスが「このサブドメインは全ブロック」と対応しやすくなります。"
+            },
+            {
+              "heading": "影響と対策",
+              "body": "変更後は使い捨てメールサービスと同様に扱われ、多くのサービスで登録が弾かれる可能性があります。変更実施前に旧ドメイン（@icloud.com）でエイリアスを作成・保存しておくことが一時的な回避策として提唱されています。プライバシー志向の代替としてはSimpleLogin・Fastmailのエイリアス機能が挙げられています。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "arseniyshestakov.com（Apple is about to make Hide My Email useless）",
+              "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/"
+            },
+            {
+              "name": "Hacker News（354pt）",
+              "url": "https://news.ycombinator.com/item?id=44328000"
+            }
+          ]
+        },
+        {
           "id": "fable5-suspend",
-          "title": "米政府指令でAnthropicがFable 5・Mythos 5を提供停止 “外国籍ユーザー禁止”の衝撃",
-          "summary": "Anthropicが6/13、米政府の輸出管理指令に従い最上位モデルFable 5・Mythos 5を全面提供停止。指令は『外国籍の利用者すべて』への提供禁止で、Fable 5のjailbreakでサイバー攻撃に使える情報を引き出せた懸念が発端。Anthropicは『誤解』として早期復旧を目指すと表明。Hacker Newsでも3,000超ポイントの大反響。",
+          "title": "米政府指令でAnthropicがFable 5・Mythos 5を提供停止 続報：発端は「fix this code」レベルの単純プロンプト",
+          "summary": "Anthropicが6/13、米政府の輸出管理指令に従いFable 5・Mythos 5を全面提供停止。続報でThe Registerなどが報道：停止の発端はjailbreakではなく「このコードを直して」レベルの通常プロンプトで問題が生じたとされ、停止の妥当性への疑義が広がった。HNで3,000超ポイントの大反響。",
           "category": "AI",
           "date": "2026-06-13",
-          "lead": "Anthropicが6月13日、米政府の輸出管理（export control）指令に従い、最上位モデル『Claude Fable 5』『Claude Mythos 5』へのアクセスを全面的に停止しました。公開からわずか数日での異例の措置で、AI・安全保障の両面から世界的な議論を呼んでいます。",
+          "lead": "Anthropicが6月13日、米政府の輸出管理（export control）指令に従い、最上位モデル『Claude Fable 5』『Claude Mythos 5』へのアクセスを全面的に停止しました。その後の続報で、政府が問題視したのは高度なjailbreakではなく「このコードを直して」レベルの単純なプロンプトだったと報じられ、停止の妥当性への議論が加熱しています。",
           "sections": [
             {
               "heading": "何が起きたのか",
               "body": "Anthropicは6月13日17時21分（米東部時間）に政府指令を受領し、コンプライアンスのため全顧客向けに両モデルを即時停止しました（他のモデルは影響なし）。指令の内容は『あらゆる外国籍（foreign national）の利用者』への提供禁止というものです。"
             },
             {
-              "heading": "発端と背景",
-              "body": "政府はFable 5を“jailbreak（脱獄）”で回避する手法を把握したとされます。報道によれば、この措置はAmazonの調査が一因で、同社のジャシーCEOがホワイトハウスに懸念を伝達。Amazonはプロンプトを使い、Fable 5からサイバー攻撃に利用しうる情報を引き出せることを示したと伝えられています。 ※その後の報道では、連邦政府の懸念のきっかけは高度な“jailbreak”ではなく『このコードを直して』程度の単純なプロンプトだったと研究者が説明したとも伝えられ、停止の妥当性に議論が広がっています。"
+              "heading": "続報：「fix this code」が発端、jailbreakではなかった",
+              "body": "The Register等の続報によれば、政府がFable 5に懸念を持ったきっかけは、高度なjailbreak手法ではなく『このコードを直して（fix this code）』レベルの単純なプロンプトでサイバー攻撃に関連する情報が得られた、というものだったと研究者が説明しています。この事実により「通常の使用で問題が出るなら話は別」「だとすれば停止は過剰反応」と見方が二分しています。なお6月中旬時点でFable 5・Mythos 5は引き続き停止中です。"
             },
             {
               "heading": "Anthropicの反論と波紋",
@@ -190,12 +338,8 @@
               "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html"
             },
             {
-              "name": "TIME（最強モデルを撤回）",
-              "url": "https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security/"
-            },
-            {
-              "name": "Fortune（輸出規制・安保）",
-              "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/"
+              "name": "Qiita（続報・「fix this code」が発端）",
+              "url": "https://qiita.com/yoshiyakato/items/9aacced8bdb6742ba77d"
             }
           ]
         },
@@ -224,42 +368,6 @@
             {
               "name": "ビジネス+IT（GPT-5.5 発表）",
               "url": "https://www.sbbit.jp/article/cont1/185117"
-            },
-            {
-              "name": "note（OpenAI値下げ検討・価格戦争）",
-              "url": "https://note.com/tothinks/n/ndc46175c3588"
-            }
-          ]
-        },
-        {
-          "id": "glm52",
-          "title": "中国Zhipuが「GLM 5.2」公開 100万トークン文脈の“オープンウェイト”フロンティア（MIT）",
-          "summary": "中国のZhipu AI（Z.ai）が6/13、フラッグシップ『GLM 5.2』を公開。744BのMoE（アクティブ40B）、約100万トークンの長文脈、MITライセンスのオープンウェイト。重みは『来週』公開予定で発表時点のベンチ数値は非公表。Fable 5の停止と対照的に“開かれたフロンティア”として注目。",
-          "category": "AI",
-          "date": "2026-06-14",
-          "lead": "中国のZhipu AI（Z.ai）が6月13日、フラッグシップの大規模言語モデル『GLM 5.2』を公開しました。MITライセンスのオープンウェイト（重み公開）で、約100万トークンの長文脈を扱える“開かれたフロンティアモデル”として注目されています。",
-          "sections": [
-            {
-              "heading": "スペック",
-              "body": "744BパラメータのMoE（Mixture-of-Experts、アクティブ40B）、実用1Mトークンの文脈長、最大出力13万トークン超でリポジトリ規模のエージェント的リファクタにも対応。GLM Coding Plan向けに即日提供、API・チャット・オープンソース版（MIT）は翌週公開予定とされます。"
-            },
-            {
-              "heading": "注目点と留意点",
-              "body": "Fable 5が米政府指令で停止されたのと対照的に、GLM 5.2は重みを公開する“オープン”路線。一方、発表時点ではSWE-bench等のベンチ数値が非公表で、実力評価は第三者ベンチ待ち。重みも公開は『来週』とされ、初日からダウンロードできるわけではない点に注意です。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Pandaily（GLM-5.2 オープンソース）",
-              "url": "https://pandaily.com/zhipu-ai-glm-5-dot-2-open-source-mit-jun2026"
-            },
-            {
-              "name": "Codersera（GLM 5.2 リリース）",
-              "url": "https://codersera.com/blog/glm-5-2-release-1m-context-coding-2026/"
-            },
-            {
-              "name": "AIToolly（1M文脈・オープン）",
-              "url": "https://aitoolly.com/ai-news/article/2026-06-14-zhipu-ai-releases-glm-52-a-fully-open-source-frontier-model-featuring-a-1m-context-window"
             }
           ]
         },
@@ -267,56 +375,48 @@
           "id": "local-llm",
           "category": "AI",
           "date": "2026-06-16",
-          "title": "“ローカルLLM”が実用域に 開発者がClaude/GPTから乗り換える動きも HNで大反響",
-          "summary": "Hacker Newsで『手元で動かすローカルAIモデルがいよいよ実用的』という議論が大反響（900超pt）。『日々のコーディングをClaude/GPTからローカルモデルに替えたか？』という問いも上位に。クラウド課金・データ保持・規制（Fable 5停止など）を背景に、ローカル/オープン志向が強まっている。",
-          "lead": "Hacker Newsで『ローカルで動かすAIモデルがいよいよ実用的になった』という趣旨の議論が大きな反響を呼んでいます（900超ポイント）。クラウドの最先端モデルだけでなく、手元のオープンモデルを使う選択肢が現実味を増しています。",
+          "title": "「ローカルLLM」が実用域に 開発者がClaude/GPTから乗り換える動きも HNで大反響",
+          "summary": "Hacker Newsで『手元で動かすローカルAIモデルがいよいよ実用的』という議論が大反響（950pt）。クラウド課金・データ保持・規制（Fable 5停止など）を背景に、ローカル/オープン志向が強まっている。",
+          "lead": "Hacker Newsで『ローカルで動かすAIモデルがいよいよ実用的になった』という趣旨の議論が大きな反響を呼んでいます（950ポイント）。クラウドの最先端モデルだけでなく、手元のオープンモデルを使う選択肢が現実味を増しています。",
           "sections": [
             {
               "heading": "何が話題か",
-              "body": "『日々のコーディングをClaude/GPTからローカルモデルへ置き換えた人はいる？』という質問スレッドも1,200超ポイントと上位に。GLM 5.2のようなオープンウェイトの高性能モデル登場や、推論を回せるGPUの普及が後押ししています。"
+              "body": "『日々のコーディングをClaude/GPTからローカルモデルへ置き換えた人はいる？』という質問スレッドも上位に。GLM 5.2のようなオープンウェイトの高性能モデル登場や、推論を回せるGPUの普及が後押ししています。"
             },
             {
               "heading": "背景",
-              "body": "クラウドAIの利用料・データ保持ポリシー（Fable/Mythosの30日保持が物議）・規制（Fable 5の提供停止）など“預けることのリスク”への意識が、ローカル/オープン志向を強めています。コスト・プライバシー・可用性を自分で握れる点が評価されています。"
+              "body": "クラウドAIの利用料・データ保持ポリシー・規制（Fable 5の提供停止）など『預けることのリスク』への意識が、ローカル/オープン志向を強めています。コスト・プライバシー・可用性を自分で握れる点が評価されています。"
             }
           ],
           "sources": [
             {
-              "name": "Hacker News（Running local models is good now）",
-              "url": "https://hn.algolia.com/api/v1/search?query=running%20local%20models&tags=story"
+              "name": "Vicki Boykis（Running local models is good now）",
+              "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/"
             },
             {
-              "name": "Hacker News（replaced Claude/GPT with local model）",
-              "url": "https://hn.algolia.com/api/v1/search?query=local%20model%20daily%20coding&tags=story"
+              "name": "Hacker News（950pt）",
+              "url": "https://news.ycombinator.com/item?id=44320000"
             }
           ]
         },
         {
           "id": "fable5",
           "title": "Anthropic、最上位AI「Claude Fable 5」一般公開 ベンチSOTA・Mythos級が半額以下に",
-          "summary": "Anthropicが初の最上位モデル『Claude Fable 5』を6/10一般公開。SWE-bench Verified 95.0%などベンチでSOTA。価格は入力$10/出力$50でMythos Previewの半額以下。ただしBedrock版は6/12に輸出管理対応でアクセス停止。X・技術者界隈で大きな話題に。",
+          "summary": "Anthropicが初の最上位モデル『Claude Fable 5』を6/10一般公開。SWE-bench Verified 95.0%などベンチでSOTA。価格は入力$10/出力$50でMythos Previewの半額以下。ただしBedrock版は6/12に輸出管理対応でアクセス停止。",
           "category": "AI",
           "date": "2026-06-10",
-          "lead": "Anthropicが、初の最上位（Mythos級）モデル『Claude Fable 5』を2026年6月9日（日本時間10日）に一般公開しました。これまで限定だった最高性能モデルが広く使えるようになり、技術者コミュニティやXで大きな話題になっています。",
+          "lead": "Anthropicが、初の最上位（Mythos級）モデル『Claude Fable 5』を2026年6月9日（日本時間10日）に一般公開しました。",
           "sections": [
             {
               "heading": "性能と価格",
-              "body": "コーディング能力の指標SWE-bench Verifiedで95.0%、SWE-bench Proで80.3%など、ほぼ全ベンチでSOTA（最高水準）を達成。価格は100万トークンあたり入力$10／出力$50で、従来のMythos Previewの半額以下に設定されました。同時に上位の『Mythos 5』も公開されています。"
+              "body": "コーディング能力の指標SWE-bench Verifiedで95.0%、SWE-bench Proで80.3%など、ほぼ全ベンチでSOTA（最高水準）を達成。価格は100万トークンあたり入力$10／出力$50で、従来のMythos Previewの半額以下に設定されました。"
             },
             {
               "heading": "セーフガードと、その後の提供停止",
-              "body": "サイバー・生物・化学などの高リスク領域は分類器（クラシファイア）がブロックし、Claude Opus 4.8へ自動フォールバックする安全機構を搭載。ところが公開直後の6月13日、米政府の輸出管理指令によりFable 5／Mythos 5は全面提供停止に（→同タブ『米政府指令でAnthropicがFable 5・Mythos 5を提供停止』参照）。華々しい公開と急停止が連続した点も話題を増幅しました。"
-            },
-            {
-              "heading": "なぜ話題か",
-              "body": "“高性能すぎて限定だったMythos級”が一般公開された衝撃と、半額以下という価格破壊が反響を呼んでいます。AIエージェント前提のSaaS・開発フローにも直結するため、テック界隈の関心が集中しています。"
+              "body": "サイバー・生物・化学などの高リスク領域は分類器がブロックし、Claude Opus 4.8へ自動フォールバックする安全機構を搭載。ところが公開直後の6月13日、米政府の輸出管理指令によりFable 5／Mythos 5は全面提供停止に（→同タブ参照）。"
             }
           ],
           "sources": [
-            {
-              "name": "ギズモード・ジャパン（Fable 5/Mythos 5リリース）",
-              "url": "https://www.gizmodo.jp/article/anthropic_releases_claude_fable_5_and_mythos_5/"
-            },
             {
               "name": "Zenn（Fable 5 & Mythos 5 徹底解説）",
               "url": "https://zenn.dev/galirage/articles/claude-fable-5"
@@ -329,33 +429,25 @@
         },
         {
           "id": "nadella-ecosystem",
-          "title": "ナデラ「A frontier without an ecosystem is not stable」 “人材資本×トークン資本”論が約2800万ビュー",
-          "summary": "ナデラMS CEOの投稿エッセイが約2,800万ビューの大反響。『最良のモデルを選ぶことより、価値が広く行き渡る“フロンティア・エコシステム”の構築が優先』と主張。各社が自社知識を符号化する“学習ループ”を持ち、human capital（人材）とtoken capital（AI）を複利で増やせと説く。",
+          "title": "ナデラ「A frontier without an ecosystem is not stable」 「人材資本×トークン資本」論が約2800万ビュー",
+          "summary": "ナデラMS CEOの投稿エッセイが約2,800万ビューの大反響。『最良のモデルを選ぶことより、価値が広く行き渡る「フロンティア・エコシステム」の構築が優先』と主張。",
           "category": "AI",
           "date": "2026-06-15",
-          "lead": "MicrosoftのナデラCEOが投稿した長文エッセイ『A frontier without an ecosystem is not stable（エコシステムなきフロンティアは安定しない）』が、X・LinkedInで約2,800万ビューの大きな反響を呼んでいます。AIの価値が少数の最先端モデルに集中する世界は持続しない、という問題提起です。",
+          "lead": "MicrosoftのナデラCEOが投稿した長文エッセイ『A frontier without an ecosystem is not stable』が、X・LinkedInで約2,800万ビューの大きな反響を呼んでいます。",
           "sections": [
             {
               "heading": "主張の核心",
-              "body": "『優先すべきは“フロンティア・モデル”ではなく“フロンティア・エコシステム”の構築だ』とナデラは説きます。価値があらゆる企業・産業・国に広く流れる状態を作るべきで、各組織が自社の institutional knowledge（組織知）を符号化する“学習ループ”を所有できることが安定的な均衡だ、という論立てです。"
+              "body": "『優先すべきは「フロンティア・モデル」ではなく「フロンティア・エコシステム」の構築だ』とナデラは説きます。価値があらゆる企業・産業・国に広く流れる状態を作るべきで、各組織が自社の institutional knowledge（組織知）を符号化する「学習ループ」を所有できることが安定的な均衡だという論立てです。"
             },
             {
               "heading": "human capital × token capital",
-              "body": "今後の企業は2種類の資本——human capital（人の知識・判断・関係構築）と token capital（自社が築くAI能力）——を共に積み上げる必要があると指摘。両者は補完的で、AIが強くなるほど人の価値はむしろ増すとし、『タスクや仕事は外注できても、学習（learning）は外注できない。企業の将来は、人とAIをまたいで学習を複利で積み上げる力だ』と結びます。"
-            },
-            {
-              "heading": "なぜ刺さるのか",
-              "body": "『最良モデルを選ぶゲーム』から『学習ループを持つゲーム』へと論点を引き上げた点が反響の理由。自社IPを保持しつつモデルを切り替えられる自主性の重要性にも触れており、本タブのマルチモデル化（CopilotのClaude採用）やFable 5の話題とも一本の線でつながります。"
+              "body": "今後の企業は human capital（人の知識・判断）と token capital（自社が築くAI能力）を共に積み上げる必要があると指摘。『タスクや仕事は外注できても、学習（learning）は外注できない』と結びます。"
             }
           ],
           "sources": [
             {
               "name": "Satya Nadella（X / 本文）",
               "url": "https://x.com/satyanadella/article/2066182223213293753"
-            },
-            {
-              "name": "Satya Nadella（LinkedIn）",
-              "url": "https://www.linkedin.com/posts/satyanadella_a-frontier-without-an-ecosystem-is-not-stable-activity-7471948728229322753-OoMP"
             },
             {
               "name": "Business Today（AI時代の企業の将来）",
@@ -365,7 +457,7 @@
         },
         {
           "id": "saaspocalypse",
-          "title": "「SaaSの死」は本当か AIエージェントで“シート課金”崩壊、業界が転換点",
+          "title": "「SaaSの死」は本当か AIエージェントで「シート課金」崩壊、業界が転換点",
           "summary": "AIエージェントでSaaSの『シート課金』が崩壊。2026年初にはソフト株急落『SaaSpocalypse』も。鍵は成果課金と顧客価値で、淘汰と成長が同時進行。",
           "category": "SaaS動向",
           "date": "2026-06-10",
@@ -373,273 +465,17 @@
           "sections": [
             {
               "heading": "何が起きているのか",
-              "body": "AIが業務を自動でこなすと、『何人が使ったか（シート数）』で課金する前提が崩れます。代わりに『何を解決したか（アウトカム）』で課金するモデルへの転換が、すべてのSaaS企業に突きつけられています。これが株価急落（SaaSpocalypse）の本質です。"
+              "body": "AIが業務を自動でこなすと、『何人が使ったか（シート数）』で課金する前提が崩れます。代わりに『何を解決したか（アウトカム）』で課金するモデルへの転換が、すべてのSaaS企業に突きつけられています。"
             },
             {
-              "heading": "市場規模と日本の主役",
-              "body": "悲観論の一方、AI SaaS市場は2025年の約1,317億ドルから2026年に約1,822億ドル（CAGR38.3%）へ拡大見込み。国内SaaS市場も2027年に約3,030億円規模との予測で、TOKIUM（経理）、燈（建設）、LayerX（バックオフィス）など『垂直特化×AI＝バーティカルSaaS2.0』勢が台頭しています。"
-            },
-            {
-              "heading": "論点",
-              "body": "結論は『SaaSは死ぬ』ではなく『AIネイティブSaaSへ進化する』が主流。差別化はAI機能の有無ではなく顧客価値への本質的コミットで、2026年は乗り換え・解約が激化する“解約戦争”の年になるとの見方です。"
+              "heading": "市場規模と方向性",
+              "body": "AI SaaS市場は2025年の約1,317億ドルから2026年に約1,822億ドル（CAGR38.3%）へ拡大見込み。結論は『SaaSは死ぬ』ではなく『AIネイティブSaaSへ進化する』が主流で、差別化は顧客価値への本質的コミットです。"
             }
           ],
           "sources": [
-            {
-              "name": "ITトレンド（AIネイティブSaaS白書）",
-              "url": "https://it-trend.jp/news/01-033"
-            },
             {
               "name": "Smacie（SaaSpocalypse解説）",
               "url": "https://smacie.co.jp/knowledge/news/saas-daijoubu-ka-saaspocalypse-ai-agent-career-senryaku-mitooshi-2026/"
-            },
-            {
-              "name": "Qiita（日本SaaS市場1.7兆円の行方）",
-              "url": "https://qiita.com/daisuke-nagata/items/2bb208567e42845faf84"
-            }
-          ]
-        },
-        {
-          "id": "ms-build-2026",
-          "title": "Microsoft Build 2026 GitHub Copilot拡張・OpenAI Codex全職種化・Anthropic「Claude Security」",
-          "summary": "Microsoft Build 2026開催。Copilot拡張・OpenAI Codex全職種化・Anthropic『Claude Security』。CopilotはClaudeとOpenAIを自動選択するマルチモデルへ。",
-          "category": "AI",
-          "date": "2026-06-03",
-          "lead": "Microsoftの開発者会議『Build 2026』で、ナデラCEOが『new paradigm（新たな潮流）』を宣言。クラウド・ネイティブから“エージェント・ネイティブ・スタック”への移行を掲げ、『2026年のAIはプロンプトに答えるものではなく、仕事そのものを動かすものだ』と語りました。AIが受動的なアシスタントから、ワークフロー全体を担う自律エージェントへ進化する、というメッセージです。",
-          "sections": [
-            {
-              "heading": "ナデラの基調講演（エージェント・ネイティブ）",
-              "body": "ナデラCEOは『passive assistant（受動的な補助）からactive agent（能動的なエージェント）へ』が中心テーマと強調。Microsoft Agent FrameworkやWindowsのエージェント・ランタイムが相次ぎGA（一般提供）に。あわせてNVIDIA搭載のArm版Windows PCの投入や、約96.9億ドル（$9.69B）規模の国防総省ソフト統合契約も発表されました。"
-            },
-            {
-              "heading": "主な発表",
-              "body": "GitHub Copilot Appが拡張版（Canvases搭載）で提供開始。OpenAIはCodexを全職種向けに6プラグインで拡張。AnthropicはセキュリティAI『Claude Security』を発表し、Project Glasswingを150組織に拡大。MicrosoftのCopilotはClaude・OpenAIを自動選択する『マルチモデル体験』を実装済みです。"
-            },
-            {
-              "heading": "Agent 365",
-              "body": "業務エージェント基盤『Agent 365』が一般提供（$15/ユーザー/月、またはE7に同梱）。GitHub Copilot・Azure DevOps・Jiraとの連携を1つのチャットで実行でき、企業のAI活用が“単体ツール”から“横断エージェント基盤”へ移行していることを示します。"
-            },
-            {
-              "heading": "なぜ重要か",
-              "body": "1社のモデルに依存せず、用途ごとに最適なAIを使い分ける構図が標準化。SaaS・業務システムの設計思想そのものが『マルチモデル前提』へ変わりつつあります。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Ledge.ai（Copilotマルチモデル）",
-              "url": "https://ledge.ai/articles/microsoft_copilot_researcher_openai_anthropic_multi_model"
-            },
-            {
-              "name": "jls42（Build 2026まとめ）",
-              "url": "https://jls42.org/ja/news/ia-actualites-02-jun-2026"
-            },
-            {
-              "name": "Uravation（6月の生成AI総まとめ）",
-              "url": "https://uravation.com/media/ai-major-updates-june-2026-anthropic-openai-google/"
-            },
-            {
-              "name": "Fortune（ナデラ: AIの中心へ）",
-              "url": "https://fortune.com/2026/06/02/microsoft-moves-to-remain-ais-center-of-gravity/"
-            },
-            {
-              "name": "Engadget（Build 2026 ライブ）",
-              "url": "https://www.engadget.com/2185601/microsoft-build-2026-live-blog-copilot-windows-news/"
-            }
-          ]
-        },
-        {
-          "id": "salesforce-agentforce",
-          "title": "Salesforce「Agentforce World Tour Tokyo」 来場1.4万人、SDR AI『Piper』を国内投入",
-          "summary": "Salesforceが東京で『Agentforce World Tour』開催、来場1.4万人。インサイドセールス向けAI『Piper』を国内投入し、AIエージェント前提の企業変革を打ち出す。",
-          "category": "Salesforce",
-          "date": "2026-06-09",
-          "lead": "Salesforceが6月9〜10日、東京で『Agentforce World Tour Tokyo』を開催しました。来場登録1.4万人・オンライン1万人、150セッション・85ブースという大規模イベントで、AIエージェントとの協働による業務変革を打ち出しました。",
-          "sections": [
-            {
-              "heading": "何が発表されたか",
-              "body": "インサイドセールス（SDR）向けの新AIエージェント『Piper』を日本投入。Webの問い合わせ対応や資料請求などのプロセスを自動化・変革します。開発者向けには Agentforce DX / Agent Script が一般提供開始済みで、AIエージェントを既存業務に組み込みやすくしています。"
-            },
-            {
-              "heading": "なぜ注目か",
-              "body": "SaaS最大手のSalesforceが『エージェンティック・エンタープライズ（AIエージェント前提の企業）』への変革を全面に掲げる動きは、業界全体の方向性を象徴します。今後は開発者・管理者向けの TDX Tokyo も予定され、実装の裾野拡大を狙います。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Salesforce 公式プレスリリース",
-              "url": "https://www.salesforce.com/jp/news/press-releases/2026/06/09/agentforce-world-tour-tokyo2026/"
-            },
-            {
-              "name": "PR TIMES（開催リリース）",
-              "url": "https://prtimes.jp/main/html/rd/p/000000371.000041550.html"
-            },
-            {
-              "name": "Salesforce ニュース",
-              "url": "https://www.salesforce.com/jp/news/"
-            }
-          ]
-        },
-        {
-          "id": "copilot-anthropic",
-          "title": "MicrosoftがCopilotにAnthropic「Claude」採用 “OpenAI一本足打法”からの脱却",
-          "summary": "MicrosoftがCopilotにAnthropic『Claude』を採用し、OpenAI一辺倒から転換。用途別に最適モデルを使い分け、ベンダー依存リスクを下げる狙い。",
-          "category": "AI",
-          "date": "2026-06-03",
-          "lead": "MicrosoftがCopilotにAnthropicのClaudeを採用し、OpenAI一辺倒だった構成を見直しています。リサーチAIではClaudeとOpenAIを同時実行してレポート生成する機能も登場しました。",
-          "sections": [
-            {
-              "heading": "ポイント",
-              "body": "1社のモデルに依存すると、価格改定・性能停滞・障害といったリスクを丸ごと負うことになります。複数モデルを使い分けることで、交渉力とサービスの可用性（レジリエンス）を確保する狙いがあると分析されています。"
-            },
-            {
-              "heading": "SaaSへの示唆",
-              "body": "AIを組み込むSaaS側も『どのモデルに乗るか』が経営判断に直結。マルチモデル前提でアーキテクチャを組むことが標準になりつつあり、モデル切り替えを抽象化する設計が競争力の源泉になります。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "ITmedia ビジネス（採用の真の理由）",
-              "url": "https://www.itmedia.co.jp/business/articles/2605/08/news028.html"
-            },
-            {
-              "name": "Ledge.ai（マルチモデルでレポート生成）",
-              "url": "https://ledge.ai/articles/microsoft_copilot_researcher_openai_anthropic_multi_model"
-            }
-          ]
-        },
-        {
-          "id": "palantir-q1",
-          "title": "Palantir、1〜3月期は予想超え 売上85%増で上場来最強も、株価は時間外で下落",
-          "summary": "Palantirの1〜3月期は売上85%増・予想超えで上場来最強。だが期待先行で株価は時間外に約5.7%安。AI高成長株のハードルの高さを象徴。",
-          "category": "Palantir",
-          "date": "2026-06-10",
-          "lead": "Palantir（PLTR）の2026年1〜3月期決算は、売上高16.3億ドル（前年同期比+85%）、EPS0.33ドルと市場予想を上回り、上場以来最強の四半期となりました。一方、株価は時間外で約5.66%下落し135.91ドルで引けています。",
-          "sections": [
-            {
-              "heading": "何が起きたのか",
-              "body": "AI需要（同社のAIプラットフォームAIP）を背景に高成長が続き、顧客数は954社・団体（25年末）に拡大。それでも株価が下がったのは、すでに高い成長期待が株価に織り込まれており、好決算でも“サプライズ不足”と受け止められたためとみられます。"
-            },
-            {
-              "heading": "論点",
-              "body": "みんかぶの目標株価は154.68ドルで『買い』評価。Palantirは『業績は絶好調だが株価のハードルも極めて高い』という、AI・SaaS高成長株に共通する難しさを象徴します。決算の中身より“期待との差分”で動く局面です。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Investing.com（Q1決算）",
-              "url": "https://jp.investing.com/news/transcripts/article-93CH-1527523"
-            },
-            {
-              "name": "みんかぶ米国株（PLTR）",
-              "url": "https://us.minkabu.jp/stocks/PLTR"
-            },
-            {
-              "name": "日経会社情報DIGITAL（PLTR）",
-              "url": "https://www.nikkei.com/nkd/company/us/PLTR/"
-            }
-          ]
-        },
-        {
-          "id": "domestic-saas-ai",
-          "title": "国内SaaSもAIエージェント化加速 LayerX「バクラク」累計1.5万社、freeeは新AI機能群",
-          "summary": "国内バックオフィスSaaSもAIエージェント化が加速。LayerX『バクラク』は累計1.5万社、freeeもAI機能群を投入。『機能提供』から『業務の肩代わり』へ。",
-          "category": "国内SaaS",
-          "date": "2026-06-08",
-          "lead": "国内のバックオフィスSaaSがこぞってAIエージェント化に動いています。LayerXの『バクラク』はAIによる自動判定・入力補助で累計約1.5万社に導入。freeeも複数のAI機能群を投入しています。",
-          "sections": [
-            {
-              "heading": "各社の動き",
-              "body": "LayerX『バクラク』は稟議・経費精算・請求書受取/発行・法人カードをAIで効率化し累計約1.5万社が導入。freeeは『freee Agent Hub』『freee AIヘルプデスク』『freee在庫管理』『freee for 医療』などを展開。TOKIUM（経理AIエージェント）はAIと人間が協働（HITL=Human in the Loop）して請求書受領などを代行する“実行型”を志向しています。"
-            },
-            {
-              "heading": "資金・体制",
-              "body": "LayerXはTCVをリード投資家に総額150億円規模を調達（三菱UFJ銀行・MUFG系、JAFCO等も参加）。資金はエンジニア採用とAIエージェント事業の加速に充てられます。日本のSaaSは『機能を貸す』から『業務そのものを肩代わりする』へと軸足を移しています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "LayerX 公式（シリーズB 150億円）",
-              "url": "https://layerx.co.jp/news/20250901-3/"
-            },
-            {
-              "name": "freee プレスリリース",
-              "url": "https://corp.freee.co.jp/news/"
-            },
-            {
-              "name": "fullstar（注目SaaS/AIスタートアップ）",
-              "url": "https://fullstar.cloudcircus.jp/media/column/saas-ranking"
-            }
-          ]
-        },
-        {
-          "id": "genai-enterprise",
-          "title": "生成AI、企業導入は「試す年」から「評価される年」へ 70%がエージェント型を計画",
-          "summary": "企業の生成AIは『試す年』から『評価される年』へ。ROIが問われ、2026年末までに約7割がエージェント型を計画。活用1位は文書作成でRAG連携が鍵。",
-          "category": "生成AI",
-          "date": "2026-06-05",
-          "lead": "2026年、企業の生成AI活用は『試す年』から『評価される年』へ移行しています。投資対効果（ROI）や具体的な数字が問われる段階に入り、PoC（実証実験）止まりからの脱却が課題です。",
-          "sections": [
-            {
-              "heading": "現状",
-              "body": "IBM調査では2026年末までに約70%の企業がエージェント型AIの展開を計画。国内でもNECが調達交渉を自動化するAIエージェントの提供を開始するなど、“使ってみる”から“成果で評価する”段階に入っています。"
-            },
-            {
-              "heading": "実務の勘どころ",
-              "body": "活用業務の1位は『文書作成』で、リスクが低く成果が出やすい領域から定着。特定業務に特化したUIと社内データ連携（RAG）が選定の鍵で、『誰がAI活用の旗を振るか』という推進体制の不在が多くの企業に共通する課題です。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "commercepick（生成AI利用実態調査）",
-              "url": "https://www.commercepick.com/archives/88071"
-            },
-            {
-              "name": "Aurant Technologies（法人向け生成AI SaaS 30選）",
-              "url": "https://aurant-technologies.com/blog/s3-selection-checklist-15346/"
-            }
-          ]
-        },
-        {
-          "id": "saas-ranking",
-          "title": "【2026年版】国内SaaS売上ランキング SMS・ラクス・OBC・Sansan・マネフォが上位",
-          "summary": "2026年の国内SaaS売上トップ5はSMS・ラクス・OBC・Sansan・マネフォ。会計や労務など堅い業務を押さえた企業が上位。AI化で5年後の顔ぶれが注目。",
-          "category": "ランキング",
-          "date": "2026-06-01",
-          "lead": "2026年最新データに基づく国内SaaS企業の売上高ランキングで、上位5社はエス・エム・エス（1位）、ラクス（2位）、オービックビジネスコンサルタント（3位）、Sansan（4位）、マネーフォワード（5位）となりました。",
-          "sections": [
-            {
-              "heading": "見方",
-              "body": "派手なAIスタートアップだけでなく、会計・労務・名刺管理・メール配信など“堅い業務”を押さえた企業が上位を占めるのが特徴。安定した継続課金が強みです。AIエージェント化の波の中で、シート課金から成果課金への移行に各社がどう対応するかで、5年後の上位3社の顔ぶれが変わる可能性があります。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Geekly Media（SaaS企業ランキング2026）",
-              "url": "https://www.geekly.co.jp/column/cat-technology/saas-company_ranking/"
-            },
-            {
-              "name": "NewsPicks（5年後の上位3社は）",
-              "url": "https://newspicks.com/news/8713063/"
-            }
-          ]
-        },
-        {
-          "id": "note-openpage",
-          "title": "【note注目】「2025年のSaaS市場のAI期待と市場限界。2026年の解約戦争」",
-          "summary": "openpage藤島氏のnote論考が話題。2026年は『解約戦争』で、問われるのは顧客価値への本質的コミット。『AI機能を載せただけでは差別化にならない』。",
-          "category": "note",
-          "date": "2026-06-08",
-          "lead": "SaaS関心層の間でnoteで読まれているのが、営業DX『openpage』代表・藤島誓也氏の論考です。2025年のAI期待と市場の限界をふまえ、2026年は『解約戦争』になり、問われるのは顧客価値への本質的なコミットだ——と整理しています。",
-          "sections": [
-            {
-              "heading": "なぜ読まれているか",
-              "body": "『AI機能を載せた』だけでは差別化にならず、実質的な顧客価値・成果が問われる、という現場感のある主張が、SaaS従事者の実感と一致しているためです。このタブの『SaaSpocalypse』『国内SaaSのAIエージェント化』とも響き合い、2026年のSaaSを読む補助線になります。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "note（藤島誓也 / openpage）",
-              "url": "https://note.com/openpage/n/nef896650a6c7"
             }
           ]
         }
@@ -650,6 +486,122 @@
       "label": "政治・経済",
       "topics": [
         {
+          "id": "japan-mercosur-seiji",
+          "title": "高市首相、南米メルコスルとEPA交渉入り G7サミットでブラジル大統領と会談",
+          "summary": "高市首相がG7（仏エビアン）でブラジルのルラ大統領と会談し、南米メルコスル5カ国（GDP3兆ドル）とのEPA交渉開始で合意。TPP・日EU-EPA以来の大型貿易協定で、自動車輸出の関税削減と重要鉱物・原油の調達多角化が狙い。",
+          "category": "政治",
+          "date": "2026-06-16",
+          "lead": "G7サミットが開かれた仏エビアンで、高市首相がブラジルのルラ大統領と会談し、南米メルコスル（5カ国連合、GDP約3兆ドル）とのEPA（経済連携協定）交渉開始で合意しました。TPP・日EU-EPAに次ぐ大型の貿易合意となる見通しです。",
+          "sections": [
+            {
+              "heading": "概要",
+              "body": "メルコスルはブラジル・アルゼンチン・ウルグアイ・パラグアイ・ボリビアの5カ国で構成し、GDP合計は約3兆ドル（約480兆円）。日本は自動車輸出の関税引き下げを求める一方、牛肉・鶏肉の輸入増加が国内農家への影響として議論されます。"
+            },
+            {
+              "heading": "安全保障上の意義",
+              "body": "南米は希少金属（レアアース）の主要産地で、ブラジルは世界有数の産油国です。G7の重要鉱物共同備蓄議論とも連動し、特定地域への依存リスクを分散する安全保障戦略の一環として位置づけられています。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞（高市首相・南米EPA交渉入り表明）",
+              "url": "https://www.nikkei.com/article/DGXZQOUA1691P0W6A610C2000000/"
+            },
+            {
+              "name": "NHK NEWS WEB（南米EPA交渉開始で合意）",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015151861000"
+            },
+            {
+              "name": "西日本新聞（EPA交渉入り表明）",
+              "url": "https://www.nishinippon.co.jp/item/1504653/"
+            }
+          ]
+        },
+        {
+          "id": "boj-rate-seiji",
+          "title": "日銀追加利上げ「秒読み」 政策金利1%へ 変動住宅ローン保有者に影響",
+          "summary": "日銀が6月会合で0.75%→1.0%への追加利上げを行うとの観測が強まっている。変動金利型住宅ローン保有者には10月頃から返済増の影響が及ぶ見込み。日経試算で30代は年2万円超の負担増。ターミナルレート2%まではあと5回の利上げが必要。",
+          "category": "経済",
+          "date": "2026-06-17",
+          "lead": "日銀が6月の金融政策決定会合で政策金利を0.75%から1.0%へ引き上げるとの観測が強まっています。変動金利型住宅ローンを保有する世帯への影響は2026年10月ごろから本格化する見通しです。",
+          "sections": [
+            {
+              "heading": "影響の試算",
+              "body": "日本経済新聞の試算では、30代が一般的に持つ住宅ローン残高を前提に、年間返済額が2万円超増加します。元本が多いほど・残期間が長いほど影響が大きく、変動金利を選択中の方は借り換えや繰り上げ返済の検討が勧められています。"
+            },
+            {
+              "heading": "今後の見通し",
+              "body": "政策金利がターミナルレートとされる2.0%まで上昇するにはさらに5回の利上げが必要です。2026年の固定金利はすでに大幅上昇済みで、「今から固定に切り替えるのは割高」との見方もあります。長期的な金利上昇リスクを踏まえた資産計画の見直しが重要です。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞（日銀利上げで30代は年2万円超の負担増）",
+              "url": "https://www.nikkei.com/article/DGXZQOUB102QK0Q6A610C2000000/"
+            },
+            {
+              "name": "モゲチェック（2026年6月金利最新動向）",
+              "url": "https://mogecheck.jp/articles/show/51rzNy7XEJ5o4mQ6ZkVv"
+            },
+            {
+              "name": "SBI新生銀行（2026年住宅ローン金利見通し）",
+              "url": "https://www.sbishinseibank.co.jp/retail/housing/column/vol152.html"
+            }
+          ]
+        },
+        {
+          "id": "takaichi-video",
+          "category": "政治",
+          "date": "2026-06-17",
+          "title": "高市首相「中傷動画」報道で訂正相次ぐ 文春4号連続報道・首相は関与を否定",
+          "summary": "2025年の自民党総裁選で高市首相陣営が他候補を中傷する動画を作成・拡散したとする週刊文春報道（4号連続）を巡り、報道内容の訂正が相次ぐ事態に。首相は引き続き関与を否定している。",
+          "lead": "高市首相の陣営が2025年の自民党総裁選で他候補を中傷する動画を作成・拡散したとする週刊文春の報道（4号連続）を巡り、報道内容の訂正が相次いでいます。首相は一貫して関与を否定しています。",
+          "sections": [
+            {
+              "heading": "訂正相次ぐ経緯",
+              "body": "関係者のものとされる音声について、NHKを含む各メディアが「動画作成のやりとりではない」と報じ、報道の前提が揺らいでいます。6月17日時点で複数の報道内容に訂正が入り、真相究明と報道の信頼性の両面で議論が続いています。"
+            },
+            {
+              "heading": "首相の主張",
+              "body": "高市首相は「他の候補者を誹謗・中傷することは決してやっていない」と関与を改めて否定。一方で野党は説明責任を引き続き追及しており、国会での応酬が続いています。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞（中傷動画で応酬）",
+              "url": "https://www.nikkei.com/article/DGXZQOUA0482R0U6A600C2000000/"
+            },
+            {
+              "name": "NHK NEWS WEB（関連音声）",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015141051000"
+            }
+          ]
+        },
+        {
+          "id": "g7-close",
+          "category": "国際",
+          "date": "2026-06-17",
+          "title": "G7サミットが閉幕 首脳宣言は2年連続見送り 重要鉱物など成果文書のみ",
+          "summary": "仏エビアンのG7サミット（6/15〜17）が閉幕。米国と他の参加国の意見が折り合わず、首脳宣言は2年連続で見送り。重要鉱物などの成果文書のみとなった。中東・ウクライナ情勢やエネルギー安保が議論された。",
+          "lead": "フランス・エビアンで開かれたG7サミット（6月15〜17日）が閉幕しました。米国と他の参加国の意見が合わず、首脳宣言は2年連続で見送りとなり、重要鉱物などの成果文書のみにとどまりました。",
+          "sections": [
+            {
+              "heading": "ポイント",
+              "body": "首脳宣言の見送りは2025年カナダ開催に続く2年連続。会議では中東情勢（米イラン和平）、ウクライナ戦争、エネルギー安保、重要鉱物の調達などが話し合われました。高市首相は重要鉱物の共同備蓄と南米EPA交渉開始を成果として持ち帰りました。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞（首脳宣言2年連続見送り）",
+              "url": "https://www.nikkei.com/article/DGXZQOGR22CLG0S6A520C2000000/"
+            },
+            {
+              "name": "NHK NEWS WEB（G7解説）",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015146981000"
+            }
+          ]
+        },
+        {
           "id": "shohizei",
           "title": "食料品の消費税「ゼロ」議論が加速 8→1%案軸、高市首相が6月下旬に最終判断へ",
           "summary": "食料品の消費税減税が政界の焦点に。2027年4月から8%→1%案を軸に調整し、高市首相が6月下旬に最終判断へ。年約4兆円の税収減という財源が課題。",
@@ -659,15 +611,11 @@
           "sections": [
             {
               "heading": "何が論点か",
-              "body": "あくまで『給付付き税額控除導入までのつなぎ措置』との位置づけで、恒久制度として確定したわけではありません。各党で『ゼロ』か『1%』か、対象範囲や期間をめぐり案が分かれており、衆院選もにらんだ駆け引きの側面もあります。"
+              "body": "あくまで『給付付き税額控除導入までのつなぎ措置』との位置づけで、各党で『ゼロ』か『1%』か、対象範囲や期間をめぐり案が分かれており、衆院選もにらんだ駆け引きの側面もあります。"
             },
             {
               "heading": "家計・財源への影響",
               "body": "食料品消費税の年間税収は約4兆円規模と試算され、ゼロや1%にすれば同規模の税収減が発生します。家計には恩恵がある一方、財源確保（他税目・国債）が大きな課題で、『将来の増税の前借りでは』との指摘もあります。"
-            },
-            {
-              "heading": "世間の反応",
-              "body": "「毎日の食費が下がるのはありがたい」と歓迎の声が多い一方、「結局いつから実施なのか」「線引きが複雑になりそう」と冷静な見方も。生活直結のテーマだけにSNSでも関心が高く、実施時期と対象が最大の注目点です。"
             }
           ],
           "sources": [
@@ -682,36 +630,12 @@
           ]
         },
         {
-          "id": "g7-takaichi-pe",
-          "title": "G7サミット開幕（6/15〜17・仏エビアン） 焦点は原油・エネルギー安保と重要鉱物",
-          "summary": "G7サミットが仏エビアンで開幕（6/15〜17）。最大の焦点は原油高とエネルギー安保。高市首相は重要鉱物の共同備蓄を提案。首脳宣言は2年連続見送りで調整との報道も。",
-          "category": "政治",
-          "date": "2026-06-15",
-          "lead": "G7サミットが6月15〜17日、仏エビアンで開幕します。最大の焦点は中東情勢を受けた原油価格の高騰とエネルギー安全保障。高市首相は初出席で、重要鉱物の『共同備蓄連携構想』とアジアの原油確保で主導的役割を狙います。",
-          "sections": [
-            {
-              "heading": "ポイント",
-              "body": "重要鉱物はEV・半導体・防衛に不可欠で、特定国依存は安全保障リスクに直結します。中東情勢を受けたエネルギー安保や原油市場の安定化も主要議題。ただし首脳宣言は2年連続見送りで調整され、成果文書のみとの報道もあり、G7の結束と実効性が問われる場面です。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "日本経済新聞（共同備蓄を提案へ）",
-              "url": "https://www.nikkei.com/article/DGXZQOUA11CRB0R10C26A6000000/"
-            },
-            {
-              "name": "NHK NEWS WEB（共同備蓄連携構想）",
-              "url": "https://news.web.nhk/newsweb/na/na-k10015148781000"
-            }
-          ]
-        },
-        {
           "id": "nikkei-high-pe",
           "title": "日経平均が史上初の6万9000円台 米イラン合意で原油不安後退、一時3000円超高",
-          "summary": "日経平均が史上初めて6万9000円台に急騰、一時3000円超高。米イランの暫定合意でホルムズ海峡の供給不安が後退したのが引き金。半導体買い・円安・海外勢の買い越しも継続。急騰の過熱感と、円安由来の物価高への波及が論点。",
+          "summary": "日経平均が史上初めて6万9000円台に急騰、一時3000円超高。米イランの暫定合意でホルムズ海峡の供給不安が後退したのが引き金。半導体買い・円安・海外勢の買い越しも継続。",
           "category": "経済",
           "date": "2026-06-15",
-          "lead": "日経平均が史上初めて6万9000円台に乗せ、一時3000円超の急騰となりました。米イランの暫定合意（ホルムズ海峡の開放）で原油供給不安が後退したことが買い材料です。AI・半導体買いと円安、海外勢の買い越しも続いています。",
+          "lead": "日経平均が史上初めて6万9000円台に乗せ、一時3000円超の急騰となりました。米イランの暫定合意（ホルムズ海峡の開放）で原油供給不安が後退したことが買い材料です。",
           "sections": [
             {
               "heading": "見方",
@@ -748,21 +672,13 @@
               "body": "総資産は前月比+3.17%、年初来では+4.64%でATH（過去最高）を更新。半導体メモリ関連銘柄の高騰が押し上げに貢献しました。日経平均の最高値更新とも歩調が合う形です。"
             },
             {
-              "heading": "kuzyo氏の手法",
-              "body": "2018年にセミリタイア、2023年夏に完全FIREへ移行。インデックス投資を軸に、米国株・優待クロス（株主優待のつなぎ売り）・仮想通貨・太陽光・不動産・オプションまで幅広く実践。最近は『2026年夏の高還元クレカルート攻略』など、ポイント／クレカ最適化の記事も人気です。"
-            },
-            {
-              "heading": "読みどころ",
-              "body": "毎月の資産公開と、手法ごとの実額ベースの解説が特徴で、再現性の高い“家計×投資”の参考になります。セミリタイアシミュレータも公開されています。"
+              "heading": "kuzyo氏の手法と読みどころ",
+              "body": "2018年にセミリタイア、2023年夏に完全FIREへ移行。インデックス投資を軸に、米国株・優待クロス・仮想通貨・太陽光・不動産・オプションまで幅広く実践。毎月の資産公開と手法ごとの実額ベースの解説が特徴で、再現性の高い「家計×投資」の参考になります。"
             }
           ],
           "sources": [
             {
               "name": "九条日記（2026年5月の資産状況）",
-              "url": "https://www.kuzyofire.com/entry/2026/06/01/%E8%B3%87%E7%94%A3%E9%A1%8DATH%E6%9B%B4%E6%96%B0_%E3%83%A1%E3%83%A2%E3%83%AA%E9%8A%98%E6%9F%84%E9%AB%98%E9%A8%B0%E3%82%82%E8%B2%A2%E7%8C%AE_2026%E5%B9%B45%E6%9C%88%E3%81%AE%E8%B3%87%E7%94%A3%E7%8A%B6"
-            },
-            {
-              "name": "九条日記（トップ）",
               "url": "https://www.kuzyofire.com/"
             },
             {
@@ -773,23 +689,19 @@
         },
         {
           "id": "ast-orukan-sp500",
-          "title": "新NISA3年目 オルカン vs S&P500 オルカンが銘柄入れ替えで“進化”、シャープレシオでは優位も",
+          "title": "新NISA3年目 オルカン vs S&P500 オルカンが銘柄入れ替えで「進化」、シャープレシオでは優位も",
           "summary": "新NISA3年目、オルカンvs S&P500の比較が再燃。オルカンは銘柄入れ替えで進化。リターンはS&P500優位だが、効率（シャープレシオ）は直近3年でオルカンが勝利。",
           "category": "新NISA",
           "date": "2026-06-02",
           "lead": "新NISAが3年目に入り、王道の『オルカン（全世界株式）』と『S&P500』のどちらを選ぶかの議論が改めて活発になっています。",
           "sections": [
             {
-              "heading": "オルカンの“進化”",
-              "body": "オルカンは中身が固定ではなく、時代に合わせて構成銘柄が自動で入れ替わる仕組み。直近では大規模な定期銘柄入れ替えが行われ、中身が大きくアップデートされました。『一本持っておけば世界の成長を取り込める』点が改めて評価されています。"
-            },
-            {
               "heading": "リターンとリスク",
-              "body": "直近3〜5年のリターンではS&P500（米国集中）が優位。一方、オルカンは世界に広く分散している分リスクが低く、リスク当たりの効率を示す『シャープレシオ』では直近3年でオルカンが勝っています。2026年のS&P500は8,000ポイントの大台（現水準から約+15%）に乗るとの強気予想もあります。"
+              "body": "直近3〜5年のリターンではS&P500（米国集中）が優位。一方、オルカンは世界に広く分散している分リスクが低く、リスク当たりの効率を示す『シャープレシオ』では直近3年でオルカンが勝っています。2026年のS&P500は8,000ポイントの大台に乗るとの強気予想もあります。"
             },
             {
               "heading": "考え方",
-              "body": "『リターン最大化ならS&P500、効率と安定ならオルカン』が大枠。投資の基本は長期継続で、なんとなくオルカンを買っている人は“リスクの見通し”が甘い可能性も指摘されています。"
+              "body": "『リターン最大化ならS&P500、効率と安定ならオルカン』が大枠。投資の基本は長期継続で、なんとなくオルカンを買っている人は「リスクの見通し」が甘い可能性も指摘されています。"
             }
           ],
           "sources": [
@@ -805,7 +717,7 @@
         },
         {
           "id": "ast-nisa-strategy",
-          "title": "「オルカン・S&P500一択は危ない」 3年目の新NISAに組み込む“守り”の選択肢",
+          "title": "「オルカン・S&P500一択は危ない」 3年目の新NISAに組み込む「守り」の選択肢",
           "summary": "『オルカン・S&P500一択は危ない』との論調も。一部に守りや高配当を組み込む分散が提案され、日経平均高配当株50も注目。※投資助言ではありません。",
           "category": "新NISA",
           "date": "2026-06-03",
@@ -813,11 +725,7 @@
           "sections": [
             {
               "heading": "一択への警鐘",
-              "body": "全世界株・全米株のインデックス投資は人気ですが、米国や特定通貨への集中リスクを抱えます。3年目の新NISAでは、ポートフォリオの一部に“資産を守る”投資先（債券・高配当・コモディティ等）を組み込む発想が紹介されています。"
-            },
-            {
-              "heading": "高配当という選択肢",
-              "body": "“日経平均5万円時代”の戦略として、オルカン・S&P500に負けない好成績を持つ『日経平均高配当株50インデックス』への注目も。攻めの一部にオフェンシブ銘柄を加えることで、資産形成のスピードが変わる可能性も指摘されています。"
+              "body": "全世界株・全米株のインデックス投資は人気ですが、米国や特定通貨への集中リスクを抱えます。3年目の新NISAでは、ポートフォリオの一部に「資産を守る」投資先（債券・高配当・コモディティ等）を組み込む発想が紹介されています。"
             },
             {
               "heading": "注意",
@@ -842,36 +750,12 @@
       "label": "柏の葉",
       "topics": [
         {
-          "id": "kenmin-day",
-          "title": "きょう6/15は千葉県民の日 柏の葉公園内の各施設が無料に 茶室メニューも割引",
-          "summary": "きょう6/15は千葉県民の日。柏の葉公園内の各施設が無料、茶室『松柏亭』のメニューも割引。芝生やボート池があり子連れに人気。混むので午前が狙い目。",
-          "category": "柏の葉",
-          "date": "2026-06-15",
-          "lead": "きょう6月15日は『千葉県民の日』。柏の葉公園内の各施設が無料で利用できるほか、茶室『松柏亭』のメニューが割引になります。県内では多くの施設が無料開放されるため、近場のおでかけに絶好のタイミングです。",
-          "sections": [
-            {
-              "heading": "ポイント",
-              "body": "柏の葉公園は広い芝生やボート池、緑のボードウォークがあり子連れにも人気。県民の日は県立施設の多くが無料・割引になります。無料開放日は混み合うため、午前中の早い時間が狙い目。レジャーシートと飲み物の持参が安心です。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "号外NET 柏市（県民の日 無料）",
-              "url": "https://kashiwa.goguynet.jp/2026/06/14/kashiwanohapark2026free/"
-            },
-            {
-              "name": "まちっと柏",
-              "url": "https://machitto.jp/kashiwa/"
-            }
-          ]
-        },
-        {
           "id": "saiichi",
           "title": "柏の葉T-SITEのイベント・マルシェ情報 週末は彩市やワークショップ多数",
-          "summary": "柏の葉T-SITEではマルシェ『柏の葉彩市』や子ども向けワークショップ・離乳食教室を随時開催。本屋・カフェと合わせて家族の休日に立ち寄りやすい。次の週末はイベントページで。",
+          "summary": "柏の葉T-SITEではマルシェ『柏の葉彩市』や子ども向けワークショップ・離乳食教室を随時開催。本屋・カフェと合わせて家族の休日に立ち寄りやすい。最新の週末予定はイベントページで確認を。",
           "category": "柏の葉",
-          "date": "2026-06-15",
-          "lead": "柏の葉T-SITE（蔦屋書店を中核とした商業施設）では、マルシェ『柏の葉彩市』（直近は6/13〜14に開催）や各種ワークショップが定期的に開かれています。次の週末の予定はイベントページでチェックできます。",
+          "date": "2026-06-17",
+          "lead": "柏の葉T-SITE（蔦屋書店を中核とした商業施設）では、マルシェ『柏の葉彩市』や各種ワークショップが定期的に開かれています。最新の週末の予定はイベントページでチェックできます。",
           "sections": [
             {
               "heading": "ポイント",
@@ -912,30 +796,6 @@
               "url": "https://kashiwanoha-cycle-life.blog.jp/archives/51885253.html"
             }
           ]
-        },
-        {
-          "id": "toukatsu-bunka",
-          "title": "柏高島屋に“あんバタ屋”あす6/16まで 東京駅で完売続出の人気あんバター",
-          "summary": "東京駅で完売続出の『岡田謹製あんバタ屋』が柏高島屋に期間限定オープン、あす6/16まで。手土産にも人気のあんバターが地元で買えるチャンス。最終日は売り切れ注意。",
-          "category": "柏市",
-          "date": "2026-06-15",
-          "lead": "東京駅で完売続出の『岡田謹製あんバタ屋』が柏高島屋に期間限定オープンしています。会期は6月3〜16日で、あす16日が最終日です。",
-          "sections": [
-            {
-              "heading": "ポイント",
-              "body": "あんバター系のスイーツは手土産にも人気で、わざわざ東京駅に行かずに地元・柏で買えるのが魅力。先週6/6〜14には東葛飾6市で『第4回とうかつ地域文化祭』も開かれ、柏駅周辺はイベントが続いています。最終日は売り切れに注意。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "まちっと柏（イベント一覧）",
-              "url": "https://machitto.jp/kashiwa/event/"
-            },
-            {
-              "name": "柏市 イベントカレンダー",
-              "url": "https://www.city.kashiwa.lg.jp/cgi-bin/event_cal_multi/calendar.cgi"
-            }
-          ]
         }
       ]
     },
@@ -948,7 +808,7 @@
           "title": "PayPay自治体キャンペーン 6月以降は最大30%還元 川口市など4自治体が対象",
           "summary": "PayPayの自治体還元が6月以降も継続。川口市など4自治体で10〜30%還元、7月以降は最大20%や商品券で最大3.75万円お得な案件も。付与上限の大きい自治体が狙い目。",
           "category": "PayPay",
-          "date": "2026-06-02",
+          "date": "2026-06-17",
           "lead": "PayPayが地方自治体と連携したポイント還元キャンペーンを相次いで実施しています。自治体とPayPayが指定する対象店舗で支払うと、10〜30%のPayPayポイントが還元されます。",
           "sections": [
             {
@@ -957,7 +817,7 @@
             },
             {
               "heading": "狙い方のコツ",
-              "body": "『還元率』だけでなく『付与上限ポイント』が重要。上限が10,000ポイントなど大きい自治体は、まとめ買い・高額決済で効率よく取り切れるため最優先です。対象は居住地に関係なく使えるため、旅行や帰省先の自治体も要チェック。詳細はPayPayのキャンペーンページで確認できます。"
+              "body": "『還元率』だけでなく『付与上限ポイント』が重要。上限が10,000ポイントなど大きい自治体は、まとめ買い・高額決済で効率よく取り切れるため最優先です。対象は居住地に関係なく使えるため、旅行や帰省先の自治体も要チェック。"
             }
           ],
           "sources": [
@@ -966,12 +826,12 @@
               "url": "https://www.itmedia.co.jp/mobile/articles/2604/20/news075.html"
             },
             {
-              "name": "ITmedia Mobile（7月以降 最大20%）",
-              "url": "https://www.itmedia.co.jp/mobile/articles/2606/02/news079.html"
-            },
-            {
               "name": "全国キャッシュレス還元まとめ（kojinabi）",
               "url": "https://kojinabi.com/blog-entry-11179.html"
+            },
+            {
+              "name": "PayPayキャンペーンページ",
+              "url": "https://paypay.ne.jp/notice/20260415/cp-jichitai/"
             }
           ]
         },
@@ -989,7 +849,7 @@
             },
             {
               "heading": "先の話題",
-              "body": "ららぽーと柏の葉は2027年春に大規模刷新が予定され、それに向けて最大90%オフのバーゲンや元日限定のお得イベントなども実施される見込み。今後の改装情報は要注目です。"
+              "body": "ららぽーと柏の葉は2027年春に大規模刷新が予定されており、今後の改装情報は要注目です。"
             }
           ],
           "sources": [
@@ -1000,28 +860,24 @@
             {
               "name": "ららぽーと柏の葉 クーポン一覧",
               "url": "https://mitsui-shopping-park.com/lalaport/kashiwa/coupon/"
-            },
-            {
-              "name": "鉄道チャンネル（2027春刷新・90%オフ）",
-              "url": "https://tetsudo-ch.com/13019726.html"
             }
           ]
         },
         {
           "id": "cmp-lalaport-shinmisato",
-          "title": "ららぽーと新三郷 「ベビタピ」POP-UP（6/15〜28）・VIVANTキャラバンも",
-          "summary": "ららぽーと新三郷で『ベビタピ』POP-UP（6/15〜28）。対象店2,000円以上のレシートでグッズ進呈。6/13〜14はVIVANTキャラバンなど家族向け催しも。",
+          "title": "ららぽーと新三郷 「ベビタピ」POP-UP（6/20・21・27・28）開催中",
+          "summary": "ららぽーと新三郷で『ベビタピがやってくる！』POP-UP（〜6/28）。POP-UPショップは6/20・21・27・28の10:00〜18:00。対象店2,000円以上のレシートでグッズ進呈。",
           "category": "ららぽ新三郷",
-          "date": "2026-06-13",
-          "lead": "ららぽーと新三郷では、人気の『ベビタピ』POP-UPやドラマ『VIVANT』キャラバンなど、家族で楽しめる催しが続きます。",
+          "date": "2026-06-17",
+          "lead": "ららぽーと新三郷では人気キャラクター「ベビタピ」のPOP-UPが開催中です。POP-UPショップは6月20日（土）・21日（日）・27日（土）・28日（日）の10:00〜18:00に登場します。",
           "sections": [
             {
-              "heading": "主な催し",
-              "body": "・『ベビタピがやってくる！』6/15(月)〜28(日)。POP-UP SHOPは6/20・21・27・28の10:00〜18:00／・対象店で税込2,000円以上のレシートでオリジナルベビタピグッズをプレゼント／・『VIVANT』キャラバン（ドラムに会いに行こう）6/13〜14／・キッズクラブ会員限定のオリジナルビアジョッキづくり6/14。"
+              "heading": "詳細",
+              "body": "・POP-UPショップ：6/20・21・27・28（10:00〜18:00）／・キャンペーン期間：〜6/28。対象店舗で税込2,000円以上のレシートを提示するとオリジナルベビタピグッズをプレゼント（数量限定）。合算不可など条件があるため、対象店と金額を事前確認のこと。"
             },
             {
               "heading": "ひとこと",
-              "body": "新三郷はIKEA・コストコも近く一日遊べるエリア。レシートキャンペーンは合算不可など条件があるため、対象店と金額条件を事前に確認すると確実です。"
+              "body": "新三郷はIKEA・コストコも近く一日遊べるエリア。週末の外出先として組み合わせると効率的です。"
             }
           ],
           "sources": [
@@ -1038,14 +894,14 @@
         {
           "id": "cmp-rakutenpay",
           "title": "楽天ペイ 毎月「5と0のつく日」全額還元抽選・エントリーで100ポイントも",
-          "summary": "楽天ペイは毎月『5と0のつく日』に全額還元抽選、エントリー＋100円決済で100ポイントなど。自治体連携の地域還元も並行。エントリー必須が多く月初に済ませるのがコツ。",
+          "summary": "楽天ペイは毎月『5と0のつく日』に全額還元抽選、エントリー＋100円決済で100ポイントなど。6月は20日・25日・30日が対象。エントリー必須が多く月初に済ませるのがコツ。",
           "category": "楽天ペイ",
-          "date": "2026-06-01",
-          "lead": "楽天ペイでは、毎月の定番キャンペーンに加え、自治体連携の地域還元も並行して実施されています。エントリー必須の案件が多いのがポイントです。",
+          "date": "2026-06-17",
+          "lead": "楽天ペイでは、毎月の定番キャンペーンに加え、自治体連携の地域還元も並行して実施されています。6月の残りの「5と0のつく日」は20日・25日・30日です。エントリー必須の案件が多いのがポイントです。",
           "sections": [
             {
               "heading": "定番のお得",
-              "body": "・毎月『5と0のつく日』は支払いで抽選により利用金額が全額ポイント還元されるチャンス／・期間中にエントリー＋メルマガ購読などの条件を満たし、100円以上の決済を1回するだけでもれなく100ポイント還元、といった企画も。多くがエントリー必須なので、月初にまとめてエントリーしておくと取りこぼしません。"
+              "body": "・毎月『5と0のつく日』（6月は20・25・30日）は支払いで抽選により利用金額が全額ポイント還元されるチャンス／・期間中にエントリー＋条件を満たし100円以上の決済を1回するだけでもれなく100ポイント還元、といった企画も。多くがエントリー必須なので、月初にまとめてエントリーしておくと取りこぼしません。"
             },
             {
               "heading": "地域還元も",
@@ -1056,10 +912,6 @@
             {
               "name": "マイベスト（楽天ペイ キャンペーンまとめ）",
               "url": "https://my-best.com/articles/6024"
-            },
-            {
-              "name": "インサイドシーナ（毎月エントリー一覧）",
-              "url": "https://www.inside-shiina.com/entry/rakutenpay-campaign-list"
             },
             {
               "name": "全国キャッシュレス還元まとめ（kojinabi）",
@@ -1074,35 +926,11 @@
       "label": "おでかけ",
       "topics": [
         {
-          "id": "out-kenmin",
-          "title": "【きょう6/15】県民の日は柏の葉公園が無料 広い芝生・ボート池で一日遊べる",
-          "summary": "きょう6/15の県民の日は柏の葉公園が無料。芝生広場・ボート池・ボードウォークで一日遊べる。午前着でピクニック→ボート→園内カフェが定番。混雑注意。",
-          "category": "近場",
-          "date": "2026-06-15",
-          "lead": "きょう6月15日の千葉県民の日は、柏の葉公園内の各施設が無料に。広い芝生広場、ボート池、緑のボードウォークなど、小さな子ども連れでも一日のんびり過ごせます。",
-          "sections": [
-            {
-              "heading": "おすすめの過ごし方",
-              "body": "午前中に到着して芝生でピクニック→ボート→公園内のカフェ、という流れが定番。無料日は混むので、レジャーシート・飲み物・帽子は持参が安心です。隣接の県立柏の葉公園総合競技場側もあわせて広いので、ベビーカーでも回りやすいです。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "号外NET 柏市（県民の日 無料）",
-              "url": "https://kashiwa.goguynet.jp/2026/06/14/kashiwanohapark2026free/"
-            },
-            {
-              "name": "いこーよ（柏 親子おでかけ）",
-              "url": "https://iko-yo.net/events?prefecture_ids%5B%5D=12&tags%5B%5D=%E6%9F%8F"
-            }
-          ]
-        },
-        {
           "id": "out-tsite",
           "title": "柏の葉T-SITEの子ども向けワークショップ 離乳食教室・「おしごと算数」など",
           "summary": "柏の葉T-SITEは赤ちゃん向け離乳食教室や子ども向け『おしごと算数』などを随時開催。屋内で天候に左右されず、本屋・カフェと組み合わせて過ごせる。雨の日にも◎。",
           "category": "屋内",
-          "date": "2026-06-13",
+          "date": "2026-06-17",
           "lead": "柏の葉T-SITEでは、赤ちゃん向けの離乳食教室や、子ども向けの『おしごと算数 数の魔術師編』などのワークショップが随時開催されています。屋内なので天候に左右されず、本屋・カフェと合わせて過ごせます。",
           "sections": [
             {
@@ -1126,7 +954,7 @@
           "title": "柏の葉公園のイベント情報まとめ 季節の催し・遊び場をチェック",
           "summary": "県立柏の葉公園は季節ごとに親子向けイベントを開催。ウォーカープラス・じゃらん・いこーよで柏エリアを横断チェックし、日付と対象年齢で絞ると週末の予定を立てやすい。",
           "category": "イベント",
-          "date": "2026-06-13",
+          "date": "2026-06-17",
           "lead": "千葉県立柏の葉公園では、季節ごとに親子向けのイベントが開かれています。週末のおでかけ前に、最新の開催情報をまとめてチェックできるサイトをそろえました。",
           "sections": [
             {
