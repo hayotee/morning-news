@@ -1,109 +1,73 @@
 {
-  "updatedAt": "2026-07-05T10:30:00+09:00",
+  "updatedAt": "2026-08-14T08:20:00+09:00",
   "tabs": [
     {
       "id": "top",
       "label": "トップ",
       "topics": [
         {
-          "id": "rus-ukraine-0705",
-          "category": "国際",
-          "date": "2026-07-05",
-          "title": "ロシア、ウクライナ東部の要衝への砲撃停止を提案 停戦めぐる駆け引きに",
-          "summary": "ロシアがウクライナ東部の要衝への砲撃停止を提案したと伝えられ、停戦をめぐる駆け引きが動いている。実現すれば戦況や和平協議に影響する可能性があるが、条件や真意をめぐり慎重な見方も。国際情勢の重要な動きとして注目される。",
-          "lead": "ロシアが、ウクライナ東部の要衝への砲撃を停止する案を提示したと報じられています。停戦や和平をめぐる駆け引きに動きが出ています。",
+          "id": "chiba-heavy-rain-0814",
+          "category": "災害",
+          "date": "2026-08-14",
+          "title": "千葉県で記録的大雨・土砂災害特別警報 死者3人、柏市でも心肺停止者",
+          "summary": "千葉県で13日夜から14日にかけ記録的な大雨となり、線状降水帯が発生。気象庁は大雨と土砂災害の特別警報を千葉市などへ初めて同時発表した。市川市・佐倉市・八千代市で死亡が確認され、柏市でも男性が心肺停止で発見されるなど被害が広域に。一時40万人超に避難指示が出され、JR各線の運休で約1万人が帰宅困難となった。",
+          "lead": "千葉県で13日夜から14日朝にかけて記録的な大雨となり、気象庁は大雨と土砂災害の特別警報を千葉市などに発表しました。県内各地で死者が相次ぎ、交通網も大きく乱れています。",
           "sections": [
             {
-              "heading": "ポイント",
-              "body": "砲撃停止が実現すれば戦況や避難民の状況に影響しうる一方、提案の条件や真意をめぐっては慎重な見方も根強くあります。エネルギー価格や世界経済にも波及するテーマで、今後の交渉の行方が注目されます。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "NHK NEWS WEB",
-              "url": "https://news.web.nhk/newsweb"
+              "heading": "被害状況",
+              "body": "市川市・佐倉市・八千代市で死亡が確認されたほか、柏市でも冠水した道路で男性が心肺停止の状態で見つかるなど被害が広域に及んでいます。一時40万人超に避難指示が出され、避難所となった千葉県庁には500人超が身を寄せました。県内では最大時4万5000戸超が停電しました。"
             },
             {
-              "name": "Yahoo!ニュース（主要トピックス）",
-              "url": "https://news.yahoo.co.jp/topics/top-picks"
-            }
-          ]
-        },
-        {
-          "id": "us-demo-0705",
-          "category": "国際",
-          "date": "2026-07-05",
-          "title": "米独立記念日 首都ワシントンなどでデモ行進 政権への抗議も",
-          "summary": "7月4日の米独立記念日に合わせ、首都ワシントンなどで大規模なデモ行進が行われた。トランプ政権の政策（移民や出生地主義判決など）への抗議の色合いもあり、祝賀ムードの一方で国内の分断もうかがわせる一日となった。",
-          "lead": "アメリカの独立記念日（7月4日）に合わせ、首都ワシントンなどでデモ行進が行われました。祝賀行事の一方で、政権への抗議の動きも見られました。",
-          "sections": [
-            {
-              "heading": "背景",
-              "body": "移民政策や、最高裁の出生地主義をめぐる判決など、トランプ政権の政策に対する賛否が国内で割れています。独立記念日という象徴的な日のデモは、米国内の分断を映す動きとして注目されています。"
+              "heading": "交通・生活への影響",
+              "body": "JR京葉線など複数路線が始発から運休し、約1万人が帰宅困難になりました。気象庁は14日も関東地方で激しい雨が続く恐れがあるとして、引き続き厳重な警戒を呼びかけています。柏市周辺にお住まいの方は最新の避難情報・冠水情報を必ず確認してください。"
             }
           ],
           "sources": [
             {
-              "name": "Yahoo!ニュース（主要トピックス）",
-              "url": "https://news.yahoo.co.jp/topics/top-picks"
-            }
-          ]
-        },
-        {
-          "id": "higuma-0705",
-          "category": "社会",
-          "date": "2026-07-05",
-          "title": "各地でクマ目撃相次ぐ 山で4人が一時立ち往生 夏山シーズンは注意",
-          "summary": "山中でヒグマが目撃され、登山者ら4人が一時立ち往生する事態が発生。夏山シーズンでクマの目撃・遭遇のリスクが高まっており、鈴やラジオで音を出す・単独行動を避けるなどの基本対策が改めて呼びかけられている。",
-          "lead": "山中でクマ（ヒグマ）が目撃され、登山者ら4人が一時立ち往生しました。夏山シーズンを迎え、クマへの警戒が呼びかけられています。",
-          "sections": [
-            {
-              "heading": "対策",
-              "body": "クマは朝夕に活動が活発になりやすく、山では鈴やラジオで音を出す、単独行動を避ける、食べ物やゴミを放置しない、といった基本対策が重要です。目撃情報がある地域では特に注意しましょう。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Yahoo!ニュース（主要トピックス）",
-              "url": "https://news.yahoo.co.jp/topics/top-picks"
-            }
-          ]
-        },
-        {
-          "id": "wc-france-qf-0705",
-          "category": "スポーツ",
-          "date": "2026-07-05",
-          "title": "W杯 フランスが8強進出 エムバペのPKで先制 判定めぐり乱闘寸前の熱戦",
-          "summary": "サッカーW杯北中米大会でフランスがベスト8（8強）に進出。エムバペのPKで先制し、苦しみながらも勝ち切った。判定をめぐって選手が激高し乱闘寸前の場面もある白熱の展開に。優勝候補の勝ち上がりに世界が注目している。",
-          "lead": "サッカーW杯北中米大会で、フランスがエムバペのPKによる先制などでベスト8に進出しました。判定をめぐって一時緊迫する場面もある熱戦でした。",
-          "sections": [
-            {
-              "heading": "ポイント",
-              "body": "エムバペが引き続き得点を重ね、フランスは苦しみながらも8強入り。判定をめぐる激しい抗議で乱闘寸前になる場面もありました。優勝争いがいよいよ佳境に入り、世間話でも盛り上がる話題です。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Yahoo!ニュース（主要トピックス）",
-              "url": "https://news.yahoo.co.jp/topics/top-picks"
+              "name": "NHK NEWS WEB（大雨・土砂災害の特別警報）",
+              "url": "https://news.web.nhk/newsweb/na/nd-20260814de43948"
             },
             {
-              "name": "NHK NEWS WEB",
-              "url": "https://news.web.nhk/newsweb"
+              "name": "日本経済新聞（千葉の記録的大雨、死者2人に）",
+              "url": "https://www.nikkei.com/article/DGXZQOUD1396B0T10C26A8000000/"
             }
           ]
         },
         {
-          "id": "hotdog-0705",
-          "category": "スポーツ",
-          "date": "2026-07-05",
-          "title": "NYの名物ホットドッグ早食い 須藤美貴さんが38個で12回目の優勝",
-          "summary": "米ニューヨークで独立記念日恒例のホットドッグ早食い大会が開催され、須藤美貴さんが10分で38個を平らげ12回目の優勝を果たした。圧倒的な強さで“早食いの女王”の存在感を示し、明るい話題として世界に伝えられた。",
-          "lead": "アメリカ独立記念日恒例のホットドッグ早食い大会で、須藤美貴さんが10分で38個を食べ、12回目の優勝を飾りました。",
+          "id": "sangiin-kekka-0721",
+          "category": "政治",
+          "date": "2026-07-21",
+          "title": "参院選で自民・公明が過半数割れ 高市政権、衆参ねじれに直面",
+          "summary": "7月20日投開票の参院選で自民・公明が過半数を割り込み、衆参両院で少数与党という「ねじれ」国会に。焦点だった食料品の消費税減税法案は、単独では通せず野党との協議が不可欠となり、秋の臨時国会に向けて政権運営の先行きは不透明感を増している。",
+          "lead": "7月20日に投開票された参議院選挙で、自民・公明両党が過半数を割り込みました。高市政権は衆参両院で少数与党となる「ねじれ」に直面しています。",
+          "sections": [
+            {
+              "heading": "与党過半数割れの影響",
+              "body": "焦点だった食料品消費税の減税法案は単独では成立させられず、野党との協議が不可欠になりました。秋の臨時国会での法案審議の行方や政権運営そのものが一段と不透明になっています。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞（自民・公明大敗で過半数割れ）",
+              "url": "https://www.nikkei.com/article/DGXZQOUA205QD0Q5A720C2000000/"
+            },
+            {
+              "name": "NHK NEWS WEB（政治）",
+              "url": "https://news.web.nhk/newsweb/genre/politics"
+            }
+          ]
+        },
+        {
+          "id": "yabe-ann-0814",
+          "category": "芸能",
+          "date": "2026-08-14",
+          "title": "ナインティナイン矢部浩之さん、大雨の影響でANN休演 千葉在住のため",
+          "summary": "ナインティナインの矢部浩之さんが、千葉県内の記録的大雨の影響でラジオ「オールナイトニッポン」を休演。千葉在住のタレントの日常生活にも大雨の影響が及んでいることを示す身近な話題として伝えられている。",
+          "lead": "千葉県内の記録的な大雨の影響で、ナインティナインの矢部浩之さんがラジオ番組を休演しました。",
           "sections": [
             {
               "heading": "ひとこと",
-              "body": "独立記念日の“風物詩”として世界的に知られる大会。圧倒的な連覇は明るいニュースで、世間話でも触れやすい話題です。"
+              "body": "千葉在住のタレントの日常にも影響が及ぶほど、今回の大雨が広範囲だったことがうかがえます。"
             }
           ],
           "sources": [
@@ -120,506 +84,138 @@
       "label": "テック",
       "topics": [
         {
-          "id": "kimi-copilot",
+          "id": "deepseek-v4-pro-0813",
           "category": "AI",
-          "date": "2026-07-02",
-          "title": "中国発コーディングAI「Kimi K2.7 Code」 GitHub Copilotで一般提供に",
-          "summary": "中国Moonshot AIのコーディングモデル『Kimi K2.7 Code』が、GitHub Copilotで一般提供（GA）に。主要な開発ツールで中国発モデルが選べるようになり、Claude/GPT系に加えた“モデルの使い分け”が一段と進む。HNでも話題（400超pt）。",
-          "lead": "中国Moonshot AIのコーディング特化モデル『Kimi K2.7 Code』が、GitHub Copilotで一般提供（GA）になりました。主要な開発環境で選べるモデルの選択肢がさらに広がっています。",
+          "date": "2026-08-13",
+          "title": "中国DeepSeek「V4 Pro 0813」公開 HNで1,000pt超の反響",
+          "summary": "中国DeepSeekが新モデル『DeepSeek V4 Pro 0813』を公開。OpenRouter経由で利用可能になり、Hacker Newsで1,000ポイント超の大きな反響を呼んでいる。中国発オープン系モデルの進化が続いている。",
+          "lead": "中国DeepSeekが新モデル『DeepSeek V4 Pro 0813』を公開しました。Hacker Newsで1,000ポイントを超える反響を呼んでいます。",
           "sections": [
             {
               "heading": "ポイント",
-              "body": "CopilotはすでにClaudeやOpenAIモデルを使い分けられる『マルチモデル』化が進んでおり、そこに高性能な中国発モデルが加わった形。用途やコストに応じてモデルを選ぶ流れが、開発現場で一段と当たり前になっています。"
+              "body": "OpenRouter経由ですぐに試せる形で公開されており、性能・価格の両面で引き続き注目される中国発オープンウェイト系モデルの最新版です。"
             }
           ],
           "sources": [
             {
-              "name": "Hacker News（Kimi K2.7 Code in GitHub Copilot）",
-              "url": "https://hn.algolia.com/api/v1/search?query=Kimi%20K2.7%20Copilot&tags=story"
+              "name": "OpenRouter（DeepSeek V4 Pro 0813）",
+              "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
+            },
+            {
+              "name": "Hacker News（DeepSeek V4 Pro）",
+              "url": "https://hn.algolia.com/api/v1/search?query=DeepSeek%20V4%20Pro&tags=story"
             }
           ]
         },
         {
-          "id": "palantir-europe",
-          "category": "Palantir",
-          "date": "2026-07-02",
-          "title": "欧州で「Palantir離れ」加速 仏は国産に切替・スイス法廷で敗訴、スペインも排除の動き",
-          "summary": "米データ分析大手Palantirが欧州で逆風。仏の情報機関は同社ツールから国産(ChapsVision)へ切替、スイスの商事裁判所では主張の大半が退けられ敗訴。さらにスペインでも公共・民間からの排除を命じる動きが報じられ、米国依存や信頼性への懸念が広がる。",
-          "lead": "米データ分析大手Palantir（PLTR）が欧州で逆風にさらされています。各国政府が機密性の高い契約で国産技術を優先する動きが強まっています。",
-          "sections": [
-            {
-              "heading": "何が起きているか",
-              "body": "フランスの情報機関(DGSI)はPalantirのツールから国産のChapsVisionへ切り替え。スイスの商事裁判所では同社の反論23件中22件が退けられ敗訴し、信頼性が傷つきました。加えてスペインでも公共・民間からの排除を命じる動きが報じられています。"
-            },
-            {
-              "heading": "なぜ重要か",
-              "body": "Palantirは政府向け契約が収益の柱。欧州での“米国依存”への警戒と国産志向の高まりは、同社の欧州事業やSaaS/AI銘柄としての評価に影を落とす可能性があります。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Business Insider Japan（スイス法廷で敗訴・欧州の信頼低下）",
-              "url": "https://www.businessinsider.jp/article/2606-news-palantir-took-a-swiss-courtroom-loss-and-a-european-credibility-hit/"
-            },
-            {
-              "name": "Hacker News（Spain blacklists Palantir）",
-              "url": "https://hn.algolia.com/api/v1/search?query=Spain%20Palantir&tags=story"
-            }
-          ]
-        },
-        {
-          "id": "ai-patent-jp",
+          "id": "grok-4-6",
           "category": "AI",
-          "date": "2026-07-02",
-          "title": "日本の裁判所「AIは特許の発明者と認められない」 発明者は人間に限ると判断",
-          "summary": "報道によると、日本の裁判所がAIを特許の発明者として認めない判断を示した。発明者は人間に限られるとの立場で、AIが自律的に生み出した成果の権利の扱いに一石。生成AI時代の知財ルールをめぐる議論が国内でも本格化している。",
-          "lead": "日本の裁判所が、AI（人工知能）を特許の発明者として認めないとの判断を示したと報じられています。発明者は人間に限られるという立場です。",
+          "date": "2026-08-13",
+          "title": "xAI「Grok 4.6」発表 HNで600pt超",
+          "summary": "イーロン・マスク率いるxAIが新モデル『Grok 4.6』を発表。ベンチマークスコア61を獲得したとされ、Hacker Newsで600ポイント超の反響。主要各社の新モデル競争が続いている。",
+          "lead": "xAIが新モデル『Grok 4.6』を発表しました。",
           "sections": [
             {
               "heading": "ポイント",
-              "body": "AIが自律的に生み出した発明の権利を誰に帰属させるかは世界的な論点。今回の判断は『発明者＝人間』という現行制度の考え方を踏襲するものです。JASRACのAI楽曲指針（人間の創作的寄与が基準）とも通じ、AIと知財のルール整備が国内でも進んでいます。"
+              "body": "公式発表ではベンチマークスコア61を獲得したとされ、既存モデルとの性能競争が続いています。"
             }
           ],
           "sources": [
             {
-              "name": "Hacker News（Japan court: AI not a patent inventor）",
-              "url": "https://hn.algolia.com/api/v1/search?query=AI%20patent%20inventor%20Japan&tags=story"
+              "name": "xAI（Grok 4.6発表）",
+              "url": "https://x.ai/news/grok-4-6"
+            },
+            {
+              "name": "Hacker News（Grok 4.6）",
+              "url": "https://hn.algolia.com/api/v1/search?query=Grok%204.6&tags=story"
             }
           ]
         },
         {
-          "id": "sony-delete",
-          "category": "テック",
-          "date": "2026-07-01",
-          "title": "ソニー、購入済み映画551本をPSアカウントから削除 「デジタル所有権」論争再燃",
-          "summary": "ソニーが、ユーザーが購入済みだった映画551本をPlayStationアカウントから削除したとして議論に。『買ったはずのデジタルコンテンツが消える』という所有権の問題が改めて注目され、配信・ダウンロード購入のあり方に疑問の声が広がっている。",
-          "lead": "ソニーが、ユーザーが購入していた映画551本をPlayStationのアカウントから削除したことが分かり、大きな議論を呼んでいます。",
-          "sections": [
-            {
-              "heading": "論点",
-              "body": "配信・ダウンロード購入は、実際には『視聴権のライセンス』であり、権利元の都合で提供が終わると消えることがあります。『買った＝ずっと自分のもの』とは限らない——というデジタル所有権の問題が改めて突きつけられました。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Hacker News（Sony deleted 551 purchased movies）",
-              "url": "https://hn.algolia.com/api/v1/search?query=Sony%20deleted%20movies%20PlayStation&tags=story"
-            }
-          ]
-        },
-        {
-          "id": "claude-sonnet-5",
+          "id": "gemini-3-7-flash",
           "category": "AI",
-          "date": "2026-06-30",
-          "title": "Anthropic「Claude Sonnet 5」発表 上位Opus 4.8に迫る性能を低価格で 無料/Proの既定モデルに",
-          "summary": "Anthropicが6/30、中位モデル『Claude Sonnet 5』を発表。推論・ツール利用・コーディングで前世代Sonnet 4.6から大幅向上し、一部指標で上位Opus 4.8に迫る。価格は8/31まで入力$2/出力$10（以降$3/$15）。無料・Proの既定モデルとなり、自律エージェントを安く一日中動かせるのが売り。",
-          "lead": "Anthropicが6月30日、中位モデル『Claude Sonnet 5』を発表しました。上位のOpus 4.8に迫るエージェント性能を、より低価格で提供するのが特徴です。",
-          "sections": [
-            {
-              "heading": "性能と価格",
-              "body": "計画立案やブラウザ・ターミナル等のツール利用、自律実行の能力が前世代Sonnet 4.6から大幅に向上し、知識労働やコーディングの一部指標では上位Opus 4.8を上回るとされます。価格は8/31まで入力$2/出力$10（100万トークン）、以降は$3/$15。無料・Proプランの既定モデルになりました。"
-            },
-            {
-              "heading": "ねらい",
-              "body": "『安く一日中動かせる自律エージェント』を前面に打ち出しており、AIエージェントのコストを下げてSaaS・開発フローに広く組み込ませる狙い。IPOも控えるAnthropicの戦略モデルと位置づけられています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "TechCrunch（Sonnet 5＝安価なエージェント）",
-              "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
-            },
-            {
-              "name": "マイナビニュース（Opus 4.8に迫る性能）",
-              "url": "https://news.mynavi.jp/techplus/article/20260701-4649501/"
-            },
-            {
-              "name": "窓の杜（Claude Sonnet 5発表）",
-              "url": "https://forest.watch.impress.co.jp/docs/news/2121349.html"
-            }
-          ]
-        },
-        {
-          "id": "claude-science",
-          "category": "AI",
-          "date": "2026-06-30",
-          "title": "Anthropic「Claude Science」発表 研究・科学向けの新プロダクト",
-          "summary": "Anthropicが6/30、Claude Sonnet 5と同時に科学・研究向けの新プロダクト『Claude Science』を発表。研究ワークフローの支援を狙う。Hacker Newsでも取り上げられ、AIの科学応用への関心の高まりを示す動きとして注目されている。",
-          "lead": "Anthropicは6月30日、Claude Sonnet 5と合わせて、科学・研究分野向けの新プロダクト『Claude Science』を発表しました。",
+          "date": "2026-08-13",
+          "title": "Google「Gemini 3.7 Flash」発表 軽量・高速モデルを追加",
+          "summary": "Googleが軽量・高速版の新モデル『Gemini 3.7 Flash』を発表。HNでも500pt超の反響。低コストで応答速度を重視する用途向けに、各社が軽量モデルのラインアップを強化する流れが続く。",
+          "lead": "Googleが軽量・高速版の新モデル『Gemini 3.7 Flash』を発表しました。",
           "sections": [
             {
               "heading": "ポイント",
-              "body": "研究者のワークフロー（文献調査・データ解析・仮説検討など）をAIで支援する方向性とみられます。AIの応用が汎用チャットから専門領域（医療・科学）へ広がる流れの一環で、詳細は公式発表で順次明らかになる見込みです。"
+              "body": "低コスト・高速応答を重視した用途向けの位置づけで、各社が『重い最上位モデル』と『軽量高速モデル』を使い分けさせる流れが一段と進んでいます。"
             }
           ],
           "sources": [
             {
-              "name": "Anthropic 公式ニュース",
-              "url": "https://www.anthropic.com/news"
+              "name": "Google公式ブログ（Gemini 3.7 Flash）",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
             },
             {
-              "name": "Hacker News（Claude Science）",
-              "url": "https://hn.algolia.com/api/v1/search?query=Claude%20Science&tags=story"
+              "name": "Hacker News（Gemini 3.7 Flash）",
+              "url": "https://hn.algolia.com/api/v1/search?query=Gemini%203.7%20Flash&tags=story"
             }
           ]
         },
         {
-          "id": "qwen-36",
+          "id": "qwen-3-8-2-4t",
           "category": "AI",
-          "date": "2026-06-29",
-          "title": "「Qwen 3.6 27B」が話題 “ローカル開発のスイートスポット”とHNで高評価",
-          "summary": "アリババ系のオープンモデル『Qwen 3.6 27B』が、手元で動かすローカル開発の“ちょうど良い”サイズとしてHacker Newsで大反響（1,100超pt）。高性能なオープンウェイトの選択肢が増え、クラウド課金や規制を避けてローカルでAIを回す動きが一段と強まっている。",
-          "lead": "オープンウェイトの大規模言語モデル『Qwen 3.6 27B』が、ローカル環境で動かす開発の“スイートスポット”として、Hacker Newsで大きな反響（1,100超ポイント）を呼んでいます。",
-          "sections": [
-            {
-              "heading": "なぜ話題か",
-              "body": "27Bというサイズは、一般的なGPUでも動かしやすく性能も十分という“ちょうど良さ”が評価の理由。Claude Sonnet 5のような割安クラウドモデルと、手元で動くオープンモデルの両方が充実し、用途に応じた使い分けが現実的になっています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Hacker News（Qwen 3.6 27B）",
-              "url": "https://hn.algolia.com/api/v1/search?query=Qwen%203.6%2027B&tags=story"
-            }
-          ]
-        },
-        {
-          "id": "openai-loss",
-          "category": "AI",
-          "date": "2026-06-18",
-          "title": "OpenAI、2025年通期で385億ドルの巨額赤字判明 売上130億ドル・R&D190億、流出文書をFTが検証",
-          "summary": "上場前OpenAIの監査済み財務書類が流出。2025年通期は売上130.7億ドルに急増する一方、純損失385.3億ドルの巨額赤字と判明。研究開発費190億ドルが重荷に。コラムニストのエド・ジトロン氏が公開し、英FTが信憑性を検証。AIの収益性に改めて疑問符。",
-          "lead": "上場を控えるOpenAIの監査済み財務書類が流出し、2025年通期で385.3億ドル(約6.2兆円)の純損失という巨額赤字だったことが判明しました。売上は130.7億ドルへ急増した一方、赤字も急拡大しています。",
-          "sections": [
-            {
-              "heading": "中身",
-              "body": "売上130.7億ドルに対し純損失385.3億ドル。研究開発費だけで190億ドルに上り、収益を大きく圧迫。財務書類はテックコラムニストのエド・ジトロン氏が入手・公開し、英フィナンシャル・タイムズが信憑性を検証しています。"
-            },
-            {
-              "heading": "なぜ重要か",
-              "body": "AI業界の“勝ち頭”とされるOpenAIですら巨額赤字という事実は、生成AIの持続可能なビジネスモデルへの疑問を改めて投げかけます。値下げ競争(GPT-5.5など)とも相まって、収益化が業界共通の課題に。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "BigGoファイナンス(財務諸表判明)",
-              "url": "https://finance.biggo.jp/news/e8ea58a7-ccdf-4eb5-a0cb-bd8586919d04"
-            },
-            {
-              "name": "Hacker News(leaked financials)",
-              "url": "https://hn.algolia.com/api/v1/search?query=OpenAI%20losing%20billions&tags=story"
-            }
-          ]
-        },
-        {
-          "id": "midjourney-medical",
-          "category": "AI",
-          "date": "2026-06-18",
-          "title": "Midjourney Medicalが全身スキャナー発表 60秒・数ドルで体内を可視化",
-          "summary": "画像生成AIのMidjourneyが医療部門『Midjourney Medical』で全身スキャナーを発表。約60秒・数ドルで体内を可視化する構想で、超音波チップのButterfly Networkと提携し独自の画像再構成アルゴリズムを開発。AIの医療応用として大きな話題に(HNでも1,200超pt)。",
-          "lead": "画像生成AIで知られるMidjourneyが、医療部門『Midjourney Medical』として全身スキャナーを発表しました。約60秒・数ドルで体内を可視化するという野心的な構想です。",
+          "date": "2026-08-13",
+          "title": "Alibaba系「Qwen3.8-2.4T」公開 超大規模パラメータのオープンモデル",
+          "summary": "Alibaba系Qwenチームが超大規模パラメータの新モデル『Qwen3.8-2.4T』をHugging Faceで公開。HNで700pt超の反響を呼んでおり、オープンウェイト系の大規模化競争が続いている。",
+          "lead": "Alibaba系Qwenチームが、超大規模パラメータの新モデル『Qwen3.8-2.4T』をHugging Faceで公開しました。",
           "sections": [
             {
               "heading": "ポイント",
-              "body": "超音波チップを手がけるButterfly Networkと提携し、独自のスキャナー設計と画像再構成アルゴリズムを開発。画像生成AIの技術を医療画像に応用する試みで、低コスト・高速の体内可視化を狙います。"
-            },
-            {
-              "heading": "留意点",
-              "body": "医療応用は規制・安全性・精度の検証が不可欠で、実用化には時間がかかる見込み。期待先行の側面もありますが、AIの応用領域が“創作”から“医療”へ広がる象徴的な動きです。"
+              "body": "パラメータ規模を大きく引き上げたオープンウェイトモデルで、クローズドモデルに対抗するオープン系の勢いを示す動きとして注目されています。"
             }
           ],
           "sources": [
             {
-              "name": "innovaTopia(全身スキャナー発表)",
-              "url": "https://innovatopia.jp/healthcare/healthcare-news/109586/"
+              "name": "Hugging Face（Qwen3.8-2.4T-A95B）",
+              "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
             },
             {
-              "name": "Hacker News(Midjourney Medical)",
-              "url": "https://hn.algolia.com/api/v1/search?query=Midjourney%20Medical&tags=story"
+              "name": "Hacker News（Qwen3.8-2.4T）",
+              "url": "https://hn.algolia.com/api/v1/search?query=Qwen3.8-2.4T&tags=story"
             }
           ]
         },
         {
-          "id": "ai-turnoff",
+          "id": "ai-middle-class",
           "category": "AI",
-          "date": "2026-06-18",
-          "title": "「“AI”を売り文句にすると逆効果」米消費者の6割 ブランドのAI連呼に冷ややか",
-          "summary": "米消費者の約60%が、ブランドのメッセージで『AI』を強調されると購買意欲が下がると回答(HNでも1,000超pt)。AIブームの裏で、マーケティングでの“AI連呼”への嫌悪感が広がっていることを示すデータとして注目。AIは“付け方”が問われる段階に。",
-          "lead": "米消費者の約60%が、ブランドのメッセージに『AI』が含まれると“購買意欲が下がる”と回答した、という調査が話題です。AIブームの過熱への消費者の冷静な反応がうかがえます。",
+          "date": "2026-08-13",
+          "title": "「AIがソフトウェアエンジニアの“中間層”を奪っている」 HNで論争、960pt超",
+          "summary": "『AIはソフトウェアエンジニアリングの中間層を奪っているのか』という問題提起がHacker Newsで960ポイント超の大論争に。AIコーディングツールの普及で、中堅エンジニアの役割や採用市場が変化しているとの指摘が相次いでいる。",
+          "lead": "『AIがソフトウェアエンジニアの“中間層”を奪っているのではないか』という問題提起が、Hacker Newsで大きな論争を呼んでいます。",
           "sections": [
             {
-              "heading": "何を示すか",
-              "body": "『AI搭載』を売り文句にすれば売れる、という前提が崩れつつあることを示します。機能としてのAIより、実際の使い勝手や価値が問われる段階に。SaaSの“AI機能を載せただけでは差別化にならない”という議論とも通じます。"
+              "heading": "何が議論に",
+              "body": "AIコーディングツールが定型的な実装作業を肩代わりする中、経験の浅いジュニアや中堅エンジニアの採用・育成のあり方が変化しているとの指摘が相次いでいます。一方で『むしろ設計力の価値が上がる』との反論も。"
             }
           ],
           "sources": [
             {
-              "name": "Hacker News(AI in brand messaging is a turnoff)",
-              "url": "https://hn.algolia.com/api/v1/search?query=AI%20brand%20messaging%20turnoff&tags=story"
+              "name": "Hacker News（AI removing the middle class of software engineering）",
+              "url": "https://hn.algolia.com/api/v1/search?query=AI%20middle%20class%20software%20engineering&tags=story"
             }
           ]
         },
         {
-          "id": "spacex-cursor-tech",
-          "title": "SpaceX、AIコーディングツール「Cursor」を$60Bで買収 テック業界激震・エンジニア界隈で議論沸騰",
-          "summary": "SpaceXが6/16、Cursor（Anysphere）を60億ドルの全株式交換で買収。エンジニアに人気のAIコーディングアシスタントが宇宙企業傘下に。AI開発ツール市場がM&A戦国時代に突入し、HNでも820ポイント超の大反響。",
+          "id": "gpt-5-6-sol-ultrafast",
           "category": "AI",
-          "date": "2026-06-16",
-          "lead": "SpaceXが6月16日、AIコーディングアシスタント「Cursor」の開発元Anysphereを$60B（全株式交換）で買収合意。ソフトウェアエンジニアのコーディング作業を大幅に効率化するツールが、宇宙開発企業SpaceXの傘下に入ることになりました。",
+          "date": "2026-08-13",
+          "title": "OpenAI系「GPT-5.6 Sol Ultrafast」高速化が話題 HNで360pt超",
+          "summary": "OpenAI系の新型『GPT-5.6 Sol Ultrafast』の応答速度向上がHacker Newsで360ポイント超の反響。各社が精度だけでなく応答速度でも競う流れが強まっている。",
+          "lead": "OpenAI系の新型『GPT-5.6 Sol Ultrafast』について、応答速度の大幅な向上がHacker Newsで話題になっています。",
           "sections": [
             {
-              "heading": "Cursorとは",
-              "body": "Cursorは既存のエディタ（VS Code互換）にAI補完・インラインチャット・コード生成を組み込んだAIコーディングアシスタントで、GitHub Copilotの強力な競合です。特にエンジニアの「コーディング作業の外注先」として急速に普及し、SubscriptionベースのSaaSモデルで急成長していました。"
-            },
-            {
-              "heading": "業界への示唆",
-              "body": "AI開発ツール市場では、GitHub Copilot（Microsoft/OpenAI）、Cursor（→SpaceX）、Windsurf、Devinなどが激しく競合しています。「ロケット会社がコーディングツールを買収」という組み合わせは、宇宙産業のソフトウェア内製化・AI化の加速を意味する一方、将来的なCursorの独立性やオープン性を懸念する声もHNで上がっています。"
-            },
-            {
-              "heading": "エンジニアの反応",
-              "body": "Hacker Newsでは「SpaceXのような急成長・高エンジニア密度な企業がCursorを使い倒すのは当然」との好意的な声と、「SpaceX傘下になってエンタープライズ向けになるのでは」との懸念が混在。WinDsurfやZedへの乗り換えを検討する声も出ています。"
+              "heading": "ポイント",
+              "body": "精度競争に加えて応答速度（レイテンシ）でも各社が競う流れが強まっており、リアルタイム性が求められるエージェント用途での使い分けが進みそうです。"
             }
           ],
           "sources": [
             {
-              "name": "CBS News（SpaceX to buy Cursor for $60B）",
-              "url": "https://www.cbsnews.com/news/spacex-cursor-60-billion-ai-acquisition/"
-            },
-            {
-              "name": "CNBC（SpaceX to acquire Anysphere）",
-              "url": "https://www.cnbc.com/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
-            },
-            {
-              "name": "Hacker News（SpaceX / Cursor discussion）",
-              "url": "https://news.ycombinator.com/item?id=44330000"
-            }
-          ]
-        },
-        {
-          "id": "linkedin-backdoor",
-          "title": "LinkedIn求人経由でバックドア攻撃 「npm install」で端末乗っ取り HNで1500pt超",
-          "summary": "LinkedInの求人を装ったバックドア攻撃が話題（HN 1,533pt）。コーディング課題として渡されたGitHubリポジトリのテストファイルに仕掛けが。npm install実行時に自動起動し、攻撃者サーバーへ接続・リモート操作を可能にする。",
-          "category": "セキュリティ",
-          "date": "2026-06-16",
-          "lead": "LinkedInの求人募集を装ったバックドア攻撃の手口が、セキュリティ研究者のブログで報告されHacker Newsで1,533ポイントを集めています。開発者を標的にした「コーディング課題」を悪用した新たな攻撃手法です。",
-          "sections": [
-            {
-              "heading": "攻撃の手口",
-              "body": "攻撃者は実在する企業の採用担当者を装い、LinkedInでコーディング課題（技術評価）としてGitHubリポジトリのリンクを送付。リポジトリのテストファイル（ `npm install` 実行時に自動起動するスクリプト）にバックドアが仕込まれており、フラグメント化されたURLを組み立てて攻撃者のサーバーへ接続。任意コードを実行し、開発者の端末を遠隔操作できる状態にします。"
-            },
-            {
-              "heading": "防御策",
-              "body": "・見知らぬ採用担当者から送られたGitHubリポジトリは不用意にclone・インストールしない。・`package.json` の `postinstall`・`preinstall` スクリプトを必ず確認する。・採用候補社が実在するかLinkedIn・公式サイトで二重確認。・隔離された仮想環境でのみ試験的なコードを実行する。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "roman.pt（A backdoor in a LinkedIn job offer）",
-              "url": "https://roman.pt/posts/linkedin-backdoor/"
-            },
-            {
-              "name": "Hacker News（1533pt）",
-              "url": "https://news.ycombinator.com/item?id=44323000"
-            }
-          ]
-        },
-        {
-          "id": "apple-hide-my-email",
-          "title": "Apple「Hide My Email」が実質無力化へ @private.icloud.comへのドメイン変更で",
-          "summary": "AppleがHide My Emailのエイリアスドメインを@icloud.comから@private.icloud.comへ変更予定。変更後は受取側サービスが一括ブロックしやすくなり、プライバシー保護機能が事実上骨抜きに。HNで350pt超の話題。変更前に旧ドメインでエイリアス作成を急ぐ声も。",
-          "category": "プライバシー",
-          "date": "2026-06-16",
-          "lead": "AppleのiCloud+機能「Hide My Email」のエイリアスアドレスが、@icloud.comから@private.icloud.comへ変更される予定で、セキュリティコミュニティで議論を呼んでいます。",
-          "sections": [
-            {
-              "heading": "何が変わるのか",
-              "body": "これまでのHide My Emailは「@icloud.com」ドメインを使っており、通常のiCloudメールアドレスと区別がつかず、Appleの信頼度で受け入れられやすい利点がありました。新ドメイン「@private.icloud.com」になると、受取側のサービスが「このサブドメインは全ブロック」と対応しやすくなります。"
-            },
-            {
-              "heading": "影響と対策",
-              "body": "変更後は使い捨てメールサービスと同様に扱われ、多くのサービスで登録が弾かれる可能性があります。変更実施前に旧ドメイン（@icloud.com）でエイリアスを作成・保存しておくことが一時的な回避策として提唱されています。プライバシー志向の代替としてはSimpleLogin・Fastmailのエイリアス機能が挙げられています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "arseniyshestakov.com（Apple is about to make Hide My Email useless）",
-              "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/"
-            },
-            {
-              "name": "Hacker News（354pt）",
-              "url": "https://news.ycombinator.com/item?id=44328000"
-            }
-          ]
-        },
-        {
-          "id": "fable5-suspend",
-          "title": "米政府指令でAnthropicがFable 5・Mythos 5を提供停止 続報：発端は「fix this code」レベルの単純プロンプト",
-          "summary": "Anthropicが6/13、米政府の輸出管理指令に従いFable 5・Mythos 5を全面提供停止。続報でThe Registerなどが報道：停止の発端はjailbreakではなく「このコードを直して」レベルの通常プロンプトで問題が生じたとされ、停止の妥当性への疑義が広がった。HNで3,000超ポイントの大反響。",
-          "category": "AI",
-          "date": "2026-06-13",
-          "lead": "Anthropicが6月13日、米政府の輸出管理（export control）指令に従い、最上位モデル『Claude Fable 5』『Claude Mythos 5』へのアクセスを全面的に停止しました。その後の続報で、政府が問題視したのは高度なjailbreakではなく「このコードを直して」レベルの単純なプロンプトだったと報じられ、停止の妥当性への議論が加熱しています。",
-          "sections": [
-            {
-              "heading": "何が起きたのか",
-              "body": "Anthropicは6月13日17時21分（米東部時間）に政府指令を受領し、コンプライアンスのため全顧客向けに両モデルを即時停止しました（他のモデルは影響なし）。指令の内容は『あらゆる外国籍（foreign national）の利用者』への提供禁止というものです。"
-            },
-            {
-              "heading": "続報：「fix this code」が発端、jailbreakではなかった",
-              "body": "The Register等の続報によれば、政府がFable 5に懸念を持ったきっかけは、高度なjailbreak手法ではなく『このコードを直して（fix this code）』レベルの単純なプロンプトでサイバー攻撃に関連する情報が得られた、というものだったと研究者が説明しています。この事実により「通常の使用で問題が出るなら話は別」「だとすれば停止は過剰反応」と見方が二分しています。なお6月中旬時点でFable 5・Mythos 5は引き続き停止中です。"
-            },
-            {
-              "heading": "Anthropicの反論と波紋",
-              "body": "Anthropicは指令に従いつつも『数億人に展開済みの商用モデルを、限定的なjailbreakの発見だけでリコールすべきではない』と不同意を表明。『誤解がある』とし、早期のアクセス復旧を目指すとしています。EU委員会も今回の決定の実務的影響を検討し始めるなど、規制をめぐる波紋が広がっています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Anthropic 公式声明",
-              "url": "https://www.anthropic.com/news/fable-mythos-access"
-            },
-            {
-              "name": "CNBC（政府指令で停止）",
-              "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html"
-            },
-            {
-              "name": "Qiita（続報・「fix this code」が発端）",
-              "url": "https://qiita.com/yoshiyakato/items/9aacced8bdb6742ba77d"
-            }
-          ]
-        },
-        {
-          "id": "gpt55",
-          "title": "OpenAI、新・既定モデル「GPT-5.5 Instant」 誤答52.5%減・エージェント強化、AI価格戦争も激化",
-          "summary": "OpenAIがChatGPTの新既定モデル『GPT-5.5 Instant』を発表。誤答を約52.5%削減し、エージェント機能を大幅強化。旧GPT-5.2は6/12で提供終了。Anthropic Fable 5（入力$10）の登場を受けOpenAIは大幅値下げも検討と報じられ、AI価格戦争が一段と激化。",
-          "category": "AI",
-          "date": "2026-06-13",
-          "lead": "OpenAIがChatGPTの新しい既定（デフォルト）モデル『GPT-5.5 Instant』を発表しました。誤答（ハルシネーション）を約52.5%削減し、自律的にタスクをこなすエージェント機能を大幅に強化したのが特徴です。",
-          "sections": [
-            {
-              "heading": "何が新しいか",
-              "body": "GPT-5.5 Instantは応答の正確性とエージェント能力を重視した刷新で、ChatGPTの標準モデルに。旧『GPT-5.2』は6月12日で提供終了となり、次世代の『GPT-5.6』を示唆するCodex系開発ツールのティザーも出ています。"
-            },
-            {
-              "heading": "価格戦争",
-              "body": "背景にはAnthropicのFable 5（入力$10/100万トークン）など割安・高性能モデルの台頭があり、OpenAIはユーザー争奪を見越して大幅値下げを検討していると報じられています。モデル性能と価格の両面で各社の競争が激化しています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "XenoSpectrum（GPT-5.5 Instant）",
-              "url": "https://xenospectrum.com/gpt-55-instant-chatgpt-default/"
-            },
-            {
-              "name": "ビジネス+IT（GPT-5.5 発表）",
-              "url": "https://www.sbbit.jp/article/cont1/185117"
-            }
-          ]
-        },
-        {
-          "id": "local-llm",
-          "category": "AI",
-          "date": "2026-06-16",
-          "title": "「ローカルLLM」が実用域に 開発者がClaude/GPTから乗り換える動きも HNで大反響",
-          "summary": "Hacker Newsで『手元で動かすローカルAIモデルがいよいよ実用的』という議論が大反響（950pt）。クラウド課金・データ保持・規制（Fable 5停止など）を背景に、ローカル/オープン志向が強まっている。",
-          "lead": "Hacker Newsで『ローカルで動かすAIモデルがいよいよ実用的になった』という趣旨の議論が大きな反響を呼んでいます（950ポイント）。クラウドの最先端モデルだけでなく、手元のオープンモデルを使う選択肢が現実味を増しています。",
-          "sections": [
-            {
-              "heading": "何が話題か",
-              "body": "『日々のコーディングをClaude/GPTからローカルモデルへ置き換えた人はいる？』という質問スレッドも上位に。GLM 5.2のようなオープンウェイトの高性能モデル登場や、推論を回せるGPUの普及が後押ししています。"
-            },
-            {
-              "heading": "背景",
-              "body": "クラウドAIの利用料・データ保持ポリシー・規制（Fable 5の提供停止）など『預けることのリスク』への意識が、ローカル/オープン志向を強めています。コスト・プライバシー・可用性を自分で握れる点が評価されています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Vicki Boykis（Running local models is good now）",
-              "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/"
-            },
-            {
-              "name": "Hacker News（950pt）",
-              "url": "https://news.ycombinator.com/item?id=44320000"
-            }
-          ]
-        },
-        {
-          "id": "fable5",
-          "title": "Anthropic、最上位AI「Claude Fable 5」一般公開 ベンチSOTA・Mythos級が半額以下に",
-          "summary": "Anthropicが初の最上位モデル『Claude Fable 5』を6/10一般公開。SWE-bench Verified 95.0%などベンチでSOTA。価格は入力$10/出力$50でMythos Previewの半額以下。ただしBedrock版は6/12に輸出管理対応でアクセス停止。",
-          "category": "AI",
-          "date": "2026-06-10",
-          "lead": "Anthropicが、初の最上位（Mythos級）モデル『Claude Fable 5』を2026年6月9日（日本時間10日）に一般公開しました。",
-          "sections": [
-            {
-              "heading": "性能と価格",
-              "body": "コーディング能力の指標SWE-bench Verifiedで95.0%、SWE-bench Proで80.3%など、ほぼ全ベンチでSOTA（最高水準）を達成。価格は100万トークンあたり入力$10／出力$50で、従来のMythos Previewの半額以下に設定されました。"
-            },
-            {
-              "heading": "セーフガードと、その後の提供停止",
-              "body": "サイバー・生物・化学などの高リスク領域は分類器がブロックし、Claude Opus 4.8へ自動フォールバックする安全機構を搭載。ところが公開直後の6月13日、米政府の輸出管理指令によりFable 5／Mythos 5は全面提供停止に（→同タブ参照）。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Zenn（Fable 5 & Mythos 5 徹底解説）",
-              "url": "https://zenn.dev/galirage/articles/claude-fable-5"
-            },
-            {
-              "name": "AWS ブログ（Fable 5 on AWS）",
-              "url": "https://aws.amazon.com/jp/blogs/news/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/"
-            }
-          ]
-        },
-        {
-          "id": "nadella-ecosystem",
-          "title": "ナデラ「A frontier without an ecosystem is not stable」 「人材資本×トークン資本」論が約2800万ビュー",
-          "summary": "ナデラMS CEOの投稿エッセイが約2,800万ビューの大反響。『最良のモデルを選ぶことより、価値が広く行き渡る「フロンティア・エコシステム」の構築が優先』と主張。",
-          "category": "AI",
-          "date": "2026-06-15",
-          "lead": "MicrosoftのナデラCEOが投稿した長文エッセイ『A frontier without an ecosystem is not stable』が、X・LinkedInで約2,800万ビューの大きな反響を呼んでいます。",
-          "sections": [
-            {
-              "heading": "主張の核心",
-              "body": "『優先すべきは「フロンティア・モデル」ではなく「フロンティア・エコシステム」の構築だ』とナデラは説きます。価値があらゆる企業・産業・国に広く流れる状態を作るべきで、各組織が自社の institutional knowledge（組織知）を符号化する「学習ループ」を所有できることが安定的な均衡だという論立てです。"
-            },
-            {
-              "heading": "human capital × token capital",
-              "body": "今後の企業は human capital（人の知識・判断）と token capital（自社が築くAI能力）を共に積み上げる必要があると指摘。『タスクや仕事は外注できても、学習（learning）は外注できない』と結びます。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Satya Nadella（X / 本文）",
-              "url": "https://x.com/satyanadella/article/2066182223213293753"
-            },
-            {
-              "name": "Business Today（AI時代の企業の将来）",
-              "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/future-of-the-firm-is-the-ability-to-microsofts-satya-nadella-message-for-ai-era-536823-2026-06-15"
-            }
-          ]
-        },
-        {
-          "id": "saaspocalypse",
-          "title": "「SaaSの死」は本当か AIエージェントで「シート課金」崩壊、業界が転換点",
-          "summary": "AIエージェントでSaaSの『シート課金』が崩壊。2026年初にはソフト株急落『SaaSpocalypse』も。鍵は成果課金と顧客価値で、淘汰と成長が同時進行。",
-          "category": "SaaS動向",
-          "date": "2026-06-10",
-          "lead": "AIエージェントの台頭で、SaaSの根幹だった「シート課金（人数×月額）」が成り立たなくなりつつあります。2026年2月にはソフトウェア株が弱気相場入りし、約1週間で時価総額1兆ドル超が消失する『SaaSpocalypse（SaaS黙示録）』も起きました。",
-          "sections": [
-            {
-              "heading": "何が起きているのか",
-              "body": "AIが業務を自動でこなすと、『何人が使ったか（シート数）』で課金する前提が崩れます。代わりに『何を解決したか（アウトカム）』で課金するモデルへの転換が、すべてのSaaS企業に突きつけられています。"
-            },
-            {
-              "heading": "市場規模と方向性",
-              "body": "AI SaaS市場は2025年の約1,317億ドルから2026年に約1,822億ドル（CAGR38.3%）へ拡大見込み。結論は『SaaSは死ぬ』ではなく『AIネイティブSaaSへ進化する』が主流で、差別化は顧客価値への本質的コミットです。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Smacie（SaaSpocalypse解説）",
-              "url": "https://smacie.co.jp/knowledge/news/saas-daijoubu-ka-saaspocalypse-ai-agent-career-senryaku-mitooshi-2026/"
+              "name": "Hacker News（Accelerating GPT-5.6 Sol Ultrafast）",
+              "url": "https://hn.algolia.com/api/v1/search?query=GPT-5.6%20Sol%20Ultrafast&tags=story"
             }
           ]
         }
@@ -630,76 +226,40 @@
       "label": "政治・経済",
       "topics": [
         {
-          "id": "sanin-election",
+          "id": "sangiin-kekka-seiji-0721",
           "category": "政治",
-          "date": "2026-07-05",
-          "title": "参院選が7/20投開票へ 最大の争点は物価高・食料品の消費税減税 与党過半数の行方に注目",
-          "summary": "参議院選挙が7月20日投開票に向けて本格化。最大の争点は物価高対策で、食料品の消費税減税の是非が各党の論戦の中心。高市政権の信任を問う選挙で、与党が過半数を維持できるかが焦点。市場では『選挙通過でアク抜け』への期待も出ている。",
-          "lead": "参議院選挙が7月20日の投開票に向けて本格化しています。物価高対策、とりわけ食料品の消費税減税の是非が最大の争点になっています。",
+          "date": "2026-07-21",
+          "title": "参院選で自民・公明が過半数割れ 消費税減税法案は野党協議が焦点に",
+          "summary": "7月20日投開票の参院選で自民・公明が過半数を割り込み、衆参ねじれに。争点だった食料品消費税の減税（2年限定・その後8%へ戻す方針）は、単独では法案を通せず野党との協議が不可欠になった。秋の臨時国会での駆け引きが焦点。",
+          "lead": "7月20日投開票の参院選で、自民・公明両党が過半数を割り込みました。焦点だった食料品消費税の減税法案は、野党との協議が不可欠な情勢になっています。",
           "sections": [
             {
-              "heading": "争点",
-              "body": "食料品消費税の減税（高市政権は秋の臨時国会に法案の方針）や、物価高・賃上げ、社会保障、安全保障などが争点。与党が過半数を維持できるかが政局の焦点で、結果次第で消費税減税の実現時期にも影響します。"
-            },
-            {
-              "heading": "市場の見方",
-              "body": "株式市場では『選挙という不透明要因を通過すればアク抜け（悪材料出尽くし）で上昇しやすい』との見方も。一方、消費減税の効果や財源への警戒もあり、選挙結果と政策の中身が注目されます。"
+              "heading": "今後の焦点",
+              "body": "高市首相が示していた『2年限定で減税し、その後8%へ戻す』方針の実現には、少数与党のもとで野党の協力が欠かせません。秋の臨時国会での法案協議の行方が引き続き注目されます。"
             }
           ],
           "sources": [
+            {
+              "name": "日本経済新聞（自民・公明大敗で過半数割れ）",
+              "url": "https://www.nikkei.com/article/DGXZQOUA205QD0Q5A720C2000000/"
+            },
             {
               "name": "NHK NEWS WEB（政治）",
               "url": "https://news.web.nhk/newsweb/genre/politics"
-            },
-            {
-              "name": "日本経済新聞（参院選に身構える日本株）",
-              "url": "https://www.nikkei.com/article/DGXZQOUB260B70W5A520C2000000/"
-            },
-            {
-              "name": "ダイヤモンドZAi（選挙後アク抜け）",
-              "url": "https://diamond.jp/zai/articles/-/1053270"
             }
           ]
         },
         {
-          "id": "shohizei-0701",
-          "category": "政治",
-          "date": "2026-06-30",
-          "title": "高市首相、食料品の消費税減税は「秋の臨時国会に法案」 2年限定・2年後に8%へ戻す方針",
-          "summary": "高市首相が食料品の消費税減税について、秋の臨時国会に関連法案を提出する方針を表明。給付付き税額控除の導入までの2年限定の措置とし、減税開始の2年後に税率を8%へ戻す考えを明言。『高所得層ほど恩恵が大きい』点が課題として残る。",
-          "lead": "高市首相は、食料品にかかる消費税の減税について、秋の臨時国会に関連法案を提出する方針を示しています。あわせて、減税は期限を区切った『つなぎ』措置と位置づけています。",
-          "sections": [
-            {
-              "heading": "何が決まりつつあるか",
-              "body": "食料品消費税の減税は『給付付き税額控除』導入までの2年限定の措置とし、開始の2年後に税率を8%へ戻す考えを首相が明言。法案は秋の臨時国会に提出する方針です。"
-            },
-            {
-              "heading": "論点",
-              "body": "減税は家計に恩恵がある一方、『高所得層ほど恩恵が大きい』逆進性の裏返しや、約4兆円規模の財源が課題。物価高対策としての効果と持続性のバランスが問われます。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "NHK NEWS WEB（2年後に8%へ戻す）",
-              "url": "https://news.web.nhk/newsweb/na/na-k10015156241000"
-            },
-            {
-              "name": "日本経済新聞（秋に法案・高所得層ほど恩恵）",
-              "url": "https://www.nikkei.com/article/DGXZQOUA033LS0T00C26A6000000/"
-            }
-          ]
-        },
-        {
-          "id": "nikkei-outlook-0705",
+          "id": "nikkei-outlook-0814",
           "category": "経済",
-          "date": "2026-07-05",
-          "title": "日経平均、参院選通過で“アク抜け”期待 野村は2026年末6万円を予想",
-          "summary": "日経平均は参院選（7/20）通過後の上昇に期待の声。中長期トレンドは上向きで、需給環境も良好とされる。野村證券は2026年末の日経平均を6万円と予想（27年末6万3000円、28年末6万6000円）。米株高・円安も追い風だが、関税や選挙結果はリスク。",
-          "lead": "日経平均株価は、参院選（7月20日）を通過した後の上昇に期待する声が出ています。中長期のトレンドは上向きとされ、需給環境の良さも指摘されています。",
+          "date": "2026-08-14",
+          "title": "日経平均、参院選後は与党過半数割れで不透明感 中長期の強気予想は据え置き",
+          "summary": "参院選（7/20）で与党が過半数を割り込んだことを受け、市場では政策運営の不透明感がくすぶる。一方、野村證券は2026年末6万円・27年末6万3000円・28年末6万6000円という中長期の強気予想は据え置いており、米株高・円安が下支え材料とされる。",
+          "lead": "参院選で与党が過半数を割り込んだことを受け、株式市場では政策運営の不透明感が意識されています。一方で中長期的な強気予想は据え置かれています。",
           "sections": [
             {
               "heading": "見通し",
-              "body": "野村證券は2026年末の日経平均を6万円（2027年末6万3000円、2028年末6万6000円）と予想。NY株高や円安も追い風です。一方、米関税や参院選の結果、物価動向は引き続きリスク要因で、選挙後の政策の中身が試されます。"
+              "body": "野村證券は2026年末の日経平均を6万円（2027年末6万3000円、2028年末6万6000円）とする予想を据え置いています。米株高・円安は引き続き追い風ですが、少数与党のもとでの政策実現力や、消費税減税法案の行方が新たなリスク要因として意識されています。"
             }
           ],
           "sources": [
@@ -733,7 +293,7 @@
             },
             {
               "heading": "ひとこと",
-              "body": "好調時だけでなく、下げ相場での増減を淡々と記録・公開しているのがkuzyo氏の参考になる点。複数の資産・収入源に分散しておくことの意味を改めて示す内容です。"
+              "body": "好調時だけでなく、下げ相場での増減を淡々と記録・公開しているのがkuzyo氏の参考になる点。複数の資産・収入源に分散しておくことの意味を改めて示す内容です。最新の7〜8月分は公式ブログで随時更新されます。"
             }
           ],
           "sources": [
@@ -810,30 +370,26 @@
       "label": "柏の葉",
       "topics": [
         {
-          "id": "teganuma-hanabi",
+          "id": "kashiwa-flood-0814",
           "category": "柏市",
-          "date": "2026-07-05",
-          "title": "手賀沼花火大会 8/1開催 約1万3500発 有料観覧席チケットは販売中",
-          "summary": "柏の夏の風物詩『手賀沼花火大会』が2026年8月1日(土)午後7時〜開催。最大約1万3500発が手賀沼の夜空と水上を彩る。柏会場・我孫子会場の2会場で、有料観覧席のチケットは7/1正午から販売中。『ちば文化資産』にも選定された地域自慢のイベント。",
-          "lead": "柏の夏の風物詩『手賀沼花火大会』が、2026年8月1日（土）に開催されます。最大約1万3500発の花火が手賀沼の夜空と水上を彩ります。",
+          "date": "2026-08-14",
+          "title": "柏市も記録的大雨の影響 冠水道路で男性が心肺停止、最新の避難情報を要確認",
+          "summary": "13日夜から14日にかけての千葉県内の記録的大雨で、柏市内でも冠水した道路で男性が心肺停止の状態で発見された。県内ではJR各線の運休や停電も発生しており、柏・柏の葉エリアにお住まいの方は柏市の避難情報・ハザードマップで最新状況を確認することが呼びかけられている。",
+          "lead": "千葉県内の記録的な大雨で、柏市内でも冠水した道路で男性が心肺停止の状態で発見されました。県全体で被害が広がっており、地元の最新情報の確認が呼びかけられています。",
           "sections": [
             {
-              "heading": "開催情報",
-              "body": "8月1日(土)午後7時に開会式、7時10分から打ち上げ予定。手賀沼自然ふれあい緑道の『柏会場』と、手賀沼公園などの『我孫子会場』の2会場で実施。尺玉やウルトラジャンボスターマイン、水中花火などが見どころです。有料観覧席のチケットは7月1日正午から販売中。"
+              "heading": "確認しておきたいこと",
+              "body": "柏市の防災情報・ハザードマップで、自宅周辺の浸水想定区域や避難所の開設状況を確認しておくと安心です。増水した用水路や冠水した道路への接近は避けてください。"
             }
           ],
           "sources": [
             {
-              "name": "柏市（手賀沼花火大会2026）",
-              "url": "https://www.city.kashiwa.lg.jp/shoko/teganumahanabi2026.html"
+              "name": "秋田魁新報（千葉県内で大雨、３人が死亡）",
+              "url": "https://www.sakigake.jp/news/article/20260814CO0030/"
             },
             {
-              "name": "手賀沼花火大会 柏会場（公式）",
-              "url": "https://teganuma-hanabi.kashiwa-cci.or.jp/"
-            },
-            {
-              "name": "ウォーカープラス（手賀沼花火大会2026）",
-              "url": "https://hanabi.walkerplus.com/detail/ar0312e00930/"
+              "name": "ウェザーニュース（記録的な豪雨 千葉県内の大規模な浸水被害）",
+              "url": "https://weathernews.jp/news/202608/130511/"
             }
           ]
         },
@@ -841,13 +397,13 @@
           "id": "otakanomori-kitchencar",
           "category": "おおたかの森",
           "date": "2026-07-01",
-          "title": "流山おおたかの森S.C.「こもれびストリート キッチンカー」7/4〜5 週末は家族でグルメ",
-          "summary": "流山おおたかの森S.C.で7/4〜5に『こもれびストリート キッチンカー』を開催。多彩なキッチンカーが集まり、家族での週末おでかけにぴったり。毎月第2土曜の『FLAPS DAY』（〜8/8）など定期イベントも実施中。",
-          "lead": "流山おおたかの森S.C.では、7月4〜5日に『こもれびストリート キッチンカー』が開催されます。駅直結で子連れでも立ち寄りやすい週末イベントです。",
+          "title": "流山おおたかの森S.C. 週末イベントは公式サイトで随時更新",
+          "summary": "流山おおたかの森S.C.では、キッチンカーイベントや毎月第2土曜の『FLAPS DAY』など、家族向けの週末イベントを随時開催。駅直結で天候に左右されにくく、大雨明けのお出かけ先としても便利。最新の開催日は公式イベントページで確認を。",
+          "lead": "流山おおたかの森S.C.では、家族向けの週末イベントを随時開催しています。駅直結で天候に左右されにくいのが魅力です。",
           "sections": [
             {
               "heading": "ポイント",
-              "body": "キッチンカーグルメに加え、毎月第2土曜の『FLAPS DAY』（2026年8月8日まで）などの定期イベントも。買い物ついでに家族で楽しめます。最新の開催内容は公式イベントページで確認を。"
+              "body": "キッチンカーグルメや毎月第2土曜の『FLAPS DAY』など定期イベントを実施中。最新の開催内容・日程は公式イベントページで確認を。"
             }
           ],
           "sources": [
@@ -865,13 +421,13 @@
           "id": "kashiwa-summer",
           "category": "柏市",
           "date": "2026-07-01",
-          "title": "柏・東葛エリアの夏イベント続々 松戸「絵本カフェ2026」7/8〜19 ほか",
-          "summary": "柏・松戸・流山など東葛エリアで夏のイベントが本格化。松戸では『絵本カフェ2026』が7/8〜19に開催予定など、屋内で楽しめる子ども向け催しも。柏市のイベントカレンダーで最新の夏祭り・縁日情報もチェックできる。",
-          "lead": "柏・松戸・流山など東葛エリアでは、夏に向けたイベントが本格化しています。松戸の『絵本カフェ2026』（7/8〜19）など、屋内で楽しめる催しも増えています。",
+          "title": "柏・東葛エリアの夏イベントは柏市イベントカレンダーで最新確認を",
+          "summary": "柏・松戸・流山など東葛エリアでは夏のイベントが続いている。大雨明けは屋外イベントの開催状況が変わる場合もあるため、お出かけ前に柏市のイベントカレンダーや各施設の公式サイトで最新情報を確認するのが安心。",
+          "lead": "柏・松戸・流山など東葛エリアでは夏のイベントが続いています。大雨明けはお出かけ前の最新情報確認がおすすめです。",
           "sections": [
             {
               "heading": "チェック方法",
-              "body": "『まちっと柏』や柏市のイベントカレンダーで、夏祭り・縁日・ワークショップなどを日付で確認できます。夏本番は屋外イベントも増えるので、暑さ対策をしてお出かけを。"
+              "body": "『まちっと柏』や柏市のイベントカレンダーで、夏祭り・縁日・ワークショップなどの開催状況を日付で確認できます。増水・冠水の影響が残る場所もあるため、屋外イベントは特に最新情報の確認を。"
             }
           ],
           "sources": [
@@ -894,14 +450,14 @@
         {
           "id": "rakuten-edy-change",
           "category": "要注意",
-          "date": "2026-07-02",
-          "title": "【8/1から改悪】楽天Edyへの楽天キャッシュ・チャージ上限が月10万→1万円に縮小",
-          "summary": "楽天Edyへ楽天キャッシュ経由でチャージする際の月間上限が、8月1日から10万円→1万円に大幅縮小。クレカのポイント還元を狙う“チャージルート”が使いにくくなる。該当する人は8月前に還元方法の見直しを。ポイ活勢には影響大の変更。",
-          "lead": "楽天Edyへ楽天キャッシュ経由でチャージする際の月間上限が、8月1日から10万円から1万円へと大幅に縮小されます。クレジットカードのポイント還元を狙う“ルート”に影響する変更です。",
+          "date": "2026-08-01",
+          "title": "【改悪済み】楽天Edyへの楽天キャッシュ・チャージ上限、8/1から月10万→1万円に縮小",
+          "summary": "楽天Edyへ楽天キャッシュ経由でチャージする際の月間上限が、8月1日から10万円→1万円に縮小済み。クレカのポイント還元を狙う“チャージルート”が使いにくくなっている。該当する人は還元方法の見直しを。",
+          "lead": "楽天Edyへ楽天キャッシュ経由でチャージする際の月間上限が、8月1日から10万円から1万円へと縮小されました。クレジットカードのポイント還元を狙う“ルート”に影響する変更です。",
           "sections": [
             {
-              "heading": "何が変わるか",
-              "body": "これまでクレカ→楽天キャッシュ→楽天Edyの流れで月10万円分までポイントを得られましたが、8/1から上限が月1万円に。ポイ活（ポイント最適化）を実践している人には影響が大きく、8月前に別ルートや別サービスへの切り替えを検討する動きが出ています。"
+              "heading": "何が変わったか",
+              "body": "これまでクレカ→楽天キャッシュ→楽天Edyの流れで月10万円分までポイントを得られましたが、8/1から上限が月1万円に縮小されました。ポイ活（ポイント最適化）を実践している人は、別ルートや別サービスへの切り替えを検討する時期です。"
             }
           ],
           "sources": [
@@ -916,36 +472,12 @@
           ]
         },
         {
-          "id": "cmp-paypay-0701",
-          "category": "PayPay",
-          "date": "2026-07-01",
-          "title": "PayPayカードのキャンペーン実施中（〜7/31）＋千葉県のキャッシュレス還元も",
-          "summary": "PayPayカード関連のキャンペーンが6/19〜7/31で実施中。あわせて千葉県の消費喚起事業で、PayPay・楽天ペイ・au PAY・d払い・AEON Pay等を対象にしたポイント還元も。対象店・還元率・上限は公式で要確認。",
-          "lead": "PayPayカードのキャンペーンが6月19日〜7月31日で実施中です。さらに千葉県内では、複数のキャッシュレス決済を対象にした消費喚起のポイント還元も行われています。",
-          "sections": [
-            {
-              "heading": "押さえどころ",
-              "body": "PayPay系のキャンペーンは『エントリー必須』『付与上限あり』が多いので、条件を先に確認。千葉県の還元事業はPayPay・楽天ペイ・au PAY・d払い・AEON Payなどが対象で、地元での買い物がお得になります。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "PayPayカード（キャンペーン）",
-              "url": "https://www.paypay-card.co.jp/event/"
-            },
-            {
-              "name": "千葉県（消費喚起・キャッシュレス還元）",
-              "url": "https://www.pref.chiba.lg.jp/keisei/cashless/r7cashless-campaign.html"
-            }
-          ]
-        },
-        {
-          "id": "cmp-rakuten-0701",
+          "id": "cmp-rakuten-0801",
           "category": "楽天ペイ",
-          "date": "2026-07-01",
-          "title": "楽天ペイ 7月も定番のお得 「日・月は最大3.5%」「5と0のつく日」「抽選で最大5%」",
-          "summary": "楽天ペイは7月も定番キャンペーンを継続。『日・月曜は楽天ペイの日で最大3.5%還元』、毎月『5と0のつく日』、『ピッしてペイで抽選最大5%還元』など。多くがエントリー必須なので月初にまとめて登録しておくと取りこぼしにくい。",
-          "lead": "楽天ペイでは7月も、曜日や日付にひもづく定番のお得キャンペーンが続いています。エントリー必須のものが多いのがポイントです。",
+          "date": "2026-08-01",
+          "title": "楽天ペイ 定番のお得は継続中 「日・月は最大3.5%」「5と0のつく日」「抽選で最大5%」",
+          "summary": "楽天ペイでは8月も定番キャンペーンを継続。『日・月曜は楽天ペイの日で最大3.5%還元』、毎月『5と0のつく日』、『ピッしてペイで抽選最大5%還元』など。多くがエントリー必須なので月初にまとめて登録しておくと取りこぼしにくい。",
+          "lead": "楽天ペイでは8月も、曜日や日付にひもづく定番のお得キャンペーンが続いています。エントリー必須のものが多いのがポイントです。",
           "sections": [
             {
               "heading": "定番のお得",
@@ -964,12 +496,12 @@
           ]
         },
         {
-          "id": "cmp-lalaport-0701",
+          "id": "cmp-lalaport-0801",
           "category": "ららぽ",
-          "date": "2026-07-01",
+          "date": "2026-08-01",
           "title": "ららぽーと柏の葉・新三郷 夏のセール/イベント 公式アプリのクーポンも要チェック",
           "summary": "ららぽーと柏の葉・新三郷では、夏のセールや家族向けイベントが本格化する時期。アプリのクーポンやポイント企画も随時更新。最新のセール期間・イベントは各館の公式イベントページで確認を。",
-          "lead": "ららぽーと柏の葉・新三郷では、7月から夏のセールや家族向けイベントが増える時期です。アプリのクーポンやポイント企画も併せてチェックすると取りこぼしが減ります。",
+          "lead": "ららぽーと柏の葉・新三郷では、夏のセールや家族向けイベントが増える時期です。アプリのクーポンやポイント企画も併せてチェックすると取りこぼしが減ります。",
           "sections": [
             {
               "heading": "チェック方法",
@@ -991,29 +523,29 @@
     },
     {
       "id": "outing",
-      "label": "おでかけ",
+      "label": "子連れおでかけ",
       "topics": [
         {
-          "id": "out-teganuma",
-          "category": "夏イベント",
-          "date": "2026-07-05",
-          "title": "手賀沼花火大会（8/1）子連れで行くなら 有料席・早めの場所取り・暑さ&混雑対策を",
-          "summary": "柏の夏の一大イベント『手賀沼花火大会』は8月1日(土)。約1万3500発の迫力は子どもにも大人気だが、混雑必至。小さな子連れなら、7/1から販売中の有料観覧席の利用や、早めの場所取り、暑さ・トイレ・帰りの混雑対策がカギ。",
-          "lead": "柏の夏の一大イベント『手賀沼花火大会』は8月1日（土）に開催されます。約1万3500発の迫力は子どもにも人気ですが、その分とても混み合います。",
+          "id": "out-flood-caution-0814",
+          "category": "注意",
+          "date": "2026-08-14",
+          "title": "大雨明けのお出かけは要注意 増水・冠水エリアを避けて",
+          "summary": "千葉県内では記録的大雨の影響で道路の冠水や河川の増水が発生している。子連れでのお出かけは、しばらく水辺や低い土地への接近を避け、公園や施設の休園・休館情報を事前に確認するのが安心。屋内で過ごせるスポットへの切り替えもおすすめ。",
+          "lead": "千葉県内では記録的大雨の影響が残っています。子連れでのお出かけは、水辺や低い土地への接近を避け、施設の最新の営業状況を確認してから出かけましょう。",
           "sections": [
             {
-              "heading": "子連れのコツ",
-              "body": "小さな子ども連れなら、7/1から販売中の有料観覧席を使うと安心。無料エリアは早めの場所取りが必要です。暑さ対策（水分・うちわ・虫よけ）、トイレの場所確認、帰りの混雑を見越した早めの行動を心がけましょう。"
+              "heading": "気をつけたいこと",
+              "body": "河川敷や用水路沿いは増水・冠水のおそれがあるため近づかないこと。公園や商業施設が臨時休業・時間変更する場合もあるため、出発前に公式サイトやSNSで最新情報を確認するのがおすすめです。"
             }
           ],
           "sources": [
             {
-              "name": "柏市（手賀沼花火大会2026）",
-              "url": "https://www.city.kashiwa.lg.jp/shoko/teganumahanabi2026.html"
+              "name": "ウェザーニュース（記録的な豪雨 千葉県内の大規模な浸水被害）",
+              "url": "https://weathernews.jp/news/202608/130511/"
             },
             {
-              "name": "ウォーカープラス（手賀沼花火大会2026）",
-              "url": "https://hanabi.walkerplus.com/detail/ar0312e00930/"
+              "name": "柏市 イベントカレンダー",
+              "url": "https://www.city.kashiwa.lg.jp/cgi-bin/event_cal_multi/calendar.cgi"
             }
           ]
         },
@@ -1027,7 +559,7 @@
           "sections": [
             {
               "heading": "暑い日のコツ",
-              "body": "午前の早い時間に到着し、木陰やボードウォーク沿いで過ごすのがおすすめ。帽子・日焼け止め・多めの飲み物・着替えを持参すると安心です。最新の親子向けイベントはウォーカープラスやいこーよで確認を。"
+              "body": "午前の早い時間に到着し、木陰やボードウォーク沿いで過ごすのがおすすめ。帽子・日焼け止め・多めの飲み物・着替えを持参すると安心です。大雨明けは水辺エリアの状態を確認してから近づきましょう。"
             }
           ],
           "sources": [
@@ -1045,13 +577,13 @@
           "id": "out-kitchencar",
           "category": "週末",
           "date": "2026-07-01",
-          "title": "流山おおたかの森S.C.のキッチンカー（7/4〜5）駅直結で子連れの週末に",
-          "summary": "7/4〜5に流山おおたかの森S.C.で『こもれびストリート キッチンカー』を開催。駅直結・屋内施設と合わせて回れるので、暑い日でも子連れで無理なく楽しめる。毎月第2土曜の『FLAPS DAY』も家族向け。",
-          "lead": "7月4〜5日、流山おおたかの森S.C.でキッチンカーイベントが開催されます。駅直結で、屋内のショッピングと合わせて回れるのが子連れに便利です。",
+          "title": "流山おおたかの森S.C.のキッチンカー 駅直結で天候を気にせず子連れの週末に",
+          "summary": "流山おおたかの森S.C.ではキッチンカーイベントを随時開催。駅直結・屋内施設と合わせて回れるので、大雨明けや暑い日でも子連れで無理なく楽しめる。毎月第2土曜の『FLAPS DAY』も家族向け。",
+          "lead": "流山おおたかの森S.C.ではキッチンカーイベントを随時開催しています。駅直結で、屋内のショッピングと合わせて回れるのが子連れに便利です。",
           "sections": [
             {
               "heading": "ポイント",
-              "body": "暑い時期は、屋外のキッチンカー＋屋内施設（冷房・授乳室・キッズスペース）を組み合わせると無理なく過ごせます。最新の開催内容は公式イベントページで確認を。"
+              "body": "屋外のキッチンカー＋屋内施設（冷房・授乳室・キッズスペース）を組み合わせると天候を気にせず過ごせます。最新の開催内容は公式イベントページで確認を。"
             }
           ],
           "sources": [
