@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T08:20:00+09:00",
+  "updatedAt": "2026-08-14T20:51:00+09:00",
   "tabs": [
     {
       "id": "top",
@@ -9,51 +9,71 @@
           "id": "chiba-heavy-rain-0814",
           "category": "災害",
           "date": "2026-08-14",
-          "title": "千葉県で記録的大雨・土砂災害特別警報 死者3人、柏市でも心肺停止者",
-          "summary": "千葉県で13日夜から14日にかけ記録的な大雨となり、線状降水帯が発生。気象庁は大雨と土砂災害の特別警報を千葉市などへ初めて同時発表した。市川市・佐倉市・八千代市で死亡が確認され、柏市でも男性が心肺停止で発見されるなど被害が広域に。一時40万人超に避難指示が出され、JR各線の運休で約1万人が帰宅困難となった。",
-          "lead": "千葉県で13日夜から14日朝にかけて記録的な大雨となり、気象庁は大雨と土砂災害の特別警報を千葉市などに発表しました。県内各地で死者が相次ぎ、交通網も大きく乱れています。",
+          "title": "千葉豪雨、死者8人に拡大 避難者約7400人・放置車両1200台超の見通し",
+          "summary": "千葉県内の記録的大雨による被害が14日夜にかけて拡大。死者は8人となり、避難者は約7400人に上る。走行不能で放置された車両は県道・国道で約200台、千葉市管理道路で約1000台の計1200台超に上る見通しで、実態把握は難航している。冠水した国道では停電の影響で排水作業も進んでいない。",
+          "lead": "千葉県内の記録的大雨による被害が14日夜にかけてさらに拡大しました。死者は8人、避難者は約7400人に上り、走行不能となった放置車両は1200台超に上る見通しです。",
           "sections": [
             {
-              "heading": "被害状況",
-              "body": "市川市・佐倉市・八千代市で死亡が確認されたほか、柏市でも冠水した道路で男性が心肺停止の状態で見つかるなど被害が広域に及んでいます。一時40万人超に避難指示が出され、避難所となった千葉県庁には500人超が身を寄せました。県内では最大時4万5000戸超が停電しました。"
+              "heading": "被害の拡大",
+              "body": "14日19時53分時点で死者8人、避難者約7400人と、朝の報道時点からさらに被害が拡大しています。走行不能で放置された車両は県道・国道で約200台、千葉市が管理する道路で約1000台の計1200台超に上る見通しで、県は実態把握を急いでいます。"
             },
             {
-              "heading": "交通・生活への影響",
-              "body": "JR京葉線など複数路線が始発から運休し、約1万人が帰宅困難になりました。気象庁は14日も関東地方で激しい雨が続く恐れがあるとして、引き続き厳重な警戒を呼びかけています。柏市周辺にお住まいの方は最新の避難情報・冠水情報を必ず確認してください。"
+              "heading": "生活への影響続く",
+              "body": "冠水した国道では、停電の影響で排水ポンプが稼働できず水が引かない状態が続いています。柏市周辺にお住まいの方は、増水した道路や用水路への接近を避け、最新の避難情報・冠水情報を必ず確認してください。"
             }
           ],
           "sources": [
             {
-              "name": "NHK NEWS WEB（大雨・土砂災害の特別警報）",
-              "url": "https://news.web.nhk/newsweb/na/nd-20260814de43948"
+              "name": "Yahoo!ニュース（千葉豪雨 放置車両1200台超見通し）",
+              "url": "https://news.yahoo.co.jp/pickup/6591735"
             },
             {
-              "name": "日本経済新聞（千葉の記録的大雨、死者2人に）",
-              "url": "https://www.nikkei.com/article/DGXZQOUD1396B0T10C26A8000000/"
+              "name": "Yahoo!ニュース（冠水した国道 停電で排水できず）",
+              "url": "https://news.yahoo.co.jp/pickup/6591732"
             }
           ]
         },
         {
-          "id": "sangiin-kekka-0721",
-          "category": "政治",
-          "date": "2026-07-21",
-          "title": "参院選で自民・公明が過半数割れ 高市政権、衆参ねじれに直面",
-          "summary": "7月20日投開票の参院選で自民・公明が過半数を割り込み、衆参両院で少数与党という「ねじれ」国会に。焦点だった食料品の消費税減税法案は、単独では通せず野党との協議が不可欠となり、秋の臨時国会に向けて政権運営の先行きは不透明感を増している。",
-          "lead": "7月20日に投開票された参議院選挙で、自民・公明両党が過半数を割り込みました。高市政権は衆参両院で少数与党となる「ねじれ」に直面しています。",
+          "id": "starting-salary-1m-0814",
+          "category": "経済",
+          "date": "2026-08-14",
+          "title": "初任給100万円の不動産コンサル会社に応募1300人殺到 すでに10人内定",
+          "summary": "初任給100万円を掲げる不動産コンサルティング会社に、応募が1300人を超えて殺到していることがテレビ朝日系(ANN)の取材で判明。すでに10人が内定しているという。人手不足を背景に、初任給を大幅に引き上げて人材獲得を狙う企業の動きが話題になっている。",
+          "lead": "初任給100万円をうたう不動産コンサルティング会社に応募が1300人を超えて殺到し、すでに10人が内定していることが分かりました。",
           "sections": [
             {
-              "heading": "与党過半数割れの影響",
-              "body": "焦点だった食料品消費税の減税法案は単独では成立させられず、野党との協議が不可欠になりました。秋の臨時国会での法案審議の行方や政権運営そのものが一段と不透明になっています。"
+              "heading": "話題のポイント",
+              "body": "人手不足が続く中、初任給を大幅に引き上げて優秀な人材を早期に確保しようとする企業の動きの一例として注目されています。詳しい選考基準や待遇の内訳は元記事で確認できます。"
             }
           ],
           "sources": [
             {
-              "name": "日本経済新聞（自民・公明大敗で過半数割れ）",
-              "url": "https://www.nikkei.com/article/DGXZQOUA205QD0Q5A720C2000000/"
+              "name": "Yahoo!ニュース（初任給100万円の会社 応募1300人）",
+              "url": "https://news.yahoo.co.jp/pickup/6591715"
+            }
+          ]
+        },
+        {
+          "id": "koshien-hanamaki-higashi-0814",
+          "category": "スポーツ",
+          "date": "2026-08-14",
+          "title": "甲子園、花巻東が3年ぶり16強 日南学園vs横浜も熱戦",
+          "summary": "夏の甲子園で花巻東が3年ぶりに2回戦を突破しベスト16進出。同日は日南学園と横浜の一戦も行われ、横浜がリードする展開で速報が伝えられている。連日の熱戦が続いている。",
+          "lead": "夏の甲子園で花巻東が3年ぶりに2回戦を突破し、ベスト16に進出しました。同日は日南学園と横浜の一戦も行われています。",
+          "sections": [
+            {
+              "heading": "試合の様子",
+              "body": "花巻東は3年ぶりとなる2回戦突破でベスト16に進出。日南学園vs横浜の一戦は横浜がリードする展開で速報が伝えられ、連日甲子園から熱戦の様子が届いています。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Yahoo!ニュース（花巻東 3年ぶり2回戦突破で16強）",
+              "url": "https://news.yahoo.co.jp/pickup/6591708"
             },
             {
-              "name": "NHK NEWS WEB（政治）",
-              "url": "https://news.web.nhk/newsweb/genre/politics"
+              "name": "Yahoo!ニュース（速報 横浜が日南学園をリード）",
+              "url": "https://news.yahoo.co.jp/pickup/6591738"
             }
           ]
         },
@@ -84,60 +104,12 @@
       "label": "テック",
       "topics": [
         {
-          "id": "deepseek-v4-pro-0813",
+          "id": "gemini-3-7-flash-0813",
           "category": "AI",
           "date": "2026-08-13",
-          "title": "中国DeepSeek「V4 Pro 0813」公開 HNで1,000pt超の反響",
-          "summary": "中国DeepSeekが新モデル『DeepSeek V4 Pro 0813』を公開。OpenRouter経由で利用可能になり、Hacker Newsで1,000ポイント超の大きな反響を呼んでいる。中国発オープン系モデルの進化が続いている。",
-          "lead": "中国DeepSeekが新モデル『DeepSeek V4 Pro 0813』を公開しました。Hacker Newsで1,000ポイントを超える反響を呼んでいます。",
-          "sections": [
-            {
-              "heading": "ポイント",
-              "body": "OpenRouter経由ですぐに試せる形で公開されており、性能・価格の両面で引き続き注目される中国発オープンウェイト系モデルの最新版です。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "OpenRouter（DeepSeek V4 Pro 0813）",
-              "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
-            },
-            {
-              "name": "Hacker News（DeepSeek V4 Pro）",
-              "url": "https://hn.algolia.com/api/v1/search?query=DeepSeek%20V4%20Pro&tags=story"
-            }
-          ]
-        },
-        {
-          "id": "grok-4-6",
-          "category": "AI",
-          "date": "2026-08-13",
-          "title": "xAI「Grok 4.6」発表 HNで600pt超",
-          "summary": "イーロン・マスク率いるxAIが新モデル『Grok 4.6』を発表。ベンチマークスコア61を獲得したとされ、Hacker Newsで600ポイント超の反響。主要各社の新モデル競争が続いている。",
-          "lead": "xAIが新モデル『Grok 4.6』を発表しました。",
-          "sections": [
-            {
-              "heading": "ポイント",
-              "body": "公式発表ではベンチマークスコア61を獲得したとされ、既存モデルとの性能競争が続いています。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "xAI（Grok 4.6発表）",
-              "url": "https://x.ai/news/grok-4-6"
-            },
-            {
-              "name": "Hacker News（Grok 4.6）",
-              "url": "https://hn.algolia.com/api/v1/search?query=Grok%204.6&tags=story"
-            }
-          ]
-        },
-        {
-          "id": "gemini-3-7-flash",
-          "category": "AI",
-          "date": "2026-08-13",
-          "title": "Google「Gemini 3.7 Flash」発表 軽量・高速モデルを追加",
-          "summary": "Googleが軽量・高速版の新モデル『Gemini 3.7 Flash』を発表。HNでも500pt超の反響。低コストで応答速度を重視する用途向けに、各社が軽量モデルのラインアップを強化する流れが続く。",
-          "lead": "Googleが軽量・高速版の新モデル『Gemini 3.7 Flash』を発表しました。",
+          "title": "Google「Gemini 3.7 Flash」発表 HNで860pt超の反響",
+          "summary": "Googleが軽量・高速版の新モデル『Gemini 3.7 Flash』を発表。Hacker Newsで860ポイント超と、この日のAI関連投稿で最大級の反響を呼んだ。低コスト・低レイテンシ用途向けに、各社が軽量モデルのラインアップを強化する流れが続く。",
+          "lead": "Googleが軽量・高速版の新モデル『Gemini 3.7 Flash』を発表しました。Hacker Newsで860ポイントを超える、この日最大級の反響を呼んでいます。",
           "sections": [
             {
               "heading": "ポイント",
@@ -156,66 +128,106 @@
           ]
         },
         {
-          "id": "qwen-3-8-2-4t",
+          "id": "deepseek-harness-0813",
           "category": "AI",
           "date": "2026-08-13",
-          "title": "Alibaba系「Qwen3.8-2.4T」公開 超大規模パラメータのオープンモデル",
-          "summary": "Alibaba系Qwenチームが超大規模パラメータの新モデル『Qwen3.8-2.4T』をHugging Faceで公開。HNで700pt超の反響を呼んでおり、オープンウェイト系の大規模化競争が続いている。",
-          "lead": "Alibaba系Qwenチームが、超大規模パラメータの新モデル『Qwen3.8-2.4T』をHugging Faceで公開しました。",
+          "title": "DeepSeek「Harness」開発者プレビュー公開 “全部プラグイン”のエージェント基盤",
+          "summary": "中国DeepSeekがエージェント開発フレームワーク『DeepSeek Harness』の開発者プレビューを公開。「Everything is a plugin」を掲げ、モデルだけでなくツール連携の土台まで提供する動きとしてHacker Newsで670ポイント超の反響を呼んだ。",
+          "lead": "中国DeepSeekが、エージェント開発フレームワーク『DeepSeek Harness』の開発者プレビューを公開しました。",
           "sections": [
             {
               "heading": "ポイント",
-              "body": "パラメータ規模を大きく引き上げたオープンウェイトモデルで、クローズドモデルに対抗するオープン系の勢いを示す動きとして注目されています。"
+              "body": "『Everything is a plugin』を掲げ、モデル単体でなくツール連携・エージェント実行基盤ごと提供する狙い。OpenAIのCodex、Anthropic各社のエージェントツールとの競争が、基盤レイヤーにも広がっていることを示す動きです。"
             }
           ],
           "sources": [
             {
-              "name": "Hugging Face（Qwen3.8-2.4T-A95B）",
-              "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
+              "name": "DeepSeek Harness（公式）",
+              "url": "https://www.deepseek.com/harness/en/"
             },
             {
-              "name": "Hacker News（Qwen3.8-2.4T）",
-              "url": "https://hn.algolia.com/api/v1/search?query=Qwen3.8-2.4T&tags=story"
+              "name": "Hacker News（DeepSeek Harness developer preview）",
+              "url": "https://hn.algolia.com/api/v1/search_by_date?tags=story&query=DeepSeek%20Harness"
             }
           ]
         },
         {
-          "id": "ai-middle-class",
+          "id": "gpt-5-6-sol-ultrafast-0813",
           "category": "AI",
           "date": "2026-08-13",
-          "title": "「AIがソフトウェアエンジニアの“中間層”を奪っている」 HNで論争、960pt超",
-          "summary": "『AIはソフトウェアエンジニアリングの中間層を奪っているのか』という問題提起がHacker Newsで960ポイント超の大論争に。AIコーディングツールの普及で、中堅エンジニアの役割や採用市場が変化しているとの指摘が相次いでいる。",
-          "lead": "『AIがソフトウェアエンジニアの“中間層”を奪っているのではないか』という問題提起が、Hacker Newsで大きな論争を呼んでいます。",
-          "sections": [
-            {
-              "heading": "何が議論に",
-              "body": "AIコーディングツールが定型的な実装作業を肩代わりする中、経験の浅いジュニアや中堅エンジニアの採用・育成のあり方が変化しているとの指摘が相次いでいます。一方で『むしろ設計力の価値が上がる』との反論も。"
-            }
-          ],
-          "sources": [
-            {
-              "name": "Hacker News（AI removing the middle class of software engineering）",
-              "url": "https://hn.algolia.com/api/v1/search?query=AI%20middle%20class%20software%20engineering&tags=story"
-            }
-          ]
-        },
-        {
-          "id": "gpt-5-6-sol-ultrafast",
-          "category": "AI",
-          "date": "2026-08-13",
-          "title": "OpenAI系「GPT-5.6 Sol Ultrafast」高速化が話題 HNで360pt超",
-          "summary": "OpenAI系の新型『GPT-5.6 Sol Ultrafast』の応答速度向上がHacker Newsで360ポイント超の反響。各社が精度だけでなく応答速度でも競う流れが強まっている。",
-          "lead": "OpenAI系の新型『GPT-5.6 Sol Ultrafast』について、応答速度の大幅な向上がHacker Newsで話題になっています。",
+          "title": "OpenAI系「GPT-5.6 Sol Ultrafast」をCerebrasが高速化 HNで620pt超",
+          "summary": "半導体スタートアップCerebrasが、OpenAI系モデル『GPT-5.6 Sol』を専用チップで高速化した『Sol Ultrafast』についてブログ公開。Hacker Newsで620ポイント超の反響を呼び、精度競争に加え応答速度（レイテンシ）でも各社が競う流れが強まっている。",
+          "lead": "半導体スタートアップCerebrasが、OpenAI系モデルを専用チップで高速化した『GPT-5.6 Sol Ultrafast』を発表しました。",
           "sections": [
             {
               "heading": "ポイント",
-              "body": "精度競争に加えて応答速度（レイテンシ）でも各社が競う流れが強まっており、リアルタイム性が求められるエージェント用途での使い分けが進みそうです。"
+              "body": "精度競争に加えて応答速度でも各社が競う流れが強まっており、リアルタイム性が求められるエージェント用途での使い分けが進みそうです。"
             }
           ],
           "sources": [
             {
-              "name": "Hacker News（Accelerating GPT-5.6 Sol Ultrafast）",
-              "url": "https://hn.algolia.com/api/v1/search?query=GPT-5.6%20Sol%20Ultrafast&tags=story"
+              "name": "Cerebras公式ブログ（Accelerating GPT-5.6 Sol Ultrafast）",
+              "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+            }
+          ]
+        },
+        {
+          "id": "glm-5-3-0814",
+          "category": "AI",
+          "date": "2026-08-14",
+          "title": "中国Z.ai「GLM-5.3」公開 “コーディング最強”も新興のサイバー能力に懸念の声",
+          "summary": "中国Z.aiが新モデル『GLM-5.3』を公開。フロンティア級のコーディング性能をうたう一方、ブログ自身が「創発的なサイバー能力（emergent cyber capabilities）」に言及しており、HN上でも安全性を巡る議論を呼んでいる。反響は580ポイント超。",
+          "lead": "中国Z.aiが新モデル『GLM-5.3』を公開しました。高いコーディング性能に加え、公式ブログ自身が新たなサイバー関連能力の出現に触れており、議論を呼んでいます。",
+          "sections": [
+            {
+              "heading": "何が論点か",
+              "body": "コーディング性能の高さは歓迎される一方、モデルが意図せず持つようになった『サイバー能力』への言及は、AIの能力向上に伴う安全性リスクとして注目されています。詳細な評価・対策は元記事で確認できます。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Z.ai公式ブログ（GLM-5.3）",
+              "url": "https://z.ai/blog/glm-5.3"
+            }
+          ]
+        },
+        {
+          "id": "mistral-ocr-4-1-0813",
+          "category": "AI",
+          "date": "2026-08-13",
+          "title": "Mistral「OCR 4.1」公開 文書読み取り特化モデルを更新",
+          "summary": "フランスMistral AIが文書OCR特化モデル『OCR 4.1』を公開。Hacker Newsで360ポイント超の反響。汎用チャットモデルだけでなく、用途特化型モデルの改良合戦も続いている。",
+          "lead": "フランスMistral AIが、文書読み取りに特化したモデル『OCR 4.1』を公開しました。",
+          "sections": [
+            {
+              "heading": "ポイント",
+              "body": "汎用の対話モデル競争だけでなく、OCRのような特定タスクに特化したモデルの改良も各社で進んでおり、実務での使い分けが一段と進みそうです。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Mistral AI公式ドキュメント（OCR 4.1）",
+              "url": "https://docs.mistral.ai/models/ocr-4-1"
+            }
+          ]
+        },
+        {
+          "id": "codex-desktop-linux-0813",
+          "category": "AI",
+          "date": "2026-08-13",
+          "title": "OpenAI「Codex」、ChatGPTデスクトップアプリのLinux版でプレビュー開始",
+          "summary": "OpenAIのコーディングエージェント『Codex』が、ChatGPTデスクトップアプリのLinux版でプレビュー提供を開始。HNで450ポイント超の反響。Windows/macOSに続きLinux対応が進み、開発者向けの選択肢が広がっている。",
+          "lead": "OpenAIのコーディングエージェント『Codex』が、ChatGPTデスクトップアプリのLinux版でプレビュー提供を開始しました。",
+          "sections": [
+            {
+              "heading": "ポイント",
+              "body": "Linuxを使う開発者にとってはデスクトップアプリから直接Codexを使える選択肢が増えることになり、コーディングエージェントの対応環境拡大が続いています。"
+            }
+          ],
+          "sources": [
+            {
+              "name": "OpenAI Developer Community（Codex Linux desktop preview）",
+              "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027"
             }
           ]
         }
